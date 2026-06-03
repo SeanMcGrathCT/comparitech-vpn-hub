@@ -1,0 +1,75 @@
+Provider,Overall score /10,Security /10,Speed /10,Streaming /10,System Performance /10,Value for Money /10,Ease of Use /10,Categories scored (of 6),Speed countries covered,Last speed measurement (UTC),Lowest monthly price — intro (USD),Lowest monthly price — renewal (USD),Standard monthly price (USD),Devices Supported,"Median download Mbps (best protocol, benchmark)",Countries Supported,Servers,Logging Policy,Simultaneous Connections,Port forwarding (Yes/No),SmartDNS (Yes/No)
+AdGuard VPN,1.83,4.8,5,0.3,,2.2,,4,,,,,,,,59,0,,10,No,
+AirVPN,1.5,4.3,5,0.3,,1.4,,4,,,,,,,,23,250,,5,Yes,
+Anonymous VPN,1.9,5.3,5,0.3,,2,,4,,,,,,,,23,58,,Unlimited,,
+Astrill,2.58,7,5,0.3,,1.7,3.9,5,,,12.50,30.00,30.00,,,56,142,,5,Yes,
+Astrill VPN,2.42,6.6,5,0.6,,1.4,3.5,5,,,,,,,,0,48,,0,,Yes
+Avast Secureline VPN,1.94,6,5,0.6,,1.5,1.6,5,,,,,,,,0,0,,Unlimited,,
+AVG Secure VPN,1.4,3.9,5,0.3,,1.5,1.3,5,,,,,,,,65,8000,,unlimited,,
+Betternet,1.6,6.1,5,0.6,,0.4,0.9,5,,,,,,,,0,0,,0,,
+Bitdefender VPN,1.78,6.5,5,0.3,,2.1,0,5,,,,,,,,50,4000,,10,,
+BolehVPN,2.23,4.8,5,0.45,,2.6,3.3,5,,,,,,,,45,300,,58,No,
+BulletVPN,2.14,5.9,5,0.9,,2,1.9,5,,,,,,,,27,52,,6,,
+bVPN,1.9,6.1,5,0.3,,1.2,,4,,,,,,,,80,1000,,10,No,
+CactusVPN,2.16,7.4,5,0.6,,2.2,0.6,5,,,,,,,,50,6000,,6,Yes,
+ClearVPN Review,1.6,5.3,5,0.3,,1.3,1.1,5,,,,,,,,0,0,,5,,
+CloudVPN,1.39,5,5,0.15,,0.4,,4,,,,,,,,9,21,,3,,
+CyberGhost,7.56,9,7.76,8.5,5.87,6.1,8,6,6 of 7,2026-06-03T00:07:02Z,1.75,3.79,12.99,"Windows, macOS, iOS, Android, Linux, Chrome, Firefox, Fire TV, Android TV, Apple TV",728.5,91,100,"CyberGhost's privacy policy states it does ""NOT track user traffic performed inside the CyberGhost VPN tunnel such as: browsing history, traffic destination, search preferences, data content, IP addresses or DNS queries."" It also confirms it is ""NOT storing connection logs, meaning that we DON'T have any logs tied to your IP address, connection timestamp or session duration."" Anonymous aggregate service-performance events (e.g., connection attempt counts by country, without source IP) are collected for infrastructure monitoring. Account-related personal data (email, payment info) is retained ""for as long as needed to provide the Service and to comply with our legal obligations.""",5,No,Yes
+ExpressVPN,8.13,9.6,8.21,8.5,6.28,6.8,8.4,6,7 of 7,2026-06-03T11:28:06Z,3.49,8.33,12.99,"Windows, macOS, Linux, iOS, Android, Apple TV, Fire TV, Android TV, Chrome, Firefox, Edge, Router",756.655,105,8000,"ExpressVPN's privacy policy (last updated January 1, 2026) states: ""We do not collect logs of your online activity while you are connected to our Services, including no logging of browsing history, traffic destination, data content, or DNS queries. We also never store connection logs, meaning no logs of your IP address, your outgoing VPN IP address, connection timestamp, or session duration."" The policy does note that minimal usage statistics are collected — specifically whether a VPN connection was made on a given day (not the time), the VPN location connected to (not the assigned IP), and the aggregate sum of data transferred in MB — but explicitly states: ""We do not know which user ever accessed a particular website or service"" and ""we are unable to single out the user."" Any activation-status data is retained for no longer than 24 months.",7,No,Yes
+F-Secure Freedome VPN,1.29,4.4,5,0.15,,1.3,0.6,5,,,,,,,,0,0,,0,,
+FastestVPN,2.12,4.4,5,0.6,,2.2,3.4,5,,,,,,,,23,1000,,Unlimited,,
+FrootVPN,1.8,5.5,5,0.3,,1.4,,4,,,,,,,,55,73,,5,No,
+Goose VPN,2.22,4.4,5,0.6,,2,4.1,5,,,,,,,,30,100,,Unlimited,,
+Hide My Ass!,1.5,3.9,5,0.3,,2.3,1,5,,,,,,,,195,1110,,510,,
+Hide.me,2.28,4.8,5,0.6,,2.8,3.2,5,,,,,,,,60,2600,,10,Yes,
+Hotspot Shield,3.32,7,5,0.8,,2.3,6.5,5,,,,,,"Windows, macOS, iOS, Android, Android TV, Chrome, Firefox",,80,1800,,10,No,No
+HotVPN,1.38,4.8,5,0.3,,0.4,,4,,,,,,,,31,2000,,5,,
+IPVanish,6.17,7.6,5.25,8,6.9,6,7.8,6,7 of 7,2026-06-02T16:57:32Z,2.19,7.50,12.99,"Windows, macOS, Linux, iOS, Android, Chrome OS, Apple TV, Fire TV, Router, Chrome, Firefox, Edge",624.585,105,3000,,8,No,No
+Ironsocket (DNS),1.45,5.3,5,0.45,,0.9,0.6,5,,,,,,,,51,3000,,5,,
+Ivacy,1.92,4.8,5,0.3,,2.4,2.1,5,,,,,,,,55,5700,,10,,
+iVPN,2.44,7.2,5,0.3,,2.2,2.5,5,,,,,,,,40,88,,27,No,
+Keenow,1.56,6.5,5,0.6,,0.7,0,5,,,,,,,,0,43,,5,,
+Lantern (not a VPN - web-browser-based service),1.3,4.7,5,0.3,,0.4,1.1,5,,,,,,,,18,0,,0,,
+Monster VPN,1.48,4.3,5,0.3,,1.7,1.1,5,,,,,,,,55,100,,8,,
+Mullvad VPN,2.3,7.3,5,0.3,,1.8,2.1,5,,,,,,,,49,50,,6,No,
+NoLagVPN,1.25,3.8,5,0.15,,0.5,1.8,5,,,,,,,,21,0,,No,No,
+NordVPN,7.86,9.6,7.83,8.7,5.87,6,8.9,6,7 of 7,2026-06-03T10:26:16Z,3.09,11.59,12.99,"Windows, macOS, Linux, Android, iOS, Chrome, Firefox, Edge, Android TV, Apple TV",727.525,118,7425,"NordVPN's privacy notice states: ""Nord guarantees a strict no-logs policy for NordVPN Services, meaning that your internet activity while using NordVPN Services is not monitored, recorded, logged, stored, or passed on to any third party. We do not store used bandwidth, traffic logs, IP addresses, or browsing information."" Two narrow data points are retained: (1) ""last session information"" used to enforce concurrent-session limits, ""automatically deleted within 15 minutes after a session is terminated""; and (2) a binary record of ""whether a user has used the NordVPN Service within the last 90 days,"" kept for abuse prevention and chargeback disputes. No connection timestamps, originating IPs, or browsing activity are retained.",10,No,Yes
+Norton Secure VPN,1.54,3.9,5,0.6,,2.2,1,5,,,,,,,,22,36,,unlimited,No,
+Oeck VPN,3.54,7.9,5,0.5,,4.3,5,5,,,,,,"Windows, Linux, Android, Router",,3,0,,6,Yes,
+OneVPN,1.8,5.5,5,0.3,,1.4,,4,,,,,,,,41,95,,6,Yes,
+Overplay (DNS),1.74,4.8,5,0.45,,1.7,,4,,,,,,,,60,2500,,10,No,
+OVPN,1.98,6.4,5,0.3,,1.2,,4,,,,,,,,20,118,,456,Yes,
+Perfect Privacy,1.88,6.3,5,0.3,,0.9,,4,,,,,,,,0,0,,0,,
+PrivadoVPN,1.98,4.4,5,0.9,,1.9,2.7,5,,,,,,,,49,311,,10,,
+Private Internet Access,5.08,8.7,5,1.1,,7.6,8,5,,,1.59,2.13,11.95,"Windows, macOS, Linux, Android, iOS, Chrome, Firefox, Android TV, Apple TV, Fire TV, Router",,100,17000,,Unlimited,Yes,Yes
+PrivateVPN,4.32,7.2,5,0.7,,7.2,6.5,5,,,2.00,6.00,9.90,"Windows, macOS, iOS, Android, Fire TV, Chrome",,63,200,,10,Yes,No
+ProtonVPN,6.52,8.3,6.12,8.2,7.94,7.3,4.2,6,7 of 7,2026-06-02T23:55:42Z,2.99,6.99,9.99,,641.47,117,12660,,10,Yes,No
+PureVPN,4.28,7.7,5,0.7,,5.3,7.7,5,,,2.15,47.95,12.95,"Windows, macOS, iOS, Android, Linux, Chrome, Firefox, Edge, Apple TV, Android TV, Fire TV, Router",,66,6000,,10,Yes,Yes
+Rocket VPN,1.62,4.8,5,0.3,,1.8,1.2,5,,,,,,,,50,21000,,5,No,
+Smart DNS Proxy,1.43,4.4,5,0.9,,0.4,,4,,,,,,,,24,39,,5,,
+Speedify,2.4,6.2,5,0.3,,1.3,4.2,5,,,,,,,,36,56,,5,,
+StrongVPN,3.06,6.1,5,0.8,,3.9,4.5,5,,,,,,,,30,950,,12,,Yes
+SurfEasy VPN,1.24,4.4,5,0.15,,0.4,,4,,,,,,,,24,0,,3,,
+Surfshark,7.26,8.9,6.76,8.2,8.35,6.8,6.3,6,7 of 7,2026-06-03T12:17:13Z,1.99,6.58,15.45,"Windows, macOS, Linux, Android, iOS, Apple TV, Fire TV, Chrome, Firefox, Edge",718.27,100,3200,"Surfshark's privacy policy (§1, §2.2.1) states: ""We do not collect any information about what you do online (i.e., we do not collect your visited IP addresses, browsing history, session information, connection time stamps, used bandwidth, network traffic or any other similar information)."" During an active VPN session, servers ""temporarily keep details about your connection to a specific VPN server, such as your user ID and / or your IP address and connection to VPN server time stamps,"" but this data ""is automatically deleted within 15 minutes after your session ends."" Account-level data (email, subscription info) is retained for the duration of the subscription plus 2 years after the last login.",Unlimited,No,Yes
+Torguard,1.55,3.9,5,0.6,,1.7,,4,,,,,,,,50,3000,,81230,Yes,
+Total VPN,6.33,6.3,6.78,8.2,7.11,5.8,5.5,6,7 of 7,2026-06-02T22:07:21Z,8.25,8.25,9.99,"Windows, macOS, iOS, Android, Chrome, Firefox, Edge",781.635,112,2400,"Total VPN's privacy policy (effective 28 November 2025) states under §3 that the company automatically collects 'browser type, IP address, pages visited and other activities on the Services, device type, time and date of visit' via cookies and similar technologies; the U.S. Privacy Rights Addendum further lists 'Internet or other electronic network activity information (such as browsing history, search history, or interactions with a website or email)' and 'Geolocation information (such as IP address)' as categories of personal information collected and disclosed. The policy makes no explicit no-logs pledge for VPN tunnel traffic and provides no specific connection-log or bandwidth-log exclusion. On retention, the policy states: 'We retain personal information that we collect for as long as we need to use it in connection with our business and in accordance with our standard practices or in compliance with applicable laws,' with no fixed deletion timeframe specified.",Unlimited,No,No
+TunnelBear,2.06,6.1,5,0.3,,1.5,2.4,5,,,,,,,,47,5000,,unlimited,,
+TurboVPN,2.1,6.6,5,0.9,,0.9,2.1,5,,,,,,,,11,0,,5,,
+Ultra VPN,1.7,6.1,5,0.3,,0.4,,4,,,,,,,,7,150,,2,,
+Ultrasurf,1.3,4.3,5,0.3,,0.9,1,5,,,,,,,,44,86,,6,No,
+UltraVPN,1.58,6.1,5,0.3,,1.5,0,5,,,,,,,,116,1300,,10,No,No
+Unblock VPN,1.93,5.5,5,0.3,,1.9,,4,,,,,,,,49,800,,10,Yes,
+Unlocator VPN,1.9,6,5,0.6,,2.1,0.8,5,,,,,,,,50,700,,10,No,
+VeePN,2.28,7,5,0.6,,1.5,2.3,5,,,,,,,,40,80,,Unlimited,,
+VPN Proxy Master,2.38,6.1,5,0.6,,3.1,2.1,5,,,,,,,,6,12,,Unlimited,No,
+VPN Shield,1.5,4.9,5,0.3,,1.3,1,5,,,,,,,,9,50,,5,,
+VPN Unlimited,2.06,6.9,5,0.45,,0.9,,4,,,,,,,,12,35,,3,Yes,
+VPNArea,2.15,6.2,5,0.6,,1.8,,4,,,,,,,,69,480,,Unlimited,Yes,
+VPNBook,1.61,6.2,5,0.15,,0.5,1.2,5,,,,,,,,0,0,,0,,
+VPNGate,1.26,4.4,5,0.3,,0.9,0.7,5,,,,,,,,0,0,,0,,
+VPNSecure,1.68,4.4,5,0.6,,2,1.4,5,,,,,,,,21,42,,Unlimited,Yes,
+VyprVPN,2.12,6.5,5,0.6,,1.2,2.3,5,,,,,,,,70,700,,10,No,Yes
+Windscribe,2.5,7.3,5,0.3,,2.4,2.5,5,,,,,,,,36,700,,10,No,No
+Witopia VPN,2.04,6.5,5,0.3,,0.9,2.5,5,,,,,,,,40,650,,5,No,
+X-VPN,2.82,6.6,5,0.6,,2.6,4.3,5,,,,,,,,30,0,,1510,No,
+ZoogVPN ,2.62,6.6,5,0.6,,2.5,3.4,5,,,,,,,,70,119,,Unlimited,No,
