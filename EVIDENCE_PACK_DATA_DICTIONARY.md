@@ -88,6 +88,13 @@ profile (price, jurisdiction, refund window) genuinely is documentation, not
 something you measure — it simply keeps researched facts from posing as measured
 ones.
 
+**Which pillars are measured vs researched:** **Speed**, **Streaming** and **System
+Performance** are scored from controlled fleet measurements; **Value for Money** and
+**Ease of Use** from researched facts; **Security** is mixed (leak tests are
+measured; audit recency, jurisdiction and no-logs status are researched). So a
+provider's Speed/Streaming/System-Performance numbers carry more measurement weight
+than its Value/Ease numbers.
+
 ---
 
 ## File 1 — `Comparitech_Raw_Telemetry.csv` (the scorecard)
@@ -103,6 +110,8 @@ One row per provider: its scores first, then its headline facts. An empty cell m
 | `Categories scored (of 6)` | How many of the six categories had enough data to be scored — a completeness signal for the overall. | — |
 | `Speed countries covered` | How many of the target speed-test countries were actually measured, e.g. `6 of 7`. The feature file's `_coverage` row lists which (and which are missing). Empty = Speed not measured yet. | Measured |
 | `Last speed measurement (UTC)` | When the provider's most recent speed sample was actually taken on the fleet — the real freshness anchor, **not** the score-recompute time. | Measured |
+| `Netflix`, `Disney+`, `BBC iPlayer`, `ITVX` | Whether the VPN unblocked each service on its most recent test: `working`, `blocked`, or `partial`. **Blank = not tested in the window — treat as unknown, not a failure.** | Measured |
+| `Streaming services last tested (UTC)` | When the per-service checks above were last run (14-day window, same as the Streaming score, so they can't contradict it). | Measured |
 | `Lowest monthly price — intro (USD)` | Cheapest monthly-equivalent on the introductory term. | Researched |
 | `Lowest monthly price — renewal (USD)` | Monthly-equivalent once the intro term ends. | Researched |
 | `Standard monthly price (USD)` | Month-to-month price with no commitment. | Researched |
@@ -110,6 +119,7 @@ One row per provider: its scores first, then its headline facts. An empty cell m
 | `Median download Mbps (best protocol, benchmark)` | **Measured** median download throughput on the provider's fastest protocol. Empty = not yet benchmarked. | Measured |
 | `Countries Supported` | Advertised number of countries with servers. | Provider-stated |
 | `Servers` | Advertised total server count. | Provider-stated |
+| `No-logs status` | Verification level of the no-logs claim: `audited` (independently audited), `claimed` (vendor states it, not independently audited), or `logs_kept` (does retain logs). | Researched |
 | `Logging Policy` | Summary of what the provider records, from its privacy policy. | Researched |
 | `Simultaneous Connections` | Devices connectable at once (number or `Unlimited`). | Provider-stated |
 | `Port forwarding (Yes/No)` | Supports port forwarding. | Researched |
@@ -194,6 +204,6 @@ math is transparent:
 
 ## Snapshot
 
-- **Exported (UTC):** 2026-06-03T12:19:59Z
+- **Exported (UTC):** 2026-06-12T15:57:54Z
 - **Speed reference band:** 5.0–8.5 (frozen for quarter 2026-04-01, flavor `uk_weighted`) — the fixed floor/ceiling used to place Speed on the 0–10 scale in the overall.
 - Values are live as of export; benchmarking runs continuously, so re-download for the latest.
