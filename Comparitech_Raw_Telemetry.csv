@@ -1,5 +1,5 @@
 Provider,Overall score /10,Security /10,Speed /10,Streaming /10,System Performance /10,Value for Money /10,Ease of Use /10,Categories scored (of 6),Speed countries covered,Last speed measurement (UTC),Netflix,Disney+,BBC iPlayer,ITVX,Streaming services last tested (UTC),Lowest monthly price — intro (USD),Lowest monthly price — renewal (USD),Standard monthly price (USD),Devices Supported,"Median download Mbps (best protocol, benchmark)",Countries Supported,Servers,No-logs status,Logging Policy,Simultaneous Connections,Port forwarding (Yes/No),SmartDNS (Yes/No)
-AdGuard VPN,2.19,4.9,5.0,0.3,,3.26,2.1,5,,,,,,,,,,,"Windows, macOS, Android, iOS, Apple TV, Android TV, Linux, Router, Chrome",,62,0,logs_kept,,10,No,
+AdGuard VPN,2.46,4.9,5.0,0.3,,5.86,2.1,5,,,,,,,,2.99,,11.99,"Windows, macOS, Android, iOS, Apple TV, Android TV, Linux, Router, Chrome",,62,0,logs_kept,,10,No,
 AirVPN,1.68,3.7,5.0,0.3,,1.45,,4,,,,,,,,,,,,,23,250,,,5,Yes,
 Anonymous VPN,2.08,5.2,5.0,0.15,,4.35,2.3,5,,,,,,,,5.75,5.75,12.00,"Windows, macOS, Android, Router, iOS",,22,1000,logs_kept,,3,No,No
 Astrill,3.03,6.7,5.0,0.6,,2.55,5.02,5,,,,,,,,12.50,30.00,30.00,"Windows, macOS, Linux, iOS, Android, Router",,56,300,logs_kept,,5,Yes,Yes
@@ -30,7 +30,7 @@ Ivacy,2.06,4.2,5.0,0.3,,2.56,2.3,5,,,,,,,,,,,,,55,5700,,,10,,
 iVPN,2.72,7.4,5.0,0.15,,5.3,5.1,5,,,,,,,,6.00,6.00,6.00,"Windows, macOS, iOS, Android, Linux, Router",,41,88,claimed,,5/10,No,No
 Keenow,0.91,5.7,5.0,0.3,,0.75,0.0,5,,,,,,,,,,,,,0,43,,,5,,
 Lantern (not a VPN - web-browser-based service),1.29,4.5,5.0,0.15,,0.75,1.4,5,,,,,,,,,,,,,18,0,,,0,,
-Monster VPN,1.98,3.9,5.0,0.3,,3.75,1.4,5,,,,,,,,4.75,4375.00,8.50,,,18,50,,,5,,
+Monster VPN,2.04,3.9,5.0,0.3,,3.75,1.6,5,,,,,,,,4.75,4375.00,8.50,,,18,50,,,5,,
 Mullvad VPN,2.96,7.2,5.0,0.3,,5.55,3.8,5,,,,,,,,5.77,5.77,5.77,"Windows, macOS, Linux, Router, Android TV, Fire TV",,50,540,claimed,,5,No,No
 NoLagVPN,1.92,3.6,5.0,0.15,,4.8,2.0,5,,,,,,,,2.99,2.99,7.90,,,21,0,,,No,No,
 NordVPN,8.0,10.0,6.0,10.0,,6.26,8.72,5,7 of 7,2026-06-12T10:06:24Z,working,,,working,2026-06-12T09:57:29Z,3.09,11.59,12.99,"Windows, macOS, Linux, iOS, Android, Android TV, Apple TV, Fire TV, Router, Chrome, Firefox, Edge, Chromebook",697.86,135,8000,audited,"NordVPN's privacy notice states: ""Nord guarantees a strict no-logs policy for NordVPN Services, meaning that your internet activity while using NordVPN Services is not monitored, recorded, logged, stored, or passed on to any third party. We do not store used bandwidth, traffic logs, IP addresses, or browsing information."" Two narrow data points are retained: (1) ""last session information"" used to enforce concurrent-session limits, ""automatically deleted within 15 minutes after a session is terminated""; and (2) a binary record of ""whether a user has used the NordVPN Service within the last 90 days,"" kept for abuse prevention and chargeback disputes. No connection timestamps, originating IPs, or browsing activity are retained.",10,No,Yes

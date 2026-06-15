@@ -48,7 +48,7 @@ AdGuard VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editor
 AdGuard VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 AdGuard VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 AdGuard VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-AdGuard VPN,ValueForMoney,_section_total,Overall,,3.26,calculated
+AdGuard VPN,ValueForMoney,_section_total,Overall,,5.86,calculated
 AdGuard VPN,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
 AdGuard VPN,ValueForMoney,Connection limit tier,Overall,10_plus,1.36,editorial_default
 AdGuard VPN,ValueForMoney,Country count,Overall,30_to_59,,manual_admin
@@ -56,9 +56,13 @@ AdGuard VPN,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 AdGuard VPN,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
 AdGuard VPN,ValueForMoney,Includes dark web monitor,Overall,no,0.00,editorial_default
 AdGuard VPN,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_default
+AdGuard VPN,ValueForMoney,Intro lowest price tier,Overall,under_3_usd,1.00,editorial_default
 AdGuard VPN,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial_default
+AdGuard VPN,ValueForMoney,Monthly price tier,Overall,10_to_12,0.70,editorial_default
+AdGuard VPN,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
 AdGuard VPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 AdGuard VPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
+AdGuard VPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 AirVPN,Security,_section_total,Overall,,3.70,calculated
 AirVPN,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
 AirVPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
@@ -2239,7 +2243,7 @@ Lantern (not a VPN - web-browser-based service),ValueForMoney,Anonymous payments
 Lantern (not a VPN - web-browser-based service),ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
 Lantern (not a VPN - web-browser-based service),ValueForMoney,Country count,Overall,under_30,,manual_admin
 Lantern (not a VPN - web-browser-based service),ValueForMoney,Subscription term count,Overall,two,0.30,manual_admin
-Monster VPN,EaseOfUse,_section_total,Overall,,1.40,calculated
+Monster VPN,EaseOfUse,_section_total,Overall,,1.60,calculated
 Monster VPN,EaseOfUse,Country count,Overall,under_30,0.20,manual_admin
 Monster VPN,EaseOfUse,Linux support,Overall,app_cli_only,0.30,manual_admin
 Monster VPN,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
