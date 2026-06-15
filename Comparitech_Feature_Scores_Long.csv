@@ -4110,8 +4110,8 @@ Total VPN,Streaming,Simultaneous stream capacity,Overall,under_4,0.15,editorial_
 Total VPN,Streaming,Streaming device apps,Overall,2_or_3,0.40,manual_admin
 Total VPN,Streaming,Streaming hub coverage,Overall,3_plus_hubs,,benchmark_run
 Total VPN,Streaming,Streaming unblock toolkit,Overall,no,0.00,editorial_default
-Total VPN,Streaming,Streaming v3 coverage,Overall,"4 services scored, 0 excluded (noise/unconfirmed) in 14d window",,calculated
-Total VPN,Streaming,Streaming v3 tier1 pct,Overall,100.0% (2 svc scored),,calculated
+Total VPN,Streaming,Streaming v3 coverage,Overall,"3 services scored, 1 excluded (noise/unconfirmed) in 14d window",,calculated
+Total VPN,Streaming,Streaming v3 tier1 pct,Overall,100.0% (1 svc scored),,calculated
 Total VPN,Streaming,Streaming v3 tier2 pct,Overall,100.0% (2 svc scored),,calculated
 Total VPN,Streaming,Streaming v3 tier3 pct,Overall,100.0% (assumed from T2 — T3 not yet benchmarked),,calculated
 Total VPN,Streaming,Tier1 streaming,Overall,most_3_or_4,2.40,benchmark_run
