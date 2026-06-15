@@ -5,7 +5,7 @@ AdGuard VPN,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
 AdGuard VPN,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
 AdGuard VPN,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
 AdGuard VPN,EaseOfUse,Streaming device apps eou,Overall,2_plus,0.50,editorial_default
-AdGuard VPN,Security,_section_total,Overall,,4.90,calculated
+AdGuard VPN,Security,_section_total,Overall,,5.20,calculated
 AdGuard VPN,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
 AdGuard VPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
 AdGuard VPN,Security,Encryption strength,Overall,aes_128_or_higher,0.60,manual_admin
@@ -15,6 +15,7 @@ AdGuard VPN,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_defaul
 AdGuard VPN,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 AdGuard VPN,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
 AdGuard VPN,Security,No logs policy status,Overall,logs_kept,0.00,editorial_default
+AdGuard VPN,Security,Restrictive region access,Overall,yes,0.30,editorial_default
 AdGuard VPN,Security,Rsa key length,Overall,2048,0.10,manual_admin
 AdGuard VPN,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 AdGuard VPN,Speed,_section_total,Overall,,7.80,calculated
@@ -48,7 +49,7 @@ AdGuard VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editor
 AdGuard VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 AdGuard VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 AdGuard VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-AdGuard VPN,ValueForMoney,_section_total,Overall,,5.86,calculated
+AdGuard VPN,ValueForMoney,_section_total,Overall,,5.56,calculated
 AdGuard VPN,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
 AdGuard VPN,ValueForMoney,Connection limit tier,Overall,10_plus,1.36,editorial_default
 AdGuard VPN,ValueForMoney,Country count,Overall,30_to_59,,manual_admin
@@ -59,7 +60,8 @@ AdGuard VPN,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_de
 AdGuard VPN,ValueForMoney,Intro lowest price tier,Overall,under_3_usd,1.00,editorial_default
 AdGuard VPN,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial_default
 AdGuard VPN,ValueForMoney,Monthly price tier,Overall,10_to_12,0.70,editorial_default
-AdGuard VPN,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
+AdGuard VPN,ValueForMoney,Pricing consistency,Overall,extreme,0.30,editorial_default
+AdGuard VPN,ValueForMoney,Renewal lowest price tier,Overall,over_10,0.00,editorial_default
 AdGuard VPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 AdGuard VPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 AdGuard VPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default

@@ -13,8 +13,9 @@ questions about a provider *and* judge how much to trust each value.
 
 | File | One row per | Contains |
 |---|---|---|
-| `Comparitech_Raw_Telemetry.csv` | provider | **The scorecard** — the six category scores + overall, plus headline facts (price, speed, servers, logging policy…). |
+| `Comparitech_Raw_Telemetry.csv` | provider | **The scorecard** — the six category scores + overall, plus headline facts (price, speed, servers, no-logs status…). |
 | `Comparitech_Feature_Scores_Long.csv` | provider × criterion × protocol | The graded evidence behind every score. |
+| `logging_policies.json` | provider | Full no-logs / logging-policy prose, keyed by provider — kept out of the flat CSV so verbose quoted text can't break naive parsers/spreadsheets. |
 | `use-cases/<slug>_scorecard.{json,csv}` + `use-cases/<slug>_streaming_long.csv` | use case (article) | A page-specific chart's own data — its criteria, per-provider point contributions, curated provider set, and per-region streaming evidence (File 3). |
 
 All values are read live from the benchmark database at the moment of download.
@@ -122,8 +123,7 @@ One row per provider: its scores first, then its headline facts. An empty cell m
 | `Median download Mbps (best protocol, benchmark)` | **Measured** median download throughput on the provider's fastest protocol. Empty = not yet benchmarked. | Measured |
 | `Countries Supported` | Advertised number of countries with servers. | Provider-stated |
 | `Servers` | Advertised total server count. | Provider-stated |
-| `No-logs status` | Verification level of the no-logs claim: `audited` (independently audited), `claimed` (vendor states it, not independently audited), or `logs_kept` (does retain logs). | Researched |
-| `Logging Policy` | Summary of what the provider records, from its privacy policy. | Researched |
+| `No-logs status` | Verification level of the no-logs claim: `audited` (independently audited), `claimed` (vendor states it, not independently audited), or `logs_kept` (does retain logs). The full policy prose is in **`logging_policies.json`** (keyed by provider), deliberately kept out of this CSV so quoted multi-sentence text doesn't break flat-file parsers. | Researched |
 | `Simultaneous Connections` | Devices connectable at once (number or `Unlimited`). | Provider-stated |
 | `Port forwarding (Yes/No)` | Supports port forwarding. | Researched |
 | `SmartDNS (Yes/No)` | Offers a Smart DNS service. | Researched |
