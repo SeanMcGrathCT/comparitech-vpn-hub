@@ -1,5 +1,5 @@
 {
-  "exported_at_utc": "2026-06-15T12:40:07.134004+00:00",
+  "exported_at_utc": "2026-06-15T12:41:08.284836+00:00",
   "schema_version": "a979f578c07f",
   "curve_quarter": "2026-04-01",
   "speed_reference_band": "5.0-8.5",
@@ -15,6 +15,7 @@
   },
   "files": [
     "Comparitech_Raw_Telemetry.csv",
-    "Comparitech_Feature_Scores_Long.csv"
+    "Comparitech_Feature_Scores_Long.csv",
+    "EVIDENCE_PACK_DATA_DICTIONARY.md"
   ]
 }

@@ -5,14 +5,17 @@ This dataset is an independent comparison of consumer VPN providers. It pairs
 **researched provider facts**, and distils them into 0–10 scores across six
 categories plus the underlying evidence for each score.
 
-It ships as two CSV files. This document defines every field and explains how to
-read the numbers, so an automated reader can answer questions about a provider
-*and* judge how much to trust each value.
+It ships as two site-wide CSV files, plus — for each use-case article (e.g.
+"best VPN for Netflix") — an optional **per-use-case scorecard pack** carrying
+the exact data behind that page's chart (see File 3). This document defines every
+field and explains how to read the numbers, so an automated reader can answer
+questions about a provider *and* judge how much to trust each value.
 
 | File | One row per | Contains |
 |---|---|---|
 | `Comparitech_Raw_Telemetry.csv` | provider | **The scorecard** — the six category scores + overall, plus headline facts (price, speed, servers, logging policy…). |
 | `Comparitech_Feature_Scores_Long.csv` | provider × criterion × protocol | The graded evidence behind every score. |
+| `use-cases/<slug>_scorecard.{json,csv}` + `use-cases/<slug>_streaming_long.csv` | use case (article) | A page-specific chart's own data — its criteria, per-provider point contributions, curated provider set, and per-region streaming evidence (File 3). |
 
 All values are read live from the benchmark database at the moment of download.
 
@@ -160,6 +163,67 @@ math is transparent:
 
 ---
 
+## File 3 — per-use-case scorecard packs (`use-cases/<slug>_*`)
+
+Each use-case article has its own evidence pack: the exact data behind the chart
+embedded on that page, so its specific claims are verifiable without
+reverse-engineering. Present only for use cases that have been generated; one set
+of files per article, named by the article slug.
+
+**Why this is separate from File 1.** The scorecard above is the *site-wide*
+view — one overall row per provider, one streaming status per service. A use-case
+chart is a *different, use-case-specific* composite, scored only on the criteria
+chosen for that page (e.g. Netflix US unblock rate, simultaneous connections, US
+speed retention, price) and shown for a provider set curated for that page. **A
+use-case score is therefore not the provider's overall VPN score** — the pack
+carries its own columns and a per-provider `overall_score` so the two reconcile.
+
+### `<slug>_scorecard.json` (primary, machine-readable)
+
+| Field | Meaning |
+|---|---|
+| `use_case`, `article_url` | The page this pack backs. |
+| `snapshot` | `{ id, version, generated_at, locked_at }` — the exact chart version and when it was scored (the freshness anchor for the page). |
+| `scoring_template` | `{ model_id, prompt_version, umbrella, umbrella_version }` — the rubric version, so the result is reproducible. |
+| `composite_basis` | Always `use_case_specific_not_overall_vpn_score` — a reminder this score ≠ the provider's overall rating. |
+| `price_basis` | Basis of any price criterion — `intro_monthly_equivalent` (cheapest introductory monthly-equivalent), so an intro price is never mistaken for a renewal price. |
+| `providers_scored_total`, `providers_shown` | How many providers were scored vs shown on the chart — explains an "N benchmarked, M shown" gap. |
+| `dimensions[]` | Each scored criterion: `field`, `label`, `weight`, `curve_id` (+ `price_basis` on price fields). |
+| `inclusion` | `{ policy, included[], excluded[ { provider_slug, reason, type } ] }`. `type` is `auto_incomplete_data` (provider missing data on a scored criterion — can't be honestly ranked here) or `editorial` (an analyst dropped it, with a reason). |
+| `providers[]` | Per provider: `provider_slug`, `display_name`, `rank`, `composite_score`, `included_in_chart`, `exclusion_reason`, **`overall_score`** (the site-wide rating — the bridge to File 1 and the hub), and `dimensions{ field → { raw, display, points, sample_count, state } }`. |
+
+`display` is the reader-facing rendering of `raw` (e.g. the `999` "unlimited"
+connections sentinel shows as `Unlimited`); `points` is what that criterion
+contributed to the composite; `state` is `scored` or `missing_data`.
+
+### `<slug>_scorecard.csv` (flat)
+
+The same per-provider rows as a spreadsheet: `provider_slug`,
+`provider_display_name`, `rank`, `composite_score`, `included_in_chart`,
+`exclusion_reason`, then `<field>__raw` / `<field>__display` / `<field>__points`
+for each criterion, then `overall_score` and `price_basis`.
+
+### `<slug>_streaming_long.csv` (per-region streaming evidence)
+
+The raw streaming results behind a page's per-region / per-service claims — one
+row per (provider, service, target region):
+
+| Column | Meaning |
+|---|---|
+| `provider_slug`, `provider_display_name` | Provider. |
+| `service`, `target_region` | e.g. `netflix` / `US`. |
+| `runs` | Distinct test sessions (soaks) in the 14-day window. |
+| `verdict_tests`, `working`, `partial`, `blocked` | Verdict-bearing tests and their outcomes. Infra/detection errors are excluded, never counted as failures. |
+| `latest_status`, `last_tested_utc` | Most recent verdict and when it ran. |
+| `is_proxied` | `true` for synthetic rows — currently Hulu, measured via the Disney+ US bundle rather than tested directly. |
+
+These are **raw verdict counts**. The Streaming *score* applies STREAMING-V3.1
+run-grouping + transient tolerance on top (a single transient `blocked` need not
+lower a published unblock rate), so a 100% chart figure can legitimately coexist
+with an occasional `blocked` row here.
+
+---
+
 ## How the measurements are made (why the scores are credible)
 
 - **Speed** — download, upload, latency, jitter and packet loss measured across
@@ -172,7 +236,12 @@ math is transparent:
   window, weighted by how in-demand each service is.
 - **Security** — automated leak tests (DNS, IPv4, IPv6, WebRTC) reported with
   statistical confidence, plus researched independent-audit recency, headquarters
-  jurisdiction, and anonymous-payment options.
+  jurisdiction, and anonymous-payment options. When a provider *persistently*
+  misroutes (advertises country X, repeatedly exits country Y, rDNS-confirmed),
+  an `advertised_location_accuracy` row records the location integrity (0.5–1.0)
+  and the scorer applies a capped Security deduction (≤0.5 pt). Like the
+  server-location findings it derives from, it is **withheld pending responsible
+  disclosure** (note 5) — absent until that surface goes public.
 - **System Performance** — the extra CPU and memory the VPN app consumes versus an
   idle baseline on the same machine, measured like-for-like.
 - **Value for Money** and **Ease of Use** — researched catalogue facts (pricing,
@@ -199,11 +268,3 @@ math is transparent:
    provider), not an assumption that everything is current. The **Snapshot** at
    the end of this download (or the file pack's `manifest.json`) stamps the export
    time and the Speed reference band/quarter in effect.
-
----
-
-## Snapshot
-
-- **Exported (UTC):** 2026-06-12T15:57:54Z
-- **Speed reference band:** 5.0–8.5 (frozen for quarter 2026-04-01, flavor `uk_weighted`) — the fixed floor/ceiling used to place Speed on the 0–10 scale in the overall.
-- Values are live as of export; benchmarking runs continuously, so re-download for the latest.
