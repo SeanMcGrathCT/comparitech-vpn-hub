@@ -1,12 +1,17 @@
 Provider,Category,Feature,Protocol,Raw_Value,Score,Provenance
-AdGuard VPN,EaseOfUse,_section_total,Overall,,2.10,calculated
+AdGuard VPN,EaseOfUse,_section_total,Overall,,4.30,calculated
+AdGuard VPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 AdGuard VPN,EaseOfUse,Browser extensions,Overall,1_plus,0.50,editorial_default
+AdGuard VPN,EaseOfUse,Ease of cancellation,Overall,very_easy,0.40,editorial_default
 AdGuard VPN,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
 AdGuard VPN,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
+AdGuard VPN,EaseOfUse,Quick connect,Overall,yes,0.80,manual_admin
 AdGuard VPN,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
 AdGuard VPN,EaseOfUse,Streaming device apps eou,Overall,2_plus,0.50,editorial_default
+AdGuard VPN,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
 AdGuard VPN,Security,_section_total,Overall,,5.20,calculated
 AdGuard VPN,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
+AdGuard VPN,Security,Authentication strength,Overall,,,manual_admin
 AdGuard VPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
 AdGuard VPN,Security,Encryption strength,Overall,aes_128_or_higher,0.60,manual_admin
 AdGuard VPN,Security,Hq jurisdiction,Overall,outside_14_eyes,0.50,calculated
@@ -15,6 +20,8 @@ AdGuard VPN,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_defaul
 AdGuard VPN,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 AdGuard VPN,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
 AdGuard VPN,Security,No logs policy status,Overall,logs_kept,0.00,editorial_default
+AdGuard VPN,Security,Obfuscation available,Overall,yes,0.50,manual_admin
+AdGuard VPN,Security,Perfect forward secrecy,Overall,yes,0.30,manual_admin
 AdGuard VPN,Security,Restrictive region access,Overall,yes,0.30,editorial_default
 AdGuard VPN,Security,Rsa key length,Overall,2048,0.10,manual_admin
 AdGuard VPN,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
@@ -49,11 +56,12 @@ AdGuard VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editor
 AdGuard VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 AdGuard VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 AdGuard VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-AdGuard VPN,ValueForMoney,_section_total,Overall,,5.56,calculated
+AdGuard VPN,ValueForMoney,_section_total,Overall,,6.06,calculated
 AdGuard VPN,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
+AdGuard VPN,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
 AdGuard VPN,ValueForMoney,Connection limit tier,Overall,10_plus,1.36,editorial_default
 AdGuard VPN,ValueForMoney,Country count,Overall,30_to_59,,manual_admin
-AdGuard VPN,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
+AdGuard VPN,ValueForMoney,Free trial available,Overall,yes,0.40,manual_admin
 AdGuard VPN,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
 AdGuard VPN,ValueForMoney,Includes dark web monitor,Overall,no,0.00,editorial_default
 AdGuard VPN,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_default
@@ -1418,6 +1426,11 @@ FastestVPN,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 FastestVPN,ValueForMoney,Student discount,Overall,yes,0.20,manual_admin
 FastestVPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 FastestVPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
+FrootVPN,EaseOfUse,_section_total,Overall,,0.50,calculated
+FrootVPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
+FrootVPN,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
+FrootVPN,EaseOfUse,Router support,Overall,none,0.00,editorial_default
+FrootVPN,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
 FrootVPN,Security,_section_total,Overall,,4.90,calculated
 FrootVPN,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
 FrootVPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
@@ -1443,6 +1456,7 @@ FrootVPN,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_default
 FrootVPN,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
 FrootVPN,Streaming,_section_total,Overall,,0.30,calculated
 FrootVPN,Streaming,Android tv app,Overall,,0.00,comparitech_api
+FrootVPN,Streaming,Browser extensions,Overall,no,,editorial_default
 FrootVPN,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 FrootVPN,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 FrootVPN,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
@@ -1460,14 +1474,20 @@ FrootVPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial
 FrootVPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 FrootVPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 FrootVPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-FrootVPN,ValueForMoney,_section_total,Overall,,1.45,calculated
+FrootVPN,ValueForMoney,_section_total,Overall,,4.25,calculated
 FrootVPN,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
 FrootVPN,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
 FrootVPN,ValueForMoney,Country count,Overall,30_to_59,,manual_admin
 FrootVPN,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 FrootVPN,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+FrootVPN,ValueForMoney,Intro lowest price tier,Overall,5_to_7,0.50,editorial_default
+FrootVPN,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial_default
+FrootVPN,ValueForMoney,Monthly price tier,Overall,over_14,0.00,editorial_default
+FrootVPN,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
+FrootVPN,ValueForMoney,Renewal lowest price tier,Overall,5_to_7,0.50,editorial_default
 FrootVPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 FrootVPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
+FrootVPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 Goose VPN,EaseOfUse,_section_total,Overall,,5.60,calculated
 Goose VPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 Goose VPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
