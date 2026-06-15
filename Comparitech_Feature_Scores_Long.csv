@@ -1,11 +1,21 @@
 Provider,Category,Feature,Protocol,Raw_Value,Score,Provenance
-AdGuard VPN,Security,_section_total,Overall,,4.20,calculated
+AdGuard VPN,EaseOfUse,_section_total,Overall,,2.10,calculated
+AdGuard VPN,EaseOfUse,Browser extensions,Overall,1_plus,0.50,editorial_default
+AdGuard VPN,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
+AdGuard VPN,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
+AdGuard VPN,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
+AdGuard VPN,EaseOfUse,Streaming device apps eou,Overall,2_plus,0.50,editorial_default
+AdGuard VPN,Security,_section_total,Overall,,4.90,calculated
 AdGuard VPN,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
 AdGuard VPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
+AdGuard VPN,Security,Encryption strength,Overall,aes_128_or_higher,0.60,manual_admin
 AdGuard VPN,Security,Hq jurisdiction,Overall,outside_14_eyes,0.50,calculated
+AdGuard VPN,Security,Independent audit,Overall,none,0.00,editorial_default
 AdGuard VPN,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 AdGuard VPN,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 AdGuard VPN,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
+AdGuard VPN,Security,No logs policy status,Overall,logs_kept,0.00,editorial_default
+AdGuard VPN,Security,Rsa key length,Overall,2048,0.10,manual_admin
 AdGuard VPN,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 AdGuard VPN,Speed,_section_total,Overall,,7.80,calculated
 AdGuard VPN,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
@@ -20,6 +30,7 @@ AdGuard VPN,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_defau
 AdGuard VPN,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
 AdGuard VPN,Streaming,_section_total,Overall,,0.30,calculated
 AdGuard VPN,Streaming,Android tv app,Overall,,0.00,comparitech_api
+AdGuard VPN,Streaming,Browser extensions,Overall,yes,,editorial_default
 AdGuard VPN,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 AdGuard VPN,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 AdGuard VPN,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
@@ -37,12 +48,15 @@ AdGuard VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editor
 AdGuard VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 AdGuard VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 AdGuard VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-AdGuard VPN,ValueForMoney,_section_total,Overall,,2.36,calculated
+AdGuard VPN,ValueForMoney,_section_total,Overall,,3.26,calculated
 AdGuard VPN,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
 AdGuard VPN,ValueForMoney,Connection limit tier,Overall,10_plus,1.36,editorial_default
 AdGuard VPN,ValueForMoney,Country count,Overall,30_to_59,,manual_admin
 AdGuard VPN,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 AdGuard VPN,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+AdGuard VPN,ValueForMoney,Includes dark web monitor,Overall,no,0.00,editorial_default
+AdGuard VPN,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_default
+AdGuard VPN,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial_default
 AdGuard VPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 AdGuard VPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 AirVPN,Security,_section_total,Overall,,3.70,calculated
@@ -2225,8 +2239,10 @@ Lantern (not a VPN - web-browser-based service),ValueForMoney,Anonymous payments
 Lantern (not a VPN - web-browser-based service),ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
 Lantern (not a VPN - web-browser-based service),ValueForMoney,Country count,Overall,under_30,,manual_admin
 Lantern (not a VPN - web-browser-based service),ValueForMoney,Subscription term count,Overall,two,0.30,manual_admin
-Monster VPN,EaseOfUse,_section_total,Overall,,1.30,calculated
+Monster VPN,EaseOfUse,_section_total,Overall,,1.40,calculated
+Monster VPN,EaseOfUse,Country count,Overall,under_30,0.20,manual_admin
 Monster VPN,EaseOfUse,Linux support,Overall,app_cli_only,0.30,manual_admin
+Monster VPN,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
 Monster VPN,EaseOfUse,Quick connect,Overall,yes,0.80,manual_admin
 Monster VPN,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
 Monster VPN,EaseOfUse,Router support,Overall,manual_config_only,0.20,manual_admin
@@ -2235,6 +2251,7 @@ Monster VPN,Security,_section_total,Overall,,3.90,calculated
 Monster VPN,Security,Anonymous payment,Overall,none,0.00,editorial_default
 Monster VPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
 Monster VPN,Security,Encryption strength,Overall,aes_128_or_higher,0.60,calculated
+Monster VPN,Security,Hq jurisdiction,Overall,inside_14_eyes,0.00,manual_admin
 Monster VPN,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 Monster VPN,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 Monster VPN,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
@@ -2270,12 +2287,17 @@ Monster VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editor
 Monster VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 Monster VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Monster VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-Monster VPN,ValueForMoney,_section_total,Overall,,1.81,calculated
+Monster VPN,ValueForMoney,_section_total,Overall,,3.75,calculated
 Monster VPN,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default
-Monster VPN,ValueForMoney,Connection limit tier,Overall,6_to_10,0.91,editorial_default
+Monster VPN,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
 Monster VPN,ValueForMoney,Country count,Overall,30_to_59,,manual_admin
 Monster VPN,ValueForMoney,Free trial available,Overall,yes,0.40,manual_admin
 Monster VPN,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+Monster VPN,ValueForMoney,Intro lowest price tier,Overall,3_to_5,0.70,editorial_default
+Monster VPN,ValueForMoney,Money back duration,Overall,7_to_13,0.40,editorial_default
+Monster VPN,ValueForMoney,Monthly price tier,Overall,under_10,1.00,editorial_default
+Monster VPN,ValueForMoney,Pricing consistency,Overall,extreme,0.30,editorial_default
+Monster VPN,ValueForMoney,Renewal lowest price tier,Overall,over_10,0.00,editorial_default
 Monster VPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 Monster VPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 Mullvad VPN,EaseOfUse,_section_total,Overall,,3.80,calculated
