@@ -1,0 +1,71 @@
+provider_slug,provider_display_name,service,target_region,runs,verdict_tests,working,partial,blocked,latest_status,last_tested_utc,is_proxied
+cyberghost,CyberGhost,bbc_iplayer,GB,5,4,0,0,4,blocked,2026-06-12T09:39:28Z,false
+cyberghost,CyberGhost,disney_plus,GB,5,7,0,0,7,blocked,2026-06-12T09:39:53Z,false
+cyberghost,CyberGhost,disney_plus,US,4,7,0,0,7,blocked,2026-06-12T09:42:32Z,false
+cyberghost,CyberGhost,hulu,US,4,7,0,0,7,blocked,2026-06-12T09:42:32Z,true
+cyberghost,CyberGhost,itvx,GB,4,4,4,0,0,working,2026-06-12T09:39:32Z,false
+cyberghost,CyberGhost,netflix,DE,3,6,6,0,0,working,2026-06-12T09:45:01Z,false
+cyberghost,CyberGhost,netflix,FR,3,6,6,0,0,working,2026-06-12T09:47:29Z,false
+cyberghost,CyberGhost,netflix,GB,4,12,12,0,0,working,2026-06-12T09:39:49Z,false
+cyberghost,CyberGhost,netflix,JP,3,6,6,0,0,working,2026-06-12T09:50:06Z,false
+cyberghost,CyberGhost,netflix,US,4,21,21,0,0,working,2026-06-12T09:42:27Z,false
+expressvpn,ExpressVPN,bbc_iplayer,GB,5,5,5,0,0,working,2026-06-12T10:15:50Z,false
+expressvpn,ExpressVPN,disney_plus,GB,5,5,5,0,0,working,2026-06-12T10:16:55Z,false
+expressvpn,ExpressVPN,disney_plus,US,5,5,5,0,0,working,2026-06-12T10:19:43Z,false
+expressvpn,ExpressVPN,hulu,US,5,5,5,0,0,working,2026-06-12T10:19:43Z,true
+expressvpn,ExpressVPN,itvx,GB,5,5,5,0,0,working,2026-06-12T10:15:54Z,false
+expressvpn,ExpressVPN,netflix,DE,4,8,8,0,0,working,2026-06-12T10:23:06Z,false
+expressvpn,ExpressVPN,netflix,FR,4,8,8,0,0,working,2026-06-12T10:25:48Z,false
+expressvpn,ExpressVPN,netflix,GB,5,12,12,0,0,working,2026-06-12T10:16:12Z,false
+expressvpn,ExpressVPN,netflix,JP,4,8,8,0,0,working,2026-06-12T10:27:52Z,false
+expressvpn,ExpressVPN,netflix,US,5,15,15,0,0,working,2026-06-12T10:19:11Z,false
+ipvanish,IPVanish,bbc_iplayer,GB,4,4,4,0,0,working,2026-06-11T14:24:33Z,false
+ipvanish,IPVanish,disney_plus,GB,4,7,7,0,0,working,2026-06-11T14:25:28Z,false
+ipvanish,IPVanish,disney_plus,US,6,9,9,0,0,working,2026-06-12T09:27:23Z,false
+ipvanish,IPVanish,hulu,US,6,9,9,0,0,working,2026-06-12T09:27:23Z,true
+ipvanish,IPVanish,itvx,GB,4,4,4,0,0,working,2026-06-11T14:24:39Z,false
+ipvanish,IPVanish,netflix,DE,6,12,12,0,0,working,2026-06-12T09:30:27Z,false
+ipvanish,IPVanish,netflix,FR,6,12,12,0,0,working,2026-06-12T09:32:27Z,false
+ipvanish,IPVanish,netflix,GB,4,12,12,0,0,working,2026-06-11T14:25:02Z,false
+ipvanish,IPVanish,netflix,JP,6,12,12,0,0,working,2026-06-12T09:34:43Z,false
+ipvanish,IPVanish,netflix,US,6,15,15,0,0,working,2026-06-12T09:26:47Z,false
+nordvpn,NordVPN,bbc_iplayer,GB,10,10,10,0,0,working,2026-06-12T09:57:25Z,false
+nordvpn,NordVPN,disney_plus,GB,4,4,4,0,0,working,2026-06-12T09:58:31Z,false
+nordvpn,NordVPN,disney_plus,US,6,5,5,0,0,working,2026-06-12T10:01:55Z,false
+nordvpn,NordVPN,hulu,US,6,5,5,0,0,working,2026-06-12T10:01:55Z,true
+nordvpn,NordVPN,itvx,GB,10,10,10,0,0,working,2026-06-12T09:57:29Z,false
+nordvpn,NordVPN,netflix,DE,13,26,26,0,0,working,2026-06-12T10:04:42Z,false
+nordvpn,NordVPN,netflix,FR,13,26,26,0,0,working,2026-06-12T10:06:29Z,false
+nordvpn,NordVPN,netflix,GB,10,28,28,0,0,working,2026-06-12T09:57:49Z,false
+nordvpn,NordVPN,netflix,JP,13,19,19,0,0,working,2026-06-12T10:09:49Z,false
+nordvpn,NordVPN,netflix,US,13,39,39,0,0,working,2026-06-12T10:01:26Z,false
+proton,ProtonVPN,bbc_iplayer,GB,1,1,1,0,0,working,2026-06-10T16:23:54Z,false
+proton,ProtonVPN,disney_plus,GB,1,2,2,0,0,working,2026-06-10T16:24:30Z,false
+proton,ProtonVPN,disney_plus,US,1,1,1,0,0,working,2026-06-10T16:27:44Z,false
+proton,ProtonVPN,hulu,US,1,1,1,0,0,working,2026-06-10T16:27:44Z,true
+proton,ProtonVPN,itvx,GB,1,1,1,0,0,working,2026-06-10T16:23:59Z,false
+proton,ProtonVPN,netflix,DE,4,8,8,0,0,working,2026-06-12T14:50:58Z,false
+proton,ProtonVPN,netflix,FR,4,8,8,0,0,working,2026-06-12T14:53:10Z,false
+proton,ProtonVPN,netflix,GB,1,3,3,0,0,working,2026-06-10T16:24:18Z,false
+proton,ProtonVPN,netflix,JP,4,8,8,0,0,working,2026-06-12T14:55:25Z,false
+proton,ProtonVPN,netflix,US,1,3,3,0,0,working,2026-06-10T16:27:26Z,false
+surfshark,Surfshark,bbc_iplayer,GB,4,4,4,0,0,working,2026-06-12T14:25:13Z,false
+surfshark,Surfshark,disney_plus,GB,4,8,2,0,6,working,2026-06-12T14:26:21Z,false
+surfshark,Surfshark,disney_plus,US,4,6,6,0,0,working,2026-06-12T14:30:39Z,false
+surfshark,Surfshark,hulu,US,4,6,6,0,0,working,2026-06-12T14:30:39Z,true
+surfshark,Surfshark,itvx,GB,4,4,4,0,0,working,2026-06-12T14:25:17Z,false
+surfshark,Surfshark,netflix,DE,4,8,8,0,0,working,2026-06-12T14:33:11Z,false
+surfshark,Surfshark,netflix,FR,4,8,8,0,0,working,2026-06-12T14:35:30Z,false
+surfshark,Surfshark,netflix,GB,4,12,12,0,0,working,2026-06-12T14:25:36Z,false
+surfshark,Surfshark,netflix,JP,4,8,8,0,0,working,2026-06-12T14:39:23Z,false
+surfshark,Surfshark,netflix,US,4,12,12,0,0,working,2026-06-12T14:30:11Z,false
+totalvpn,Total VPN,bbc_iplayer,GB,2,2,2,0,0,working,2026-06-10T16:55:38Z,false
+totalvpn,Total VPN,disney_plus,GB,2,2,2,0,0,error,2026-06-10T16:56:09Z,false
+totalvpn,Total VPN,disney_plus,US,2,2,2,0,0,error,2026-06-10T17:00:08Z,false
+totalvpn,Total VPN,hulu,US,2,2,2,0,0,error,2026-06-10T17:00:08Z,true
+totalvpn,Total VPN,itvx,GB,2,2,2,0,0,working,2026-06-10T16:55:44Z,false
+totalvpn,Total VPN,netflix,DE,2,4,4,0,0,working,2026-06-10T17:01:53Z,false
+totalvpn,Total VPN,netflix,FR,1,1,1,0,0,working,2026-06-01T21:29:23Z,false
+totalvpn,Total VPN,netflix,GB,2,6,6,0,0,working,2026-06-10T16:56:04Z,false
+totalvpn,Total VPN,netflix,JP,1,2,2,0,0,working,2026-06-01T21:32:31Z,false
+totalvpn,Total VPN,netflix,US,2,6,6,0,0,working,2026-06-10T17:00:02Z,false
