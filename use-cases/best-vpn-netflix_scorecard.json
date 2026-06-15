@@ -458,5 +458,10 @@
       },
       "rank": null
     }
-  ]
+  ],
+  "files": {
+    "scorecard_csv": "https://raw.githubusercontent.com/SeanMcGrathCT/comparitech-vpn-hub/main/use-cases/best-vpn-netflix_scorecard.csv",
+    "scorecard_json": "https://raw.githubusercontent.com/SeanMcGrathCT/comparitech-vpn-hub/main/use-cases/best-vpn-netflix_scorecard.json",
+    "streaming_drilldown_csv": "https://raw.githubusercontent.com/SeanMcGrathCT/comparitech-vpn-hub/main/use-cases/best-vpn-netflix_streaming_long.csv"
+  }
 }
