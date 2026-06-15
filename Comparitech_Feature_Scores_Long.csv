@@ -4772,23 +4772,27 @@ VPN Proxy Master,ValueForMoney,Student discount,Overall,yes,0.20,manual_admin
 VPN Proxy Master,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 VPN Proxy Master,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 VPN Shield,EaseOfUse,_section_total,Overall,,1.20,calculated
+VPN Shield,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
 VPN Shield,EaseOfUse,Ease of cancellation,Overall,difficult,0.00,manual_admin
 VPN Shield,EaseOfUse,Ease of signup,Overall,very_easy,0.70,manual_admin
 VPN Shield,EaseOfUse,Knowledge base,Overall,basic,0.20,manual_admin
-VPN Shield,EaseOfUse,Linux support,Overall,none,0.00,manual_admin
-VPN Shield,EaseOfUse,Live chat quality,Overall,email_only,0.10,manual_admin
+VPN Shield,EaseOfUse,Linux support,Overall,none,0.00,editorial_default
+VPN Shield,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
 VPN Shield,EaseOfUse,Quick connect,Overall,no,0.00,manual_admin
 VPN Shield,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
-VPN Shield,EaseOfUse,Router support,Overall,none,0.00,manual_admin
+VPN Shield,EaseOfUse,Router support,Overall,none,0.00,editorial_default
 VPN Shield,EaseOfUse,Setup guides,Overall,partial,0.20,manual_admin
+VPN Shield,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
 VPN Shield,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
-VPN Shield,Security,_section_total,Overall,,4.70,calculated
+VPN Shield,Security,_section_total,Overall,,3.50,calculated
+VPN Shield,Security,Anonymous payment,Overall,none,0.00,editorial_default
+VPN Shield,Security,Authentication strength,Overall,weaker,0.00,manual_admin
 VPN Shield,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
-VPN Shield,Security,Encryption strength,Overall,aes_128_or_higher,0.60,calculated
+VPN Shield,Security,Encryption strength,Overall,weaker,0.00,manual_admin
 VPN Shield,Security,Hq jurisdiction,Overall,outside_14_eyes,0.50,calculated
 VPN Shield,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 VPN Shield,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
-VPN Shield,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
+VPN Shield,Security,Kill switch effectiveness,Overall,none,0.00,manual_admin
 VPN Shield,Security,Modern protocols,Overall,openvpn_only,0.30,calculated
 VPN Shield,Security,Obfuscation available,Overall,no,0.00,calculated
 VPN Shield,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
@@ -4805,6 +4809,7 @@ VPN Shield,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_defaul
 VPN Shield,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
 VPN Shield,Streaming,_section_total,Overall,,0.30,calculated
 VPN Shield,Streaming,Android tv app,Overall,,0.00,comparitech_api
+VPN Shield,Streaming,Browser extensions,Overall,no,,editorial_default
 VPN Shield,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 VPN Shield,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 VPN Shield,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
@@ -4822,13 +4827,18 @@ VPN Shield,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editori
 VPN Shield,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 VPN Shield,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 VPN Shield,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-VPN Shield,ValueForMoney,_section_total,Overall,,1.35,calculated
+VPN Shield,ValueForMoney,_section_total,Overall,,4.15,calculated
+VPN Shield,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default
 VPN Shield,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
 VPN Shield,ValueForMoney,Country count,Overall,under_30,,manual_admin
 VPN Shield,ValueForMoney,Free trial available,Overall,yes,0.40,manual_admin
 VPN Shield,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+VPN Shield,ValueForMoney,Intro lowest price tier,Overall,under_3_usd,1.00,editorial_default
+VPN Shield,ValueForMoney,Monthly price tier,Overall,under_10,1.00,editorial_default
+VPN Shield,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
 VPN Shield,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 VPN Shield,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
+VPN Shield,ValueForMoney,Traditional payments,Overall,single,0.20,editorial_default
 VPN Unlimited,EaseOfUse,_section_total,Overall,,4.30,calculated
 VPN Unlimited,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 VPN Unlimited,EaseOfUse,Browser extensions,Overall,1_plus,0.50,editorial_default

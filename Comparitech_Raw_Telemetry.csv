@@ -62,7 +62,7 @@ Unblock VPN,2.32,5.1,5.0,0.6,,5.46,0.8,5,,,,,,,,3.85,,13.88,"Windows, macOS, iOS
 Unlocator VPN,3.33,5.0,5.0,0.6,,6.66,4.1,5,,,,,,,,4.96,4.96,11.99,"Windows, macOS, Android, iOS, Linux, Router, Android TV, Apple TV, Fire TV, Smart TV",,40,700,logs_kept,10,No,Yes
 VeePN,3.55,6.7,5.0,0.45,,6.0,6.22,5,,,,,,,,1.99,1.99,14.99,"Windows, macOS, iOS, Android, Chrome, Firefox, Edge, Router, Android TV, Fire TV, Smart TV, Linux, Apple TV",,85,2600,logs_kept,5/10/20,No,Yes
 VPN Proxy Master,3.55,5.8,5.0,0.6,,6.36,5.1,5,,,,,,,,2.96,12.99,12.99,"Windows, macOS, iOS, Android, Chrome, Fire TV, Apple TV, Smart TV, Android TV",,52,20000,logs_kept,10,No,Yes
-VPN Shield,1.63,4.7,5.0,0.3,,1.35,1.2,5,,,,,,,,,,,,,9,50,,5,,
+VPN Shield,1.92,3.5,5.0,0.3,,4.15,1.2,5,,,,,,,,2.78,,5.99,"iOS, macOS, Android, Windows",,11,1,,5,,
 VPN Unlimited,3.31,6.2,5.0,0.45,,6.65,4.3,5,,,,,,,,4.50,5.00,9.99,"Windows, macOS, Linux, iOS, Android, Chrome, Firefox, Edge, Apple TV, Fire TV, Router",,12,3000,logs_kept,3,Yes,Yes
 VPNArea,2.02,5.6,5.0,0.3,,2.0,,4,,,,,,,,,,,,,69,480,,Unlimited,Yes,
 VPNBook,1.26,5.6,5.0,0.15,,0.55,1.4,5,,,,,,,,,,,,,0,0,,0,,

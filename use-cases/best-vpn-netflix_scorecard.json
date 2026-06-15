@@ -55,7 +55,7 @@
     }
   ],
   "inclusion": {
-    "policy": "hybrid_auto_incomplete_plus_editorial",
+    "policy": "hybrid_auto_incomplete_servicefail_plus_editorial",
     "included": [
       "expressvpn",
       "proton",
