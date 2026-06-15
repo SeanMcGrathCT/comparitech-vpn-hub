@@ -1,0 +1,27 @@
+{
+  "cyberghost": {
+    "provider_name": "CyberGhost",
+    "no_logs_status": "audited",
+    "logging_policy": "CyberGhost's privacy policy states it does \"NOT track user traffic performed inside the CyberGhost VPN tunnel such as: browsing history, traffic destination, search preferences, data content, IP addresses or DNS queries.\" It also confirms it is \"NOT storing connection logs, meaning that we DON'T have any logs tied to your IP address, connection timestamp or session duration.\" Anonymous aggregate service-performance events (e.g., connection attempt counts by country, without source IP) are collected for infrastructure monitoring. Account-related personal data (email, payment info) is retained \"for as long as needed to provide the Service and to comply with our legal obligations.\""
+  },
+  "expressvpn": {
+    "provider_name": "ExpressVPN",
+    "no_logs_status": "audited",
+    "logging_policy": "ExpressVPN's privacy policy (last updated January 1, 2026) states: \"We do not collect logs of your online activity while you are connected to our Services, including no logging of browsing history, traffic destination, data content, or DNS queries. We also never store connection logs, meaning no logs of your IP address, your outgoing VPN IP address, connection timestamp, or session duration.\" The policy does note that minimal usage statistics are collected — specifically whether a VPN connection was made on a given day (not the time), the VPN location connected to (not the assigned IP), and the aggregate sum of data transferred in MB — but explicitly states: \"We do not know which user ever accessed a particular website or service\" and \"we are unable to single out the user.\" Any activation-status data is retained for no longer than 24 months."
+  },
+  "nordvpn": {
+    "provider_name": "NordVPN",
+    "no_logs_status": "audited",
+    "logging_policy": "NordVPN's privacy notice states: \"Nord guarantees a strict no-logs policy for NordVPN Services, meaning that your internet activity while using NordVPN Services is not monitored, recorded, logged, stored, or passed on to any third party. We do not store used bandwidth, traffic logs, IP addresses, or browsing information.\" Two narrow data points are retained: (1) \"last session information\" used to enforce concurrent-session limits, \"automatically deleted within 15 minutes after a session is terminated\"; and (2) a binary record of \"whether a user has used the NordVPN Service within the last 90 days,\" kept for abuse prevention and chargeback disputes. No connection timestamps, originating IPs, or browsing activity are retained."
+  },
+  "surfshark": {
+    "provider_name": "Surfshark",
+    "no_logs_status": "audited",
+    "logging_policy": "Surfshark's privacy policy (§1, §2.2.1) states: \"We do not collect any information about what you do online (i.e., we do not collect your visited IP addresses, browsing history, session information, connection time stamps, used bandwidth, network traffic or any other similar information).\" During an active VPN session, servers \"temporarily keep details about your connection to a specific VPN server, such as your user ID and / or your IP address and connection to VPN server time stamps,\" but this data \"is automatically deleted within 15 minutes after your session ends.\" Account-level data (email, subscription info) is retained for the duration of the subscription plus 2 years after the last login."
+  },
+  "totalvpn": {
+    "provider_name": "Total VPN",
+    "no_logs_status": "logs_kept",
+    "logging_policy": "Total VPN's privacy policy (effective 28 November 2025) states under §3 that the company automatically collects 'browser type, IP address, pages visited and other activities on the Services, device type, time and date of visit' via cookies and similar technologies; the U.S. Privacy Rights Addendum further lists 'Internet or other electronic network activity information (such as browsing history, search history, or interactions with a website or email)' and 'Geolocation information (such as IP address)' as categories of personal information collected and disclosed. The policy makes no explicit no-logs pledge for VPN tunnel traffic and provides no specific connection-log or bandwidth-log exclusion. On retention, the policy states: 'We retain personal information that we collect for as long as we need to use it in connection with our business and in accordance with our standard practices or in compliance with applicable laws,' with no fixed deletion timeframe specified."
+  }
+}
