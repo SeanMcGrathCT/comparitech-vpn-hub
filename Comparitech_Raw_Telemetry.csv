@@ -1,6 +1,6 @@
 Provider,Overall score /10,Security /10,Speed /10,Streaming /10,System Performance /10,Value for Money /10,Ease of Use /10,Categories scored (of 6),Speed countries covered,Last speed measurement (UTC),Netflix,Disney+,BBC iPlayer,ITVX,Streaming services last tested (UTC),Lowest monthly price — intro (USD),Lowest monthly price — renewal (USD),Standard monthly price (USD),Devices Supported,"Median download Mbps (best protocol, benchmark)",Countries Supported,Servers,No-logs status,Simultaneous Connections,Port forwarding (Yes/No),SmartDNS (Yes/No)
-AdGuard VPN,2.89,5.2,5.0,0.3,,6.06,4.3,5,,,,,,,,2.99,11.99,11.99,"Windows, macOS, Android, iOS, Apple TV, Android TV, Linux, Router, Chrome, Firefox, Edge",,62,0,logs_kept,10,No,No
-AirVPN,1.68,3.7,5.0,0.3,,1.45,,4,,,,,,,,,,,,,23,250,,5,Yes,
+AdGuard VPN,3.02,6.0,5.0,0.3,,6.46,4.3,5,,,,,,,,2.99,11.99,11.99,"Windows, macOS, Android, iOS, Apple TV, Android TV, Linux, Router, Chrome, Firefox, Edge",,62,0,logs_kept,10,No,No
+AirVPN,2.31,5.0,5.0,0.3,,4.35,2.0,5,,,,,,,,,3.19,8.12,"Windows, macOS, Linux, iOS, Android, Router, Chrome",,27,255,,5,Yes,
 Anonymous VPN,2.08,5.2,5.0,0.15,,4.35,2.3,5,,,,,,,,5.75,5.75,12.00,"Windows, macOS, Android, Router, iOS",,22,1000,logs_kept,3,No,No
 Astrill,3.03,6.7,5.0,0.6,,2.55,5.02,5,,,,,,,,12.50,30.00,30.00,"Windows, macOS, Linux, iOS, Android, Router",,56,300,logs_kept,5,Yes,Yes
 Astrill VPN,2.35,6.4,5.0,0.45,,1.45,3.42,5,,,,,,,,,,,,,0,48,,0,,Yes
@@ -18,7 +18,7 @@ CyberGhost,7.22,9.05,6.88,5.01,,7.21,8.72,5,6 of 7,2026-06-12T09:49:57Z,working,
 ExpressVPN,8.14,10.0,8.25,9.8,6.59,6.71,8.12,6,7 of 7,2026-06-12T10:27:40Z,working,,,working,2026-06-12T10:15:54Z,2.49,8.33,12.99,"Windows, macOS, Linux, iOS, Android, Android TV, Apple TV, Fire TV, Router, Smart TV, Chrome, Firefox, Edge",754.685,105,3000,audited,7,No,Yes
 F-Secure Freedome VPN,1.83,3.8,5.0,0.15,,4.05,1.8,5,,,,,,,,3.75,3.75,,"Windows, macOS, Android, iOS",,20,0,,1,,
 FastestVPN,3.84,7.8,5.0,0.6,,5.86,6.1,5,,,,,,,,,,5.00,"Windows, macOS, Linux, iOS, Android, Chrome, Firefox, Edge, Fire TV, Apple TV, Android TV, Router",,49,800,claimed,10,No,No
-FrootVPN,1.73,4.9,5.0,0.3,,4.25,0.5,5,,,,,,,,6.36,6.36,29.98,"Windows, macOS, Linux, Android",,32,150,,5,No,
+FrootVPN,2.62,5.6,5.0,0.3,,4.75,3.1,5,,,,,,,,6.36,6.36,29.98,"Windows, macOS, Linux, Android",,32,150,logs_kept,5,No,No
 Goose VPN,2.89,4.3,5.0,0.45,,3.7,5.6,5,,,,,,,,,,9.99,"Windows, macOS, iOS, Android, Router, Android TV, Linux",,30,33,logs_kept,1/5/10,No,No
 Hide My Ass!,1.71,3.3,5.0,0.3,,2.46,1.2,5,,,,,,,,,,,,,195,1110,,510,,
 Hide.me,4.13,7.7,5.0,0.6,,7.96,6.5,5,,,,,,,,2.59,2.59,11.99,"Windows, macOS, Linux, iOS, Android, Apple TV, Android TV, Fire TV, Chrome, Firefox, Edge, Router",,60,2600,claimed,10,Yes,No
@@ -43,14 +43,14 @@ Perfect Privacy,1.41,5.5,5.0,0.15,,0.95,,4,,,,,,,,,,,,,0,0,,0,,
 PrivadoVPN,3.86,6.7,5.0,0.6,,7.76,5.52,5,,,,,,,,1.11,3.99,10.99,"Windows, macOS, iOS, Android, Linux, Apple TV, Fire TV, Android TV, Chrome, Edge, Firefox, Router",,49,311,logs_kept,10,No,Yes
 Private Internet Access,4.73,8.3,5.0,0.8,,8.5,8.42,5,,,,,,,,1.33,2.19,11.95,"Windows, macOS, Linux, Android, iOS, Chrome, Firefox, Android TV, Apple TV, Fire TV, Router, Edge",,90,17000,audited,Unlimited,Yes,Yes
 PrivateVPN,4.39,5.9,5.0,1.0,,7.46,7.4,5,,,,,,,,2.00,6.00,9.90,"Windows, macOS, iOS, Android, Fire TV, Chrome, Linux, Router, Android TV",,63,200,logs_kept,10,Yes,No
-ProtonVPN,7.92,7.6,6.48,9.5,7.71,7.76,8.8,6,7 of 7,2026-06-12T14:55:12Z,working,,,working,2026-06-10T16:23:59Z,2.99,6.99,9.99,"Windows, macOS, Linux, iOS, Android, Android TV, Apple TV, Fire TV, Router, Chromebook, Chrome, Firefox",672.245,148,20332,claimed,10,Yes,No
+ProtonVPN,7.96,7.6,6.48,9.5,,7.76,8.8,5,7 of 7,2026-06-12T14:55:12Z,working,,,working,2026-06-10T16:23:59Z,2.99,6.99,9.99,"Windows, macOS, Linux, iOS, Android, Android TV, Apple TV, Fire TV, Router, Chromebook, Chrome, Firefox",672.245,148,20332,claimed,10,Yes,No
 PureVPN,4.79,7.7,5.0,1.0,,7.76,8.42,5,,,,,,,,1.99,3.99,12.95,"Windows, macOS, iOS, Android, Linux, Chrome, Firefox, Edge, Apple TV, Android TV, Fire TV, Router",,65,6000,claimed,10,Yes,Yes
 Rocket VPN,1.78,4.6,5.0,0.3,,1.85,1.4,5,,,,,,,,,,,,,50,21000,,5,No,
 Smart DNS Proxy,2.31,4.1,5.0,1.2,,5.35,0.5,5,,,,,,,,2.85,4.61,6.79,,,39,400,,5,Yes,Yes
 Speedify,2.9,5.3,5.0,0.3,,4.45,5.82,5,,,,,,,,4.99,14.99,14.99,"Windows, macOS, Linux, iOS, Android, Router, Android TV",,37,56,logs_kept,5,No,No
 StrongVPN,3.89,5.8,5.0,0.8,,5.46,7.02,5,,,,,,,,3.97,7.49,11.99,"Windows, macOS, iOS, Android, Fire TV, Router, Chrome, Linux, Android TV",,30,950,logs_kept,12,No,Yes
 SurfEasy VPN,1.09,4.2,5.0,0.15,,0.45,,4,,,,,,,,,,,,,24,0,,3,,
-Surfshark,7.75,9.3,5.41,9.8,6.59,7.3,9.12,6,7 of 7,2026-06-12T14:35:24Z,working,,,working,2026-06-12T14:25:17Z,1.99,6.58,15.45,"Windows, macOS, Linux, iOS, Android, Android TV, Apple TV, Fire TV, Router, Chrome, Firefox, Edge",704.55,100,4500,audited,Unlimited,No,No
+Surfshark,8.0,9.3,5.41,9.8,,7.3,9.12,5,7 of 7,2026-06-12T14:35:24Z,working,,,working,2026-06-12T14:25:17Z,1.99,6.58,15.45,"Windows, macOS, Linux, iOS, Android, Android TV, Apple TV, Fire TV, Router, Chrome, Firefox, Edge",704.55,100,4500,audited,Unlimited,No,No
 Torguard,1.74,3.3,5.0,0.3,,1.86,,4,,,,,,,,,,,,,50,3000,,81230,Yes,
 Total VPN,6.16,5.5,6.24,9.35,6.72,5.05,5.0,6,7 of 7,2026-06-10T17:01:48Z,working,,,working,2026-06-10T16:55:44Z,8.25,8.25,9.99,"Windows, macOS, iOS, Android, Apple TV",722.275,86,1800,logs_kept,1,No,No
 TunnelBear,3.04,6.4,5.0,0.3,,6.1,4.4,5,,,,,,,,3.33,4.99,9.99,"Windows, macOS, iOS, Android, Linux, Chrome, Firefox, Edge",,47,8000,claimed,unlimited,No,No

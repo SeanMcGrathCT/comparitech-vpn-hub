@@ -9,7 +9,7 @@ AdGuard VPN,EaseOfUse,Quick connect,Overall,yes,0.80,manual_admin
 AdGuard VPN,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
 AdGuard VPN,EaseOfUse,Streaming device apps eou,Overall,2_plus,0.50,editorial_default
 AdGuard VPN,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
-AdGuard VPN,Security,_section_total,Overall,,5.20,calculated
+AdGuard VPN,Security,_section_total,Overall,,6.00,calculated
 AdGuard VPN,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
 AdGuard VPN,Security,Authentication strength,Overall,,,manual_admin
 AdGuard VPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
@@ -56,7 +56,7 @@ AdGuard VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editor
 AdGuard VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 AdGuard VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 AdGuard VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-AdGuard VPN,ValueForMoney,_section_total,Overall,,6.06,calculated
+AdGuard VPN,ValueForMoney,_section_total,Overall,,6.46,calculated
 AdGuard VPN,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
 AdGuard VPN,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
 AdGuard VPN,ValueForMoney,Connection limit tier,Overall,10_plus,1.36,editorial_default
@@ -74,13 +74,23 @@ AdGuard VPN,ValueForMoney,Static ip included,Overall,no,0.00,editorial_default
 AdGuard VPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 AdGuard VPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 AdGuard VPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
-AirVPN,Security,_section_total,Overall,,3.70,calculated
+AirVPN,EaseOfUse,_section_total,Overall,,2.00,calculated
+AirVPN,EaseOfUse,Browser extensions,Overall,1_plus,0.50,editorial_default
+AirVPN,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
+AirVPN,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
+AirVPN,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
+AirVPN,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
+AirVPN,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
+AirVPN,EaseOfUse,Task specific servers,Overall,yes,0.40,manual_admin
+AirVPN,Security,_section_total,Overall,,5.00,calculated
 AirVPN,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
 AirVPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
+AirVPN,Security,Encryption strength,Overall,aes_128_or_higher,0.60,manual_admin
 AirVPN,Security,Hq jurisdiction,Overall,inside_14_eyes,0.00,calculated
 AirVPN,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 AirVPN,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 AirVPN,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
+AirVPN,Security,Modern protocols,Overall,has_modern,0.70,manual_admin
 AirVPN,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 AirVPN,Speed,_section_total,Overall,,7.80,calculated
 AirVPN,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
@@ -95,6 +105,7 @@ AirVPN,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_default
 AirVPN,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
 AirVPN,Streaming,_section_total,Overall,,0.30,calculated
 AirVPN,Streaming,Android tv app,Overall,,0.00,comparitech_api
+AirVPN,Streaming,Browser extensions,Overall,yes,,editorial_default
 AirVPN,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 AirVPN,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 AirVPN,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
@@ -112,14 +123,18 @@ AirVPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_d
 AirVPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 AirVPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 AirVPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-AirVPN,ValueForMoney,_section_total,Overall,,1.45,calculated
+AirVPN,ValueForMoney,_section_total,Overall,,4.35,calculated
 AirVPN,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
 AirVPN,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
 AirVPN,ValueForMoney,Country count,Overall,under_30,,manual_admin
 AirVPN,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 AirVPN,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+AirVPN,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial_default
+AirVPN,ValueForMoney,Monthly price tier,Overall,under_10,1.00,editorial_default
+AirVPN,ValueForMoney,Renewal lowest price tier,Overall,3_to_5,0.70,editorial_default
 AirVPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 AirVPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
+AirVPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 Anonymous VPN,EaseOfUse,_section_total,Overall,,2.30,calculated
 Anonymous VPN,EaseOfUse,Apps for major platforms,Overall,3_of_4,0.70,manual_admin
 Anonymous VPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
@@ -1426,21 +1441,31 @@ FastestVPN,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 FastestVPN,ValueForMoney,Student discount,Overall,yes,0.20,manual_admin
 FastestVPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 FastestVPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
-FrootVPN,EaseOfUse,_section_total,Overall,,0.50,calculated
+FrootVPN,EaseOfUse,_section_total,Overall,,3.10,calculated
+FrootVPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 FrootVPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
+FrootVPN,EaseOfUse,Ease of cancellation,Overall,very_easy,0.40,editorial_default
 FrootVPN,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
+FrootVPN,EaseOfUse,Live chat quality,Overall,business_hours,0.40,editorial_default
+FrootVPN,EaseOfUse,Quick connect,Overall,yes,0.80,manual_admin
 FrootVPN,EaseOfUse,Router support,Overall,none,0.00,editorial_default
 FrootVPN,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
-FrootVPN,Security,_section_total,Overall,,4.90,calculated
+FrootVPN,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
+FrootVPN,Security,_section_total,Overall,,5.60,calculated
 FrootVPN,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
+FrootVPN,Security,Authentication strength,Overall,sha384_or_higher,0.30,manual_admin
 FrootVPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
-FrootVPN,Security,Hq jurisdiction,Overall,outside_14_eyes,0.50,calculated
+FrootVPN,Security,Encryption strength,Overall,aes_128_or_higher,0.60,manual_admin
+FrootVPN,Security,Hq jurisdiction,Overall,,0.50,manual_admin
+FrootVPN,Security,Independent audit,Overall,none,0.00,editorial_default
 FrootVPN,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 FrootVPN,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 FrootVPN,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
 FrootVPN,Security,Modern protocols,Overall,openvpn_only,0.30,calculated
+FrootVPN,Security,No logs policy status,Overall,logs_kept,0.00,editorial_default
 FrootVPN,Security,Obfuscation available,Overall,no,0.00,calculated
 FrootVPN,Security,Perfect forward secrecy,Overall,yes,0.30,calculated
+FrootVPN,Security,Restrictive region access,Overall,yes,0.30,editorial_default
 FrootVPN,Security,Rsa key length,Overall,2048,0.10,calculated
 FrootVPN,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 FrootVPN,Speed,_section_total,Overall,,7.80,calculated
@@ -1474,17 +1499,21 @@ FrootVPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial
 FrootVPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 FrootVPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 FrootVPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-FrootVPN,ValueForMoney,_section_total,Overall,,4.25,calculated
+FrootVPN,ValueForMoney,_section_total,Overall,,4.75,calculated
 FrootVPN,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
+FrootVPN,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
 FrootVPN,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
 FrootVPN,ValueForMoney,Country count,Overall,30_to_59,,manual_admin
 FrootVPN,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 FrootVPN,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+FrootVPN,ValueForMoney,Includes dark web monitor,Overall,no,0.00,editorial_default
+FrootVPN,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_default
 FrootVPN,ValueForMoney,Intro lowest price tier,Overall,5_to_7,0.50,editorial_default
 FrootVPN,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial_default
 FrootVPN,ValueForMoney,Monthly price tier,Overall,over_14,0.00,editorial_default
 FrootVPN,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
 FrootVPN,ValueForMoney,Renewal lowest price tier,Overall,5_to_7,0.50,editorial_default
+FrootVPN,ValueForMoney,Static ip included,Overall,no,0.00,editorial_default
 FrootVPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 FrootVPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 FrootVPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
@@ -3338,16 +3367,8 @@ ProtonVPN,Streaming,Tier2 streaming,Overall,most_3_or_4,1.00,benchmark_run
 ProtonVPN,Streaming,Tier3 streaming,Overall,most_3_or_4,0.30,benchmark_run
 ProtonVPN,Streaming,Works in high censorship countries,Overall,1,1.00,comparitech_api
 ProtonVPN,SystemPerformance,_section_total,Overall,,4.00,calculated
-ProtonVPN,SystemPerformance,_section_total_v3_sysperf,Overall,0.02904,7.71,calculated
-ProtonVPN,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.02904,7.71,calculated
-ProtonVPN,SystemPerformance,Idle delta cpu pct,Overall,-0.2480,,calculated
-ProtonVPN,SystemPerformance,Idle delta cpu pct,WireGuard,-0.2480,,calculated
 ProtonVPN,SystemPerformance,Idle delta cpu tier,Overall,tier_okay,0.00,editorial_default
-ProtonVPN,SystemPerformance,Load efficiency per mbps,Overall,0.02904,,calculated
-ProtonVPN,SystemPerformance,Load efficiency per mbps,WireGuard,0.02904,,calculated
 ProtonVPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_default
-ProtonVPN,SystemPerformance,Ram delta mb,Overall,38.2,,calculated
-ProtonVPN,SystemPerformance,Ram delta mb,WireGuard,38.2,,calculated
 ProtonVPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 ProtonVPN,ValueForMoney,_section_total,Overall,,7.76,calculated
 ProtonVPN,ValueForMoney,Anonymous payments vfm,Overall,single,0.30,editorial_default
@@ -3921,16 +3942,8 @@ Surfshark,Streaming,Tier2 streaming,Overall,most_3_or_4,1.00,benchmark_run
 Surfshark,Streaming,Tier3 streaming,Overall,all_5,0.50,benchmark_run
 Surfshark,Streaming,Works in high censorship countries,Overall,1,1.00,comparitech_api
 Surfshark,SystemPerformance,_section_total,Overall,,4.00,calculated
-Surfshark,SystemPerformance,_section_total_v3_sysperf,Overall,0.07182,6.59,calculated
-Surfshark,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.07182,6.59,calculated
-Surfshark,SystemPerformance,Idle delta cpu pct,Overall,-6.0533,,calculated
-Surfshark,SystemPerformance,Idle delta cpu pct,WireGuard,-6.0533,,calculated
 Surfshark,SystemPerformance,Idle delta cpu tier,Overall,tier_okay,0.00,editorial_default
-Surfshark,SystemPerformance,Load efficiency per mbps,Overall,0.07182,,calculated
-Surfshark,SystemPerformance,Load efficiency per mbps,WireGuard,0.07182,,calculated
 Surfshark,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_default
-Surfshark,SystemPerformance,Ram delta mb,Overall,403.2,,calculated
-Surfshark,SystemPerformance,Ram delta mb,WireGuard,403.2,,calculated
 Surfshark,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Surfshark,ValueForMoney,_section_total,Overall,,7.30,calculated
 Surfshark,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
