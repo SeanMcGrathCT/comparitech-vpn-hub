@@ -81,7 +81,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 8.13,
+      "overall_score": 8.14,
       "sample_count": 53,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
@@ -129,7 +129,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.96,
+      "overall_score": 7.92,
       "sample_count": 54,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
@@ -177,7 +177,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 8.02,
+      "overall_score": 7.85,
       "sample_count": 55,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
@@ -225,7 +225,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.22,
+      "overall_score": 7.2,
       "sample_count": 47,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
@@ -273,7 +273,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 8.03,
+      "overall_score": 7.9,
       "sample_count": 64,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
@@ -321,7 +321,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 6.15,
+      "overall_score": 6.18,
       "sample_count": 35,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
@@ -369,7 +369,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.4,
+      "overall_score": 7.38,
       "sample_count": 58,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
