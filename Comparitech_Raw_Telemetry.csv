@@ -45,7 +45,7 @@ Private Internet Access,4.73,8.3,5.0,0.8,,8.5,8.42,5,,,,,,,,1.33,2.19,11.95,"Win
 PrivateVPN,4.39,5.9,5.0,1.0,,7.46,7.4,5,,,,,,,,2.00,6.00,9.90,"Windows, macOS, iOS, Android, Fire TV, Chrome, Linux, Router, Android TV",,63,200,logs_kept,10,Yes,No
 ProtonVPN,7.96,7.6,6.5,9.5,,7.76,8.8,5,7 of 7,2026-06-16T13:27:35Z,working,,,working,2026-06-10T16:23:59Z,2.99,6.99,9.99,"Windows, macOS, Linux, iOS, Android, Android TV, Apple TV, Fire TV, Router, Chromebook, Chrome, Firefox",672.245,148,20332,claimed,10,Yes,No
 PureVPN,4.79,7.7,5.0,1.0,,7.76,8.42,5,,,,,,,,1.99,3.99,12.95,"Windows, macOS, iOS, Android, Linux, Chrome, Firefox, Edge, Apple TV, Android TV, Fire TV, Router",,65,6000,claimed,10,Yes,Yes
-Rocket VPN,2.46,4.6,5.0,0.3,,4.86,2.7,5,,,,,,,,4.17,5.83,19.99,"Windows, macOS, Linux, iOS, Android, Apple TV, Android TV, Router",,60,100,,10,No,No
+Rocket VPN,2.63,4.9,5.0,0.3,,5.36,3.2,5,,,,,,,,4.17,5.83,19.99,"Windows, macOS, Linux, iOS, Android, Apple TV, Android TV, Router",,60,100,logs_kept,10,No,No
 Smart DNS Proxy,2.31,4.1,5.0,1.2,,5.35,0.5,5,,,,,,,,2.85,4.61,6.79,,,39,400,,5,Yes,Yes
 Speedify,2.9,5.3,5.0,0.3,,4.45,5.82,5,,,,,,,,4.99,14.99,14.99,"Windows, macOS, Linux, iOS, Android, Router, Android TV",,37,56,logs_kept,5,No,No
 StrongVPN,3.89,5.8,5.0,0.8,,5.46,7.02,5,,,,,,,,3.97,7.49,11.99,"Windows, macOS, iOS, Android, Fire TV, Router, Chrome, Linux, Android TV",,30,950,logs_kept,12,No,Yes

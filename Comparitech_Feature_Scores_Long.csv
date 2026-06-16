@@ -3505,29 +3505,34 @@ PureVPN,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 PureVPN,ValueForMoney,Student discount,Overall,yes,0.20,manual_admin
 PureVPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 PureVPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
-Rocket VPN,EaseOfUse,_section_total,Overall,,2.70,calculated
+Rocket VPN,EaseOfUse,_section_total,Overall,,3.20,calculated
+Rocket VPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 Rocket VPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
-Rocket VPN,EaseOfUse,Ease of cancellation,Overall,difficult,0.00,manual_admin
+Rocket VPN,EaseOfUse,Ease of cancellation,Overall,moderate,0.20,editorial_default
 Rocket VPN,EaseOfUse,Ease of signup,Overall,very_easy,0.70,manual_admin
 Rocket VPN,EaseOfUse,Knowledge base,Overall,basic,0.20,manual_admin
 Rocket VPN,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
-Rocket VPN,EaseOfUse,Live chat quality,Overall,email_only,0.10,manual_admin
+Rocket VPN,EaseOfUse,Live chat quality,Overall,business_hours,0.40,editorial_default
 Rocket VPN,EaseOfUse,Quick connect,Overall,no,0.00,manual_admin
 Rocket VPN,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
 Rocket VPN,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
 Rocket VPN,EaseOfUse,Setup guides,Overall,partial,0.20,manual_admin
 Rocket VPN,EaseOfUse,Streaming device apps eou,Overall,2_plus,0.50,editorial_default
 Rocket VPN,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
-Rocket VPN,Security,_section_total,Overall,,4.60,calculated
+Rocket VPN,Security,_section_total,Overall,,4.90,calculated
 Rocket VPN,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
 Rocket VPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
 Rocket VPN,Security,Encryption strength,Overall,aes_128_or_higher,0.60,calculated
+Rocket VPN,Security,Hq jurisdiction,Overall,inside_14_eyes,0.00,manual_admin
+Rocket VPN,Security,Independent audit,Overall,none,0.00,editorial_default
 Rocket VPN,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 Rocket VPN,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 Rocket VPN,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
-Rocket VPN,Security,Modern protocols,Overall,openvpn_only,0.30,calculated
+Rocket VPN,Security,Modern protocols,Overall,has_modern,0.70,manual_admin
+Rocket VPN,Security,No logs policy status,Overall,logs_kept,0.00,editorial_default
 Rocket VPN,Security,Obfuscation available,Overall,no,0.00,calculated
 Rocket VPN,Security,Perfect forward secrecy,Overall,no,0.00,calculated
+Rocket VPN,Security,Restrictive region access,Overall,yes,0.30,editorial_default
 Rocket VPN,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 Rocket VPN,Speed,_section_total,Overall,,7.80,calculated
 Rocket VPN,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
@@ -3560,8 +3565,9 @@ Rocket VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editori
 Rocket VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 Rocket VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Rocket VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-Rocket VPN,ValueForMoney,_section_total,Overall,,4.86,calculated
+Rocket VPN,ValueForMoney,_section_total,Overall,,5.36,calculated
 Rocket VPN,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
+Rocket VPN,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
 Rocket VPN,ValueForMoney,Connection limit tier,Overall,10_plus,1.36,editorial_default
 Rocket VPN,ValueForMoney,Country count,Overall,30_to_59,,manual_admin
 Rocket VPN,ValueForMoney,Free trial available,Overall,yes,0.40,manual_admin
@@ -3573,6 +3579,7 @@ Rocket VPN,ValueForMoney,Money back duration,Overall,under_7,0.00,editorial_defa
 Rocket VPN,ValueForMoney,Monthly price tier,Overall,over_14,0.00,editorial_default
 Rocket VPN,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
 Rocket VPN,ValueForMoney,Renewal lowest price tier,Overall,5_to_7,0.50,editorial_default
+Rocket VPN,ValueForMoney,Static ip included,Overall,no,0.00,editorial_default
 Rocket VPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 Rocket VPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 Rocket VPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
