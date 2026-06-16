@@ -33,7 +33,7 @@ Lantern (not a VPN - web-browser-based service),1.29,4.5,5.0,0.15,,0.75,1.4,5,,,
 Monster VPN,2.04,3.9,5.0,0.3,,3.75,1.6,5,,,,,,,,4.75,4375.00,8.50,,,18,50,,5,,
 Mullvad VPN,2.96,7.2,5.0,0.3,,5.55,3.8,5,,,,,,,,5.77,5.77,5.77,"Windows, macOS, Linux, Router, Android TV, Fire TV",,50,540,claimed,5,No,No
 NoLagVPN,1.92,3.6,5.0,0.15,,4.8,2.0,5,,,,,,,,2.99,2.99,7.90,,,21,0,,No,No,
-NordVPN,8.0,10.0,6.0,10.0,,6.26,8.72,5,7 of 7,2026-06-12T10:06:24Z,working,,,working,2026-06-12T09:57:29Z,3.09,11.59,12.99,"Windows, macOS, Linux, iOS, Android, Android TV, Apple TV, Fire TV, Router, Chrome, Firefox, Edge, Chromebook",697.86,135,8000,audited,10,No,Yes
+NordVPN,8.0,10.0,6.0,10.0,,6.26,8.72,5,7 of 7,2026-06-16T12:00:50Z,working,,,working,2026-06-12T09:57:29Z,3.09,11.59,12.99,"Windows, macOS, Linux, iOS, Android, Android TV, Apple TV, Fire TV, Router, Chrome, Firefox, Edge, Chromebook",697.86,135,8000,audited,10,No,Yes
 Norton Secure VPN,1.7,3.3,5.0,0.3,,2.4,1.2,5,,,,,,,,,,,,,22,36,,unlimited,No,
 Oeck VPN,3.36,7.0,5.0,0.5,,4.41,5.52,5,,,,,,,,,,,"Windows, Linux, Android, Router",,3,0,claimed,6,Yes,
 OneVPN,1.83,5.0,5.0,0.3,,1.51,,4,,,,,,,,,,,,,41,95,,6,Yes,
@@ -67,7 +67,7 @@ VPN Unlimited,3.31,6.2,5.0,0.45,,6.65,4.3,5,,,,,,,,4.50,5.00,9.99,"Windows, macO
 VPNArea,2.02,5.6,5.0,0.3,,2.0,,4,,,,,,,,,,,,,69,480,,Unlimited,Yes,
 VPNBook,1.26,5.6,5.0,0.15,,0.55,1.4,5,,,,,,,,,,,,,0,0,,0,,
 VPNGate,1.12,3.6,5.0,0.15,,0.95,0.7,5,,,,,,,,,,,,,239,6788,,0,,
-VPNSecure,2.88,4.2,5.0,0.6,,8.3,1.9,5,,,,,,,,2.99,2.99,9.95,"Windows, macOS, Linux, iOS, Android, Router",,45,100,logs_kept,Unlimited,Yes,Yes
+VPNSecure,3.34,6.7,5.0,0.6,,8.3,2.5,5,,,,,,,,2.99,2.99,9.95,"Windows, macOS, Linux, iOS, Android, Router",,45,100,logs_kept,Unlimited,Yes,Yes
 VyprVPN,3.87,7.0,5.0,0.6,,6.76,6.12,5,,,,,,,,3.00,3.00,5.00,"Windows, macOS, iOS, Android, Linux, Apple TV, Fire TV, Android TV, Router",,63,700,claimed,10,No,Yes
 Windscribe,3.29,7.5,5.0,0.3,,6.16,5.6,5,,,,,,,,5.75,5.75,9.00,,,71,700,claimed,10,No,No
 Witopia VPN,3.21,6.2,5.0,0.45,,5.4,4.5,5,,,,,,,,2.49,3.99,9.99,,,40,650,logs_kept,5/8,No,No
