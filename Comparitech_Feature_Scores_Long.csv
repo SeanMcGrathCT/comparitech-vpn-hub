@@ -5119,8 +5119,8 @@ VPNSecure,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
 VPNSecure,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
 VPNSecure,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
 VPNSecure,EaseOfUse,Task specific servers,Overall,yes,0.40,manual_admin
-VPNSecure,Security,_section_total,Overall,,4.00,calculated
-VPNSecure,Security,Anonymous payment,Overall,single,0.20,editorial_default
+VPNSecure,Security,_section_total,Overall,,4.20,calculated
+VPNSecure,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
 VPNSecure,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
 VPNSecure,Security,Hq jurisdiction,Overall,outside_14_eyes,0.50,calculated
 VPNSecure,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
@@ -5158,14 +5158,14 @@ VPNSecure,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editoria
 VPNSecure,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 VPNSecure,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 VPNSecure,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-VPNSecure,ValueForMoney,_section_total,Overall,,5.80,calculated
-VPNSecure,ValueForMoney,Anonymous payments vfm,Overall,single,0.30,editorial_default
+VPNSecure,ValueForMoney,_section_total,Overall,,6.50,calculated
+VPNSecure,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
 VPNSecure,ValueForMoney,Connection limit tier,Overall,unlimited,1.70,editorial_default
 VPNSecure,ValueForMoney,Country count,Overall,under_30,,manual_admin
 VPNSecure,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 VPNSecure,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
 VPNSecure,ValueForMoney,Intro lowest price tier,Overall,under_3_usd,1.00,editorial_default
-VPNSecure,ValueForMoney,Money back duration,Overall,7_to_13,0.40,editorial_default
+VPNSecure,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial_default
 VPNSecure,ValueForMoney,Monthly price tier,Overall,under_10,1.00,editorial_default
 VPNSecure,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
 VPNSecure,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
