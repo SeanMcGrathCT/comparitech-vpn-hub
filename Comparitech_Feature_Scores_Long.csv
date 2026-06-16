@@ -537,7 +537,7 @@ Betternet,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
 Betternet,ValueForMoney,_section_total,Overall,,0.45,calculated
 Betternet,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
 Betternet,ValueForMoney,Country count,Overall,under_30,,manual_admin
-Bitdefender VPN,EaseOfUse,_section_total,Overall,,2.20,calculated
+Bitdefender VPN,EaseOfUse,_section_total,Overall,,3.00,calculated
 Bitdefender VPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 Bitdefender VPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
 Bitdefender VPN,EaseOfUse,Ease of cancellation,Overall,very_easy,0.40,editorial_default
@@ -548,7 +548,7 @@ Bitdefender VPN,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
 Bitdefender VPN,EaseOfUse,Router support,Overall,none,0.00,editorial_default
 Bitdefender VPN,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
 Bitdefender VPN,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
-Bitdefender VPN,Security,_section_total,Overall,,7.60,calculated
+Bitdefender VPN,Security,_section_total,Overall,,8.30,calculated
 Bitdefender VPN,Security,Anonymous payment,Overall,none,0.00,editorial_default
 Bitdefender VPN,Security,Authentication strength,Overall,sha384_or_higher,0.30,manual_admin
 Bitdefender VPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
@@ -596,7 +596,7 @@ Bitdefender VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,ed
 Bitdefender VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 Bitdefender VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Bitdefender VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-Bitdefender VPN,ValueForMoney,_section_total,Overall,,6.96,calculated
+Bitdefender VPN,ValueForMoney,_section_total,Overall,,6.76,calculated
 Bitdefender VPN,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default
 Bitdefender VPN,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
 Bitdefender VPN,ValueForMoney,Connection limit tier,Overall,10_plus,1.36,editorial_default
@@ -4436,7 +4436,7 @@ Ultrasurf,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 Ultrasurf,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
 Ultrasurf,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 Ultrasurf,ValueForMoney,Subscription term count,Overall,one,0.10,manual_admin
-UltraVPN,EaseOfUse,_section_total,Overall,,1.00,calculated
+UltraVPN,EaseOfUse,_section_total,Overall,,2.80,calculated
 UltraVPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 UltraVPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
 UltraVPN,EaseOfUse,Ease of cancellation,Overall,moderate,0.20,editorial_default
@@ -4447,7 +4447,7 @@ UltraVPN,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
 UltraVPN,EaseOfUse,Router support,Overall,none,0.00,editorial_default
 UltraVPN,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
 UltraVPN,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
-UltraVPN,Security,_section_total,Overall,,5.70,calculated
+UltraVPN,Security,_section_total,Overall,,6.30,calculated
 UltraVPN,Security,Anonymous payment,Overall,none,0.00,editorial_default
 UltraVPN,Security,Authentication strength,Overall,weaker,0.00,calculated
 UltraVPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
@@ -5119,7 +5119,8 @@ VPNSecure,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
 VPNSecure,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
 VPNSecure,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
 VPNSecure,EaseOfUse,Task specific servers,Overall,yes,0.40,manual_admin
-VPNSecure,Security,_section_total,Overall,,3.80,calculated
+VPNSecure,Security,_section_total,Overall,,4.00,calculated
+VPNSecure,Security,Anonymous payment,Overall,single,0.20,editorial_default
 VPNSecure,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
 VPNSecure,Security,Hq jurisdiction,Overall,outside_14_eyes,0.50,calculated
 VPNSecure,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
@@ -5157,14 +5158,19 @@ VPNSecure,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editoria
 VPNSecure,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 VPNSecure,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 VPNSecure,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-VPNSecure,ValueForMoney,_section_total,Overall,,2.20,calculated
+VPNSecure,ValueForMoney,_section_total,Overall,,5.80,calculated
+VPNSecure,ValueForMoney,Anonymous payments vfm,Overall,single,0.30,editorial_default
 VPNSecure,ValueForMoney,Connection limit tier,Overall,unlimited,1.70,editorial_default
 VPNSecure,ValueForMoney,Country count,Overall,under_30,,manual_admin
 VPNSecure,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 VPNSecure,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+VPNSecure,ValueForMoney,Intro lowest price tier,Overall,under_3_usd,1.00,editorial_default
+VPNSecure,ValueForMoney,Money back duration,Overall,7_to_13,0.40,editorial_default
 VPNSecure,ValueForMoney,Monthly price tier,Overall,under_10,1.00,editorial_default
+VPNSecure,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
 VPNSecure,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 VPNSecure,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
+VPNSecure,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 VyprVPN,EaseOfUse,_section_total,Overall,,6.12,calculated
 VyprVPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 VyprVPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
