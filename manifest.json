@@ -1,15 +1,15 @@
 {
-  "exported_at_utc": "2026-06-16T14:14:21.290339+00:00",
+  "exported_at_utc": "2026-06-16T16:03:23.527363+00:00",
   "schema_version": "a979f578c07f",
   "curve_quarter": "2026-04-01",
   "speed_reference_band": "5.0-8.5",
   "providers_total": 74,
   "telemetry_rows": 74,
-  "feature_rows": 5596,
+  "feature_rows": 5598,
   "streaming_rows": 70,
   "feature_data_source_distribution": {
-    "calculated": 1003,
-    "manual_admin": 812,
+    "calculated": 1001,
+    "manual_admin": 816,
     "editorial_default": 3034,
     "comparitech_api": 476,
     "benchmark_run": 271
