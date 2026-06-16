@@ -1222,15 +1222,15 @@ ExpressVPN,Speed,_section_total,WireGuard,,8.20,calculated
 ExpressVPN,Speed,_section_total,OpenVPN (UDP),,7.70,calculated
 ExpressVPN,Speed,_section_total,OpenVPN (TCP),,3.10,calculated
 ExpressVPN,Speed,_section_total,Lightway (UDP),,7.70,calculated
-ExpressVPN,Speed,_section_total_v3_global,Overall,,8.25,calculated
+ExpressVPN,Speed,_section_total_v3_global,Overall,,8.24,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,WireGuard,,8.91,calculated
-ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.88,calculated
+ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.60,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.77,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,Lightway (UDP),,7.44,calculated
-ExpressVPN,Speed,_section_total_v3_uk,Overall,,8.25,calculated
+ExpressVPN,Speed,_section_total_v3_uk,Overall,,8.23,calculated
 ExpressVPN,Speed,_speed_v3_dl,Overall,,0.50,calculated
 ExpressVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
-ExpressVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.664308, ""dl"": 0.502098, ""ul"": 0.081999, ""lat"": 0.080212, ""curve_score"": 8.25, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.66,calculated
+ExpressVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.658059, ""dl"": 0.497789, ""ul"": 0.080069, ""lat"": 0.080201, ""curve_score"": 8.23, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.66,calculated
 ExpressVPN,Speed,_speed_v3_ul,Overall,,0.08,calculated
 ExpressVPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 ExpressVPN,Speed,Connection time,WireGuard,tier_slow,0.00,benchmark_run
@@ -2570,14 +2570,14 @@ NordVPN,Speed,_section_total,Overall,,7.80,calculated
 NordVPN,Speed,_section_total,OpenVPN (UDP),,5.50,calculated
 NordVPN,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
 NordVPN,Speed,_section_total,NordLynx,,7.10,calculated
-NordVPN,Speed,_section_total_v3_global,Overall,,6.71,calculated
-NordVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.25,calculated
+NordVPN,Speed,_section_total_v3_global,Overall,,6.77,calculated
+NordVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.43,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.59,calculated
 NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.77,calculated
-NordVPN,Speed,_section_total_v3_uk,Overall,,6.00,calculated
+NordVPN,Speed,_section_total_v3_uk,Overall,,6.12,calculated
 NordVPN,Speed,_speed_v3_dl,Overall,,0.46,calculated
 NordVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
-NordVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.562096, ""dl"": 0.45936, ""ul"": 0.021367, ""lat"": 0.081369, ""curve_score"": 6.0, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.56,calculated
+NordVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.56372, ""dl"": 0.461039, ""ul"": 0.021303, ""lat"": 0.081379, ""curve_score"": 6.12, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.56,calculated
 NordVPN,Speed,_speed_v3_ul,Overall,,0.02,calculated
 NordVPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 NordVPN,Speed,Connection time,OpenVPN (UDP),tier_fast,0.10,benchmark_run
@@ -3327,14 +3327,14 @@ ProtonVPN,Speed,_section_total,Overall,,7.80,calculated
 ProtonVPN,Speed,_section_total,WireGuard,,5.40,calculated
 ProtonVPN,Speed,_section_total,OpenVPN (UDP),,6.70,calculated
 ProtonVPN,Speed,_section_total,OpenVPN (TCP),,5.40,calculated
-ProtonVPN,Speed,_section_total_v3_global,Overall,,6.62,calculated
+ProtonVPN,Speed,_section_total_v3_global,Overall,,6.67,calculated
 ProtonVPN,Speed,_section_total_v3_protocol,WireGuard,,7.76,calculated
-ProtonVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.11,calculated
+ProtonVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.12,calculated
 ProtonVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.97,calculated
-ProtonVPN,Speed,_section_total_v3_uk,Overall,,6.48,calculated
+ProtonVPN,Speed,_section_total_v3_uk,Overall,,6.50,calculated
 ProtonVPN,Speed,_speed_v3_dl,Overall,,0.48,calculated
 ProtonVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
-ProtonVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.576112, ""dl"": 0.481248, ""ul"": 0.014255, ""lat"": 0.080609, ""curve_score"": 6.48, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.58,calculated
+ProtonVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.577301, ""dl"": 0.481924, ""ul"": 0.014769, ""lat"": 0.080609, ""curve_score"": 6.5, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.58,calculated
 ProtonVPN,Speed,_speed_v3_ul,Overall,,0.01,calculated
 ProtonVPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 ProtonVPN,Speed,Connection time,WireGuard,tier_slow,0.00,benchmark_run
@@ -3505,16 +3505,18 @@ PureVPN,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 PureVPN,ValueForMoney,Student discount,Overall,yes,0.20,manual_admin
 PureVPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 PureVPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
-Rocket VPN,EaseOfUse,_section_total,Overall,,1.40,calculated
+Rocket VPN,EaseOfUse,_section_total,Overall,,2.70,calculated
+Rocket VPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
 Rocket VPN,EaseOfUse,Ease of cancellation,Overall,difficult,0.00,manual_admin
 Rocket VPN,EaseOfUse,Ease of signup,Overall,very_easy,0.70,manual_admin
 Rocket VPN,EaseOfUse,Knowledge base,Overall,basic,0.20,manual_admin
-Rocket VPN,EaseOfUse,Linux support,Overall,none,0.00,manual_admin
+Rocket VPN,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
 Rocket VPN,EaseOfUse,Live chat quality,Overall,email_only,0.10,manual_admin
 Rocket VPN,EaseOfUse,Quick connect,Overall,no,0.00,manual_admin
 Rocket VPN,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
-Rocket VPN,EaseOfUse,Router support,Overall,manual_config_only,0.20,manual_admin
+Rocket VPN,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
 Rocket VPN,EaseOfUse,Setup guides,Overall,partial,0.20,manual_admin
+Rocket VPN,EaseOfUse,Streaming device apps eou,Overall,2_plus,0.50,editorial_default
 Rocket VPN,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
 Rocket VPN,Security,_section_total,Overall,,4.60,calculated
 Rocket VPN,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
@@ -3540,6 +3542,7 @@ Rocket VPN,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_defaul
 Rocket VPN,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
 Rocket VPN,Streaming,_section_total,Overall,,0.30,calculated
 Rocket VPN,Streaming,Android tv app,Overall,,0.00,comparitech_api
+Rocket VPN,Streaming,Browser extensions,Overall,no,,editorial_default
 Rocket VPN,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 Rocket VPN,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 Rocket VPN,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
@@ -3557,14 +3560,22 @@ Rocket VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editori
 Rocket VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 Rocket VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Rocket VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-Rocket VPN,ValueForMoney,_section_total,Overall,,1.85,calculated
+Rocket VPN,ValueForMoney,_section_total,Overall,,4.86,calculated
 Rocket VPN,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
-Rocket VPN,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
+Rocket VPN,ValueForMoney,Connection limit tier,Overall,10_plus,1.36,editorial_default
 Rocket VPN,ValueForMoney,Country count,Overall,30_to_59,,manual_admin
 Rocket VPN,ValueForMoney,Free trial available,Overall,yes,0.40,manual_admin
 Rocket VPN,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+Rocket VPN,ValueForMoney,Includes dark web monitor,Overall,no,0.00,editorial_default
+Rocket VPN,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_default
+Rocket VPN,ValueForMoney,Intro lowest price tier,Overall,3_to_5,0.70,editorial_default
+Rocket VPN,ValueForMoney,Money back duration,Overall,under_7,0.00,editorial_default
+Rocket VPN,ValueForMoney,Monthly price tier,Overall,over_14,0.00,editorial_default
+Rocket VPN,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
+Rocket VPN,ValueForMoney,Renewal lowest price tier,Overall,5_to_7,0.50,editorial_default
 Rocket VPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 Rocket VPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
+Rocket VPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 Smart DNS Proxy,EaseOfUse,_section_total,Overall,,0.50,calculated
 Smart DNS Proxy,EaseOfUse,Ease of cancellation,Overall,very_easy,0.40,editorial_default
 Smart DNS Proxy,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
@@ -4062,7 +4073,7 @@ Total VPN,Security,Hq jurisdiction,Overall,inside_14_eyes,0.00,editorial_default
 Total VPN,Security,Independent audit,Overall,none,0.00,editorial_default
 Total VPN,Security,Ip logs,Overall,No,0.60,comparitech_api
 Total VPN,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,benchmark_run
-Total VPN,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
+Total VPN,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,benchmark_run
 Total VPN,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
 Total VPN,Security,Modern protocols,Overall,has_modern,0.70,calculated
 Total VPN,Security,No logs policy status,Overall,logs_kept,0.00,editorial_default
@@ -4081,7 +4092,7 @@ Total VPN,Speed,_section_total,OpenVPN (UDP),,3.45,calculated
 Total VPN,Speed,_section_total,OpenVPN (TCP),,5.65,calculated
 Total VPN,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),6.67,calculated
 Total VPN,Speed,_section_total_v3_protocol,WireGuard,,7.87,calculated
-Total VPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.36,calculated
+Total VPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.52,calculated
 Total VPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.78,calculated
 Total VPN,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.24,calculated
 Total VPN,Speed,_speed_v3_dl,Overall,,0.46,calculated
@@ -4140,16 +4151,16 @@ Total VPN,Streaming,Tier2 streaming,Overall,most_3_or_4,1.00,benchmark_run
 Total VPN,Streaming,Tier3 streaming,Overall,most_3_or_4,0.30,benchmark_run
 Total VPN,Streaming,Works in high censorship countries,Overall,1,1.00,comparitech_api
 Total VPN,SystemPerformance,_section_total,Overall,,4.00,calculated
-Total VPN,SystemPerformance,_section_total_v3_sysperf,Overall,0.04591,6.72,calculated
-Total VPN,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.04591,6.72,calculated
-Total VPN,SystemPerformance,Idle delta cpu pct,Overall,-3.3453,,calculated
-Total VPN,SystemPerformance,Idle delta cpu pct,OpenVPN (UDP),-3.3453,,calculated
+Total VPN,SystemPerformance,_section_total_v3_sysperf,Overall,0.04822,6.69,calculated
+Total VPN,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.04822,6.69,calculated
+Total VPN,SystemPerformance,Idle delta cpu pct,Overall,-3.4127,,calculated
+Total VPN,SystemPerformance,Idle delta cpu pct,OpenVPN (UDP),-3.4127,,calculated
 Total VPN,SystemPerformance,Idle delta cpu tier,Overall,tier_okay,0.00,editorial_default
-Total VPN,SystemPerformance,Load efficiency per mbps,Overall,0.04591,,calculated
-Total VPN,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.04591,,calculated
+Total VPN,SystemPerformance,Load efficiency per mbps,Overall,0.04822,,calculated
+Total VPN,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.04822,,calculated
 Total VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_default
-Total VPN,SystemPerformance,Ram delta mb,Overall,261.3,,calculated
-Total VPN,SystemPerformance,Ram delta mb,OpenVPN (UDP),261.3,,calculated
+Total VPN,SystemPerformance,Ram delta mb,Overall,256.5,,calculated
+Total VPN,SystemPerformance,Ram delta mb,OpenVPN (UDP),256.5,,calculated
 Total VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Total VPN,ValueForMoney,_section_total,Overall,,5.05,calculated
 Total VPN,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default

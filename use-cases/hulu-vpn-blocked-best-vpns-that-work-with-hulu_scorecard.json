@@ -85,8 +85,8 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 8.14,
-      "sample_count": 50,
+      "overall_score": 8.13,
+      "sample_count": 51,
       "dimensions": {
         "stream_hulu_unblock_rate": {
           "raw": 100,
@@ -110,10 +110,10 @@
           "state": "scored"
         },
         "latency_us_p50_ms": {
-          "raw": 62.24,
-          "display": "62.24",
-          "points": 1.199484,
-          "sample_count": 161,
+          "raw": 62.290000000000006,
+          "display": "62.29",
+          "points": 1.1991265,
+          "sample_count": 164,
           "state": "scored"
         },
         "effective_monthly_price_usd": {
@@ -229,7 +229,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 8.0,
+      "overall_score": 8.03,
       "sample_count": 58,
       "dimensions": {
         "stream_hulu_unblock_rate": {
@@ -277,8 +277,8 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 6.16,
-      "sample_count": 33,
+      "overall_score": 6.15,
+      "sample_count": 34,
       "dimensions": {
         "stream_hulu_unblock_rate": {
           "raw": 100,
@@ -302,10 +302,10 @@
           "state": "scored"
         },
         "latency_us_p50_ms": {
-          "raw": 64.49,
-          "display": "64.49",
-          "points": 1.1833965,
-          "sample_count": 74,
+          "raw": 64.495,
+          "display": "64.50",
+          "points": 1.1833607499999999,
+          "sample_count": 77,
           "state": "scored"
         },
         "effective_monthly_price_usd": {
