@@ -7,7 +7,7 @@ Astrill VPN,2.35,6.4,5.0,0.45,,1.45,3.42,5,,,,,,,,,,,,,0,48,,0,,Yes
 Avast Secureline VPN,3.5,6.1,5.0,0.6,,6.36,4.52,5,,,,,,,,3.99,8.33,,"Windows, macOS, Android, iOS, Android TV",,60,0,logs_kept,10,No,No
 AVG Secure VPN,2.5,4.0,5.0,0.3,,3.96,4.1,5,,,,,,,,3.99,8.33,,"Windows, macOS, Android, iOS",,65,8000,,10,,
 Betternet,1.15,5.4,5.0,0.15,,0.45,1.1,5,,,,,,,,,,,,,0,0,,0,,
-Bitdefender VPN,1.14,5.6,5.0,0.3,,2.26,0.0,5,,,,,,,,,,,,,50,4000,,10,,
+Bitdefender VPN,2.81,7.6,5.0,0.3,,6.96,2.2,5,,,,,,,,2.92,5.83,2.92,"Windows, macOS, iOS, Android",,100,3000,audited,10,No,No
 BolehVPN,3.41,7.1,5.0,0.45,,6.25,4.6,5,,,,,,,,6.66,6.66,9.99,"Windows, macOS, Linux, iOS, Android, Router",,12,300,logs_kept,3,No,No
 BulletVPN,2.05,5.4,5.0,0.3,,2.11,2.1,5,,,,,,,,,,,,,27,52,,6,,
 bVPN,3.31,6.2,5.0,0.6,,5.61,3.8,5,,,,,,,,7.50,7.50,9.99,"Windows, macOS, iOS, Android, Android TV, Linux",,80,1000,logs_kept,6,Yes,No
@@ -57,7 +57,7 @@ TunnelBear,3.04,6.4,5.0,0.3,,6.1,4.4,5,,,,,,,,3.33,4.99,9.99,"Windows, macOS, iO
 TurboVPN,3.56,6.5,5.0,0.45,,6.7,5.8,5,,,,,,,,2.96,2.96,11.99,"Windows, macOS, iOS, Android, Chrome, Linux, Edge, Android TV",,111,21000,logs_kept,10/20,No,Yes
 Ultra VPN,1.16,5.4,5.0,0.15,,0.45,,4,,,,,,,,,,,,,7,150,,2,,
 Ultrasurf,1.49,4.1,5.0,0.3,,1.01,1.2,5,,,,,,,,,,,,,44,86,,6,No,
-UltraVPN,1.07,5.7,5.0,0.3,,1.66,0.0,5,,,,,,,,,,,,,116,1300,,10,No,No
+UltraVPN,2.16,5.7,5.0,0.3,,5.56,1.0,5,,,,,,,,2.99,8.33,,"Windows, macOS, iOS, Android",,81,1800,logs_kept,10,No,No
 Unblock VPN,2.32,5.1,5.0,0.6,,5.46,0.8,5,,,,,,,,3.85,,13.88,"Windows, macOS, iOS, Android, Linux",,3,50,logs_kept,10,No,No
 Unlocator VPN,3.33,5.0,5.0,0.6,,6.66,4.1,5,,,,,,,,4.96,4.96,11.99,"Windows, macOS, Android, iOS, Linux, Router, Android TV, Apple TV, Fire TV, Smart TV",,40,700,logs_kept,10,No,Yes
 VeePN,3.55,6.7,5.0,0.45,,6.0,6.22,5,,,,,,,,1.99,1.99,14.99,"Windows, macOS, iOS, Android, Chrome, Firefox, Edge, Router, Android TV, Fire TV, Smart TV, Linux, Apple TV",,85,2600,logs_kept,5/10/20,No,Yes
@@ -67,7 +67,7 @@ VPN Unlimited,3.31,6.2,5.0,0.45,,6.65,4.3,5,,,,,,,,4.50,5.00,9.99,"Windows, macO
 VPNArea,2.02,5.6,5.0,0.3,,2.0,,4,,,,,,,,,,,,,69,480,,Unlimited,Yes,
 VPNBook,1.26,5.6,5.0,0.15,,0.55,1.4,5,,,,,,,,,,,,,0,0,,0,,
 VPNGate,1.12,3.6,5.0,0.15,,0.95,0.7,5,,,,,,,,,,,,,239,6788,,0,,
-VPNSecure,1.77,3.8,5.0,0.3,,2.2,1.4,5,,,,,,,,,,,,,21,42,,Unlimited,Yes,
+VPNSecure,1.77,3.8,5.0,0.3,,2.2,1.4,5,,,,,,,,,,9.95,"Windows, macOS, Linux, iOS, Android, Router",,40,42,,Unlimited,Yes,
 VyprVPN,3.87,7.0,5.0,0.6,,6.76,6.12,5,,,,,,,,3.00,3.00,5.00,"Windows, macOS, iOS, Android, Linux, Apple TV, Fire TV, Android TV, Router",,63,700,claimed,10,No,Yes
 Windscribe,3.29,7.5,5.0,0.3,,6.16,5.6,5,,,,,,,,5.75,5.75,9.00,,,71,700,claimed,10,No,No
 Witopia VPN,3.21,6.2,5.0,0.45,,5.4,4.5,5,,,,,,,,2.49,3.99,9.99,,,40,650,logs_kept,5/8,No,No
