@@ -464,8 +464,8 @@
     }
   ],
   "files": {
-    "scorecard_csv": "https://raw.githubusercontent.com/SeanMcGrathCT/comparitech-vpn-hub/main/use-cases/hulu-vpn-blocked-best-vpns-that-work-with-hulu_scorecard.csv",
-    "scorecard_json": "https://raw.githubusercontent.com/SeanMcGrathCT/comparitech-vpn-hub/main/use-cases/hulu-vpn-blocked-best-vpns-that-work-with-hulu_scorecard.json",
-    "streaming_scorecard_csv": "https://raw.githubusercontent.com/SeanMcGrathCT/comparitech-vpn-hub/main/Comparitech_Streaming_Scorecard.csv"
+    "scorecard_csv": "https://raw.githubusercontent.com/comparitech-data/comparitech-vpn-hub/main/use-cases/hulu-vpn-blocked-best-vpns-that-work-with-hulu_scorecard.csv",
+    "scorecard_json": "https://raw.githubusercontent.com/comparitech-data/comparitech-vpn-hub/main/use-cases/hulu-vpn-blocked-best-vpns-that-work-with-hulu_scorecard.json",
+    "streaming_scorecard_csv": "https://raw.githubusercontent.com/comparitech-data/comparitech-vpn-hub/main/Comparitech_Streaming_Scorecard.csv"
   }
 }
