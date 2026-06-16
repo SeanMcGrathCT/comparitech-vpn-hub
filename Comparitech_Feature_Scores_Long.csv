@@ -5111,21 +5111,33 @@ VPNGate,ValueForMoney,Free trial available,Overall,yes,0.40,manual_admin
 VPNGate,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
 VPNGate,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 VPNGate,ValueForMoney,Subscription term count,Overall,one,0.10,manual_admin
-VPNSecure,EaseOfUse,_section_total,Overall,,1.40,calculated
+VPNSecure,EaseOfUse,_section_total,Overall,,1.90,calculated
+VPNSecure,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 VPNSecure,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
+VPNSecure,EaseOfUse,Ease of cancellation,Overall,very_easy,0.40,editorial_default
 VPNSecure,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
+VPNSecure,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
 VPNSecure,EaseOfUse,Quick connect,Overall,no,0.00,manual_admin
 VPNSecure,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
 VPNSecure,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
 VPNSecure,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
-VPNSecure,EaseOfUse,Task specific servers,Overall,yes,0.40,manual_admin
+VPNSecure,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
 VPNSecure,Security,_section_total,Overall,,4.20,calculated
 VPNSecure,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
+VPNSecure,Security,Authentication strength,Overall,sha384_or_higher,0.30,manual_admin
 VPNSecure,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
-VPNSecure,Security,Hq jurisdiction,Overall,outside_14_eyes,0.50,calculated
+VPNSecure,Security,Encryption strength,Overall,aes_128_or_higher,0.60,manual_admin
+VPNSecure,Security,Hq jurisdiction,Overall,outside_14_eyes,0.50,manual_admin
+VPNSecure,Security,Independent audit,Overall,none,0.00,editorial_default
 VPNSecure,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 VPNSecure,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 VPNSecure,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
+VPNSecure,Security,Modern protocols,Overall,has_modern,0.70,manual_admin
+VPNSecure,Security,No logs policy status,Overall,logs_kept,0.00,editorial_default
+VPNSecure,Security,Obfuscation available,Overall,yes,0.50,manual_admin
+VPNSecure,Security,Perfect forward secrecy,Overall,yes,0.30,manual_admin
+VPNSecure,Security,Restrictive region access,Overall,no,0.00,editorial_default
+VPNSecure,Security,Rsa key length,Overall,2048,0.10,manual_admin
 VPNSecure,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 VPNSecure,Speed,_section_total,Overall,,7.80,calculated
 VPNSecure,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
@@ -5138,7 +5150,7 @@ VPNSecure,Speed,Long distance speed,Overall,tier_consistent,1.00,editorial_defau
 VPNSecure,Speed,Packet loss tier,Overall,tier_good,0.40,editorial_default
 VPNSecure,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_default
 VPNSecure,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
-VPNSecure,Streaming,_section_total,Overall,,0.30,calculated
+VPNSecure,Streaming,_section_total,Overall,,0.60,calculated
 VPNSecure,Streaming,Android tv app,Overall,,0.00,comparitech_api
 VPNSecure,Streaming,Browser extensions,Overall,no,,editorial_default
 VPNSecure,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
@@ -5146,7 +5158,7 @@ VPNSecure,Streaming,Number of locations in relevant country,Overall,<5,1.20,comp
 VPNSecure,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
 VPNSecure,Streaming,Simultaneous stream capacity,Overall,4_plus,0.30,editorial_default
 VPNSecure,Streaming,Streaming device apps,Overall,none,0.00,calculated
-VPNSecure,Streaming,Streaming unblock toolkit,Overall,no,0.00,editorial_default
+VPNSecure,Streaming,Streaming unblock toolkit,Overall,yes,0.30,editorial_default
 VPNSecure,Streaming,Tier1 streaming,Overall,most_3_or_4,,editorial_default
 VPNSecure,Streaming,Tier2 streaming,Overall,most_3_or_4,,editorial_default
 VPNSecure,Streaming,Tier3 streaming,Overall,most_3_or_4,,editorial_default
@@ -5158,16 +5170,21 @@ VPNSecure,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editoria
 VPNSecure,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 VPNSecure,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 VPNSecure,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-VPNSecure,ValueForMoney,_section_total,Overall,,6.50,calculated
+VPNSecure,ValueForMoney,_section_total,Overall,,8.30,calculated
 VPNSecure,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
+VPNSecure,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
 VPNSecure,ValueForMoney,Connection limit tier,Overall,unlimited,1.70,editorial_default
 VPNSecure,ValueForMoney,Country count,Overall,under_30,,manual_admin
 VPNSecure,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 VPNSecure,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+VPNSecure,ValueForMoney,Includes dark web monitor,Overall,no,0.00,editorial_default
+VPNSecure,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_default
 VPNSecure,ValueForMoney,Intro lowest price tier,Overall,under_3_usd,1.00,editorial_default
 VPNSecure,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial_default
 VPNSecure,ValueForMoney,Monthly price tier,Overall,under_10,1.00,editorial_default
 VPNSecure,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
+VPNSecure,ValueForMoney,Renewal lowest price tier,Overall,under_3_usd,1.00,editorial_default
+VPNSecure,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 VPNSecure,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 VPNSecure,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 VPNSecure,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default

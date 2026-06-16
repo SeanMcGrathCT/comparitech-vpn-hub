@@ -16,7 +16,8 @@ questions about a provider *and* judge how much to trust each value.
 | `Comparitech_Raw_Telemetry.csv` | provider | **The scorecard** — the six category scores + overall, plus headline facts (price, speed, servers, no-logs status…). |
 | `Comparitech_Feature_Scores_Long.csv` | provider × criterion × protocol | The graded evidence behind every score. |
 | `logging_policies.json` | provider | Full no-logs / logging-policy prose, keyed by provider — kept out of the flat CSV so verbose quoted text can't break naive parsers/spreadsheets. |
-| `use-cases/<slug>_scorecard.{json,csv}` + `use-cases/<slug>_streaming_long.csv` | use case (article) | A page-specific chart's own data — its criteria, per-provider point contributions, curated provider set, and per-region streaming evidence (File 3). |
+| `Comparitech_Streaming_Scorecard.csv` | provider × service × region | **One global** streaming-test evidence file (working/partial/blocked counts + latest verdict). Every use-case page links this same file; streaming verdicts are global telemetry, not page-specific (File 3). |
+| `use-cases/<slug>_scorecard.{json,csv}` | use case (article) | A page-specific chart's own data — its criteria, per-provider point contributions, and curated provider set. Streaming-related pages reference the global streaming scorecard via `files.streaming_scorecard_csv`. |
 
 All values are read live from the benchmark database at the moment of download.
 
@@ -203,10 +204,12 @@ The same per-provider rows as a spreadsheet: `provider_slug`,
 `exclusion_reason`, then `<field>__raw` / `<field>__display` / `<field>__points`
 for each criterion, then `overall_score` and `price_basis`.
 
-### `<slug>_streaming_long.csv` (per-region streaming evidence)
+### `Comparitech_Streaming_Scorecard.csv` (global per-region streaming evidence)
 
-The raw streaming results behind a page's per-region / per-service claims — one
-row per (provider, service, target region):
+One global file (at the pack root) holding the raw streaming results behind every
+page's per-region / per-service claims — one row per (provider, service, target
+region). Streaming-related use-case pages link this same file via
+`files.streaming_scorecard_csv`; there is no per-page copy:
 
 | Column | Meaning |
 |---|---|

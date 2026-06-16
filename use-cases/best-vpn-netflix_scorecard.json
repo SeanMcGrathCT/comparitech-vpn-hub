@@ -462,6 +462,6 @@
   "files": {
     "scorecard_csv": "https://raw.githubusercontent.com/SeanMcGrathCT/comparitech-vpn-hub/main/use-cases/best-vpn-netflix_scorecard.csv",
     "scorecard_json": "https://raw.githubusercontent.com/SeanMcGrathCT/comparitech-vpn-hub/main/use-cases/best-vpn-netflix_scorecard.json",
-    "streaming_drilldown_csv": "https://raw.githubusercontent.com/SeanMcGrathCT/comparitech-vpn-hub/main/use-cases/best-vpn-netflix_streaming_long.csv"
+    "streaming_scorecard_csv": "https://raw.githubusercontent.com/SeanMcGrathCT/comparitech-vpn-hub/main/Comparitech_Streaming_Scorecard.csv"
   }
 }
