@@ -82,13 +82,13 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 8.14,
-      "sample_count": 50,
+      "sample_count": 53,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 5,
+          "sample_count": 10,
           "state": "scored"
         },
         "speed_us_retention_pct": {
@@ -102,7 +102,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 4,
+          "sample_count": 9,
           "state": "scored"
         },
         "latency_us_p50_ms": {
@@ -130,19 +130,19 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 7.96,
-      "sample_count": 52,
+      "sample_count": 54,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 1,
+          "sample_count": 5,
           "state": "scored"
         },
         "speed_us_retention_pct": {
-          "raw": 82.05241841173941,
+          "raw": 82.0524184117393,
           "display": "82.05",
-          "points": 2.467042674598194,
+          "points": 2.4670426745981855,
           "sample_count": 77,
           "state": "scored"
         },
@@ -150,7 +150,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 1,
+          "sample_count": 6,
           "state": "scored"
         },
         "latency_us_p50_ms": {
@@ -178,13 +178,13 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 8.0,
-      "sample_count": 53,
+      "sample_count": 55,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 4,
+          "sample_count": 8,
           "state": "scored"
         },
         "speed_us_retention_pct": {
@@ -198,7 +198,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 4,
+          "sample_count": 9,
           "state": "scored"
         },
         "latency_us_p50_ms": {
@@ -226,7 +226,7 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 7.22,
-      "sample_count": 46,
+      "sample_count": 47,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
@@ -246,7 +246,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 4,
+          "sample_count": 9,
           "state": "scored"
         },
         "latency_us_p50_ms": {
@@ -274,13 +274,13 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 8.0,
-      "sample_count": 61,
+      "sample_count": 64,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 13,
+          "sample_count": 19,
           "state": "scored"
         },
         "speed_us_retention_pct": {
@@ -294,7 +294,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 10,
+          "sample_count": 16,
           "state": "scored"
         },
         "latency_us_p50_ms": {
@@ -322,13 +322,13 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 6.16,
-      "sample_count": 33,
+      "sample_count": 34,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 2,
+          "sample_count": 5,
           "state": "scored"
         },
         "speed_us_retention_pct": {
@@ -342,7 +342,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 2,
+          "sample_count": 5,
           "state": "scored"
         },
         "latency_us_p50_ms": {
@@ -370,13 +370,13 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 7.4,
-      "sample_count": 56,
+      "sample_count": 58,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 6,
+          "sample_count": 10,
           "state": "scored"
         },
         "speed_us_retention_pct": {
@@ -390,7 +390,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 4,
+          "sample_count": 8,
           "state": "scored"
         },
         "latency_us_p50_ms": {

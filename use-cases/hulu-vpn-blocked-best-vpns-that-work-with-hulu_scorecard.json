@@ -86,13 +86,13 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 8.14,
-      "sample_count": 49,
+      "sample_count": 50,
       "dimensions": {
         "stream_hulu_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 3,
+          "sample_count": 5,
           "state": "scored"
         },
         "speed_us_retention_pct": {
@@ -106,7 +106,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 3,
+          "sample_count": 5,
           "state": "scored"
         },
         "latency_us_p50_ms": {
@@ -134,13 +134,13 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 7.96,
-      "sample_count": 52,
+      "sample_count": 53,
       "dimensions": {
         "stream_hulu_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 1,
+          "sample_count": 3,
           "state": "scored"
         },
         "speed_us_retention_pct": {
@@ -154,7 +154,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 1,
+          "sample_count": 3,
           "state": "scored"
         },
         "latency_us_p50_ms": {
@@ -182,13 +182,13 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 8.0,
-      "sample_count": 52,
+      "sample_count": 54,
       "dimensions": {
         "stream_hulu_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 3,
+          "sample_count": 6,
           "state": "scored"
         },
         "speed_us_retention_pct": {
@@ -202,7 +202,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 3,
+          "sample_count": 6,
           "state": "scored"
         },
         "latency_us_p50_ms": {
@@ -230,13 +230,13 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 8.0,
-      "sample_count": 57,
+      "sample_count": 58,
       "dimensions": {
         "stream_hulu_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 3,
+          "sample_count": 4,
           "state": "scored"
         },
         "speed_us_retention_pct": {
@@ -250,7 +250,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 3,
+          "sample_count": 4,
           "state": "scored"
         },
         "latency_us_p50_ms": {
@@ -278,19 +278,19 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 6.16,
-      "sample_count": 32,
+      "sample_count": 33,
       "dimensions": {
         "stream_hulu_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 1,
+          "sample_count": 2,
           "state": "scored"
         },
         "speed_us_retention_pct": {
-          "raw": 81.8175667793147,
+          "raw": 81.8175667793146,
           "display": "81.82",
-          "points": 2.4502742680430694,
+          "points": 2.4502742680430623,
           "sample_count": 53,
           "state": "scored"
         },
@@ -298,7 +298,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 1,
+          "sample_count": 2,
           "state": "scored"
         },
         "latency_us_p50_ms": {
@@ -326,19 +326,19 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 7.4,
-      "sample_count": 56,
+      "sample_count": 57,
       "dimensions": {
         "stream_hulu_unblock_rate": {
           "raw": 100,
           "display": "100",
           "points": 2.14,
-          "sample_count": 6,
+          "sample_count": 7,
           "state": "scored"
         },
         "speed_us_retention_pct": {
-          "raw": 71.0234930780852,
+          "raw": 71.0234930780851,
           "display": "71.02",
-          "points": 1.6795774057752828,
+          "points": 1.679577405775276,
           "sample_count": 72,
           "state": "scored"
         },
@@ -346,7 +346,7 @@
           "raw": 100,
           "display": "100",
           "points": 1.43,
-          "sample_count": 6,
+          "sample_count": 7,
           "state": "scored"
         },
         "latency_us_p50_ms": {

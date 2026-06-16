@@ -93,54 +93,54 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 8.14,
-      "sample_count": 51,
+      "sample_count": 52,
       "dimensions": {
         "speed_us_retention_pct": {
           "raw": 85.4328360286265,
           "display": "85.43",
-          "points": 1.8725319480232994,
+          "points": 1.8738820998141492,
           "sample_count": 30,
           "state": "scored"
         },
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 2.4682203389830506,
-          "sample_count": 8,
+          "points": 2.47,
+          "sample_count": 10,
           "state": "scored"
         },
         "latency_us_p50_ms": {
           "raw": 62.24,
           "display": "62.24",
-          "points": 1.5549788135593219,
+          "points": 1.5517800000000002,
           "sample_count": 161,
           "state": "scored"
         },
         "feature_chrome_extension": {
           "raw": true,
           "display": "Yes",
-          "points": 0.9216101694915253,
+          "points": 0.92,
           "sample_count": null,
           "state": "scored"
         },
         "simultaneous_connections": {
           "raw": 7,
           "display": "7",
-          "points": 0.5313559322033897,
+          "points": 0.528,
           "sample_count": null,
           "state": "scored"
         },
         "feature_dedicated_ip": {
           "raw": true,
           "display": "Yes",
-          "points": 0.47669491525423724,
+          "points": 0.48,
           "sample_count": null,
           "state": "scored"
         },
         "stream_disney_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 1.2076271186440675,
+          "points": 1.21,
           "sample_count": 5,
           "state": "scored"
         }
@@ -160,49 +160,49 @@
         "speed_us_retention_pct": {
           "raw": 82.0524184117393,
           "display": "82.05",
-          "points": 1.7056596376981472,
+          "points": 1.7068894695399213,
           "sample_count": 77,
           "state": "scored"
         },
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 2.4682203389830506,
-          "sample_count": 3,
+          "points": 2.47,
+          "sample_count": 5,
           "state": "scored"
         },
         "latency_us_p50_ms": {
           "raw": 64.9,
           "display": "64.90",
-          "points": 1.5303230932203389,
+          "points": 1.5271750000000002,
           "sample_count": 128,
           "state": "scored"
         },
         "feature_chrome_extension": {
           "raw": true,
           "display": "Yes",
-          "points": 0.9216101694915253,
+          "points": 0.92,
           "sample_count": null,
           "state": "scored"
         },
         "simultaneous_connections": {
           "raw": 10,
           "display": "10",
-          "points": 0.6038135593220337,
+          "points": 0.6,
           "sample_count": null,
           "state": "scored"
         },
         "feature_dedicated_ip": {
           "raw": true,
           "display": "Yes",
-          "points": 0.47669491525423724,
+          "points": 0.48,
           "sample_count": null,
           "state": "scored"
         },
         "stream_disney_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 1.2076271186440675,
+          "points": 1.21,
           "sample_count": 3,
           "state": "scored"
         }
@@ -222,50 +222,50 @@
         "speed_us_retention_pct": {
           "raw": 79.61472776995741,
           "display": "79.61",
-          "points": 1.5853244852542534,
+          "points": 1.5864675518358964,
           "sample_count": 60,
           "state": "scored"
         },
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 2.4682203389830506,
-          "sample_count": 6,
+          "points": 2.47,
+          "sample_count": 8,
           "state": "scored"
         },
         "latency_us_p50_ms": {
           "raw": 66.22,
           "display": "66.22",
-          "points": 1.5180879237288136,
+          "points": 1.5149650000000001,
           "sample_count": 143,
           "state": "scored"
         },
         "feature_chrome_extension": {
           "raw": true,
           "display": "Yes",
-          "points": 0.9216101694915253,
+          "points": 0.92,
           "sample_count": null,
           "state": "scored"
         },
         "simultaneous_connections": {
           "raw": 999,
           "display": "Unlimited",
-          "points": 0.6038135593220337,
+          "points": 0.6,
           "sample_count": null,
           "state": "scored"
         },
         "feature_dedicated_ip": {
           "raw": true,
           "display": "Yes",
-          "points": 0.47669491525423724,
+          "points": 0.48,
           "sample_count": null,
           "state": "scored"
         },
         "stream_disney_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 1.2076271186440675,
-          "sample_count": 5,
+          "points": 1.21,
+          "sample_count": 6,
           "state": "scored"
         }
       },
@@ -279,55 +279,55 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 8.0,
-      "sample_count": 60,
+      "sample_count": 61,
       "dimensions": {
         "speed_us_retention_pct": {
           "raw": 77.8659897706796,
           "display": "77.87",
-          "points": 1.498999071306853,
+          "points": 1.5000798946715725,
           "sample_count": 79,
           "state": "scored"
         },
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 2.4682203389830506,
-          "sample_count": 16,
+          "points": 2.47,
+          "sample_count": 19,
           "state": "scored"
         },
         "latency_us_p50_ms": {
           "raw": 65.74,
           "display": "65.74",
-          "points": 1.5225370762711863,
+          "points": 1.5194050000000001,
           "sample_count": 143,
           "state": "scored"
         },
         "feature_chrome_extension": {
           "raw": true,
           "display": "Yes",
-          "points": 0.9216101694915253,
+          "points": 0.92,
           "sample_count": null,
           "state": "scored"
         },
         "simultaneous_connections": {
           "raw": 10,
           "display": "10",
-          "points": 0.6038135593220337,
+          "points": 0.6,
           "sample_count": null,
           "state": "scored"
         },
         "feature_dedicated_ip": {
           "raw": true,
           "display": "Yes",
-          "points": 0.47669491525423724,
+          "points": 0.48,
           "sample_count": null,
           "state": "scored"
         },
         "stream_disney_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 1.2076271186440675,
-          "sample_count": 3,
+          "points": 1.21,
+          "sample_count": 4,
           "state": "scored"
         }
       },
@@ -341,40 +341,40 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 7.4,
-      "sample_count": 57,
+      "sample_count": 58,
       "dimensions": {
         "speed_us_retention_pct": {
           "raw": 71.0234930780851,
           "display": "71.02",
-          "points": 1.1612232811851328,
+          "points": 1.162060558057404,
           "sample_count": 72,
           "state": "scored"
         },
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 2.4682203389830506,
-          "sample_count": 8,
+          "points": 2.47,
+          "sample_count": 10,
           "state": "scored"
         },
         "latency_us_p50_ms": {
           "raw": 64.92500000000001,
           "display": "64.93",
-          "points": 1.5300913665254234,
+          "points": 1.52694375,
           "sample_count": 141,
           "state": "scored"
         },
         "feature_chrome_extension": {
           "raw": true,
           "display": "Yes",
-          "points": 0.9216101694915253,
+          "points": 0.92,
           "sample_count": null,
           "state": "scored"
         },
         "simultaneous_connections": {
           "raw": 999,
           "display": "Unlimited",
-          "points": 0.6038135593220337,
+          "points": 0.6,
           "sample_count": null,
           "state": "scored"
         },
@@ -388,7 +388,7 @@
         "stream_disney_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 1.2076271186440675,
+          "points": 1.21,
           "sample_count": 7,
           "state": "scored"
         }
@@ -408,42 +408,42 @@
         "speed_us_retention_pct": {
           "raw": 78.99721824580939,
           "display": "79.00",
-          "points": 1.5548414939138957,
+          "points": 1.5559625813429843,
           "sample_count": 50,
           "state": "scored"
         },
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 2.4682203389830506,
+          "points": 2.47,
           "sample_count": 4,
           "state": "scored"
         },
         "latency_us_p50_ms": {
           "raw": 63.3775,
           "display": "63.38",
-          "points": 1.5444352489406779,
+          "points": 1.5412581250000001,
           "sample_count": 125,
           "state": "scored"
         },
         "feature_chrome_extension": {
           "raw": true,
           "display": "Yes",
-          "points": 0.9216101694915253,
+          "points": 0.92,
           "sample_count": null,
           "state": "scored"
         },
         "simultaneous_connections": {
           "raw": 7,
           "display": "7",
-          "points": 0.5313559322033897,
+          "points": 0.528,
           "sample_count": null,
           "state": "scored"
         },
         "feature_dedicated_ip": {
           "raw": true,
           "display": "Yes",
-          "points": 0.47669491525423724,
+          "points": 0.48,
           "sample_count": null,
           "state": "scored"
         },
@@ -465,26 +465,26 @@
       "exclusion_reason": null,
       "exclusion_type": null,
       "overall_score": 6.16,
-      "sample_count": 33,
+      "sample_count": 34,
       "dimensions": {
         "speed_us_retention_pct": {
           "raw": 81.8175667793146,
           "display": "81.82",
-          "points": 1.6940663261822673,
+          "points": 1.6952877988981414,
           "sample_count": 53,
           "state": "scored"
         },
         "stream_netflix_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 2.4682203389830506,
-          "sample_count": 3,
+          "points": 2.47,
+          "sample_count": 5,
           "state": "scored"
         },
         "latency_us_p50_ms": {
           "raw": 64.49,
           "display": "64.49",
-          "points": 1.534123411016949,
+          "points": 1.5309675,
           "sample_count": 74,
           "state": "scored"
         },
@@ -498,7 +498,7 @@
         "simultaneous_connections": {
           "raw": 1,
           "display": "1",
-          "points": 0.1811440677966101,
+          "points": 0.18,
           "sample_count": null,
           "state": "scored"
         },
@@ -512,7 +512,7 @@
         "stream_disney_us_unblock_rate": {
           "raw": 100,
           "display": "100",
-          "points": 1.2076271186440675,
+          "points": 1.21,
           "sample_count": 2,
           "state": "scored"
         }
@@ -560,7 +560,7 @@
         "simultaneous_connections": {
           "raw": 10,
           "display": "10",
-          "points": 0.6038135593220337,
+          "points": 0.6,
           "sample_count": null,
           "state": "scored"
         },
