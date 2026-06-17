@@ -487,22 +487,32 @@ AVG Secure VPN,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial
 AVG Secure VPN,ValueForMoney,Pricing consistency,Overall,moderate,0.50,editorial_default
 AVG Secure VPN,ValueForMoney,Renewal lowest price tier,Overall,7_to_10,0.20,editorial_default
 AVG Secure VPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
-Betternet,EaseOfUse,_section_total,Overall,,1.10,calculated
-Betternet,EaseOfUse,Linux support,Overall,none,0.00,manual_admin
+Betternet,EaseOfUse,_section_total,Overall,,2.80,calculated
+Betternet,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
+Betternet,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
+Betternet,EaseOfUse,Ease of cancellation,Overall,moderate,0.20,editorial_default
+Betternet,EaseOfUse,Linux support,Overall,none,0.00,editorial_default
+Betternet,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
 Betternet,EaseOfUse,Quick connect,Overall,yes,0.80,manual_admin
 Betternet,EaseOfUse,Quick pick purpose,Overall,yes,0.30,manual_admin
-Betternet,EaseOfUse,Router support,Overall,none,0.00,manual_admin
-Betternet,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
-Betternet,Security,_section_total,Overall,,5.40,calculated
+Betternet,EaseOfUse,Router support,Overall,none,0.00,editorial_default
+Betternet,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
+Betternet,EaseOfUse,Task specific servers,Overall,yes,0.40,manual_admin
+Betternet,Security,_section_total,Overall,,6.40,calculated
+Betternet,Security,Anonymous payment,Overall,none,0.00,editorial_default
+Betternet,Security,Authentication strength,Overall,weaker,0.00,manual_admin
 Betternet,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
 Betternet,Security,Encryption strength,Overall,aes_128_or_higher,0.60,calculated
-Betternet,Security,Hq jurisdiction,Overall,inside_14_eyes,0.00,calculated
+Betternet,Security,Hq jurisdiction,Overall,inside_14_eyes,0.00,manual_admin
+Betternet,Security,Independent audit,Overall,older,0.40,editorial_default
 Betternet,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 Betternet,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 Betternet,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
 Betternet,Security,Modern protocols,Overall,has_modern,0.70,calculated
+Betternet,Security,No logs policy status,Overall,claimed,0.50,editorial_default
 Betternet,Security,Obfuscation available,Overall,yes,0.50,calculated
 Betternet,Security,Perfect forward secrecy,Overall,yes,0.30,calculated
+Betternet,Security,Rsa key length,Overall,2048,0.10,manual_admin
 Betternet,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 Betternet,Speed,_section_total,Overall,,7.80,calculated
 Betternet,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
@@ -515,14 +525,15 @@ Betternet,Speed,Long distance speed,Overall,tier_consistent,1.00,editorial_defau
 Betternet,Speed,Packet loss tier,Overall,tier_good,0.40,editorial_default
 Betternet,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_default
 Betternet,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
-Betternet,Streaming,_section_total,Overall,,0.15,calculated
+Betternet,Streaming,_section_total,Overall,,0.45,calculated
 Betternet,Streaming,Android tv app,Overall,,0.00,comparitech_api
+Betternet,Streaming,Browser extensions,Overall,no,,editorial_default
 Betternet,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 Betternet,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 Betternet,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
 Betternet,Streaming,Simultaneous stream capacity,Overall,under_4,0.15,editorial_default
 Betternet,Streaming,Streaming device apps,Overall,none,0.00,calculated
-Betternet,Streaming,Streaming unblock toolkit,Overall,no,0.00,editorial_default
+Betternet,Streaming,Streaming unblock toolkit,Overall,yes,0.30,editorial_default
 Betternet,Streaming,Tier1 streaming,Overall,most_3_or_4,,editorial_default
 Betternet,Streaming,Tier2 streaming,Overall,most_3_or_4,,editorial_default
 Betternet,Streaming,Tier3 streaming,Overall,most_3_or_4,,editorial_default
@@ -534,9 +545,24 @@ Betternet,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editoria
 Betternet,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 Betternet,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Betternet,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-Betternet,ValueForMoney,_section_total,Overall,,0.45,calculated
-Betternet,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
+Betternet,ValueForMoney,_section_total,Overall,,3.90,calculated
+Betternet,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default
+Betternet,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
+Betternet,ValueForMoney,Connection limit tier,Overall,,,editorial_default
 Betternet,ValueForMoney,Country count,Overall,under_30,,manual_admin
+Betternet,ValueForMoney,Free trial available,Overall,yes,0.40,manual_admin
+Betternet,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+Betternet,ValueForMoney,Includes dark web monitor,Overall,no,0.00,editorial_default
+Betternet,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_default
+Betternet,ValueForMoney,Intro lowest price tier,Overall,under_3_usd,1.00,editorial_default
+Betternet,ValueForMoney,Money back duration,Overall,45_plus_days,1.00,editorial_default
+Betternet,ValueForMoney,Monthly price tier,Overall,12_to_14,0.40,editorial_default
+Betternet,ValueForMoney,Pricing consistency,Overall,extreme,0.30,editorial_default
+Betternet,ValueForMoney,Renewal lowest price tier,Overall,over_10,0.00,editorial_default
+Betternet,ValueForMoney,Static ip included,Overall,no,0.00,editorial_default
+Betternet,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
+Betternet,ValueForMoney,Subscription term count,Overall,,0.10,manual_admin
+Betternet,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 Bitdefender VPN,EaseOfUse,_section_total,Overall,,3.00,calculated
 Bitdefender VPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 Bitdefender VPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
@@ -906,11 +932,14 @@ CactusVPN,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 CactusVPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 CactusVPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 CactusVPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
-ClearVPN Review,EaseOfUse,_section_total,Overall,,1.30,calculated
-ClearVPN Review,EaseOfUse,Linux support,Overall,none,0.00,manual_admin
+ClearVPN Review,EaseOfUse,_section_total,Overall,,1.80,calculated
+ClearVPN Review,EaseOfUse,Browser extensions,Overall,1_plus,0.50,editorial_default
+ClearVPN Review,EaseOfUse,Ease of cancellation,Overall,moderate,0.20,editorial_default
+ClearVPN Review,EaseOfUse,Linux support,Overall,none,0.00,editorial_default
 ClearVPN Review,EaseOfUse,Quick connect,Overall,yes,0.80,manual_admin
 ClearVPN Review,EaseOfUse,Quick pick purpose,Overall,yes,0.30,manual_admin
-ClearVPN Review,EaseOfUse,Router support,Overall,manual_config_only,0.20,manual_admin
+ClearVPN Review,EaseOfUse,Router support,Overall,none,0.00,editorial_default
+ClearVPN Review,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
 ClearVPN Review,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
 ClearVPN Review,Security,_section_total,Overall,,4.70,calculated
 ClearVPN Review,Security,Anonymous payment,Overall,none,0.00,editorial_default
@@ -937,6 +966,7 @@ ClearVPN Review,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_d
 ClearVPN Review,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
 ClearVPN Review,Streaming,_section_total,Overall,,0.30,calculated
 ClearVPN Review,Streaming,Android tv app,Overall,,0.00,comparitech_api
+ClearVPN Review,Streaming,Browser extensions,Overall,yes,,editorial_default
 ClearVPN Review,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 ClearVPN Review,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 ClearVPN Review,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
@@ -954,12 +984,20 @@ ClearVPN Review,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,ed
 ClearVPN Review,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 ClearVPN Review,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 ClearVPN Review,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-ClearVPN Review,ValueForMoney,_section_total,Overall,,1.35,calculated
+ClearVPN Review,ValueForMoney,_section_total,Overall,,6.21,calculated
 ClearVPN Review,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default
-ClearVPN Review,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
+ClearVPN Review,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
+ClearVPN Review,ValueForMoney,Connection limit tier,Overall,6_to_10,0.91,editorial_default
 ClearVPN Review,ValueForMoney,Country count,Overall,under_30,,manual_admin
 ClearVPN Review,ValueForMoney,Free trial available,Overall,yes,0.40,manual_admin
 ClearVPN Review,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+ClearVPN Review,ValueForMoney,Includes dark web monitor,Overall,no,0.00,editorial_default
+ClearVPN Review,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_default
+ClearVPN Review,ValueForMoney,Intro lowest price tier,Overall,3_to_5,0.70,editorial_default
+ClearVPN Review,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial_default
+ClearVPN Review,ValueForMoney,Monthly price tier,Overall,under_10,1.00,editorial_default
+ClearVPN Review,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
+ClearVPN Review,ValueForMoney,Renewal lowest price tier,Overall,3_to_5,0.70,editorial_default
 ClearVPN Review,ValueForMoney,Student discount,Overall,yes,0.20,manual_admin
 ClearVPN Review,ValueForMoney,Subscription term count,Overall,two,0.30,manual_admin
 CloudVPN,EaseOfUse,_section_total,Overall,,1.90,calculated
@@ -1143,7 +1181,7 @@ CyberGhost,Streaming,Streaming v3 coverage,Overall,"4 services scored, 0 exclude
 CyberGhost,Streaming,Streaming v3 tier1 pct,Overall,55.6% (2 svc scored),,calculated
 CyberGhost,Streaming,Streaming v3 tier2 pct,Overall,37.5% (2 svc scored),,calculated
 CyberGhost,Streaming,Streaming v3 tier3 pct,Overall,—,,calculated
-CyberGhost,Streaming,Tier1 streaming,Overall,most_3_or_4,2.40,benchmark_run
+CyberGhost,Streaming,Tier1 streaming,Overall,some_1_or_2,2.40,benchmark_run
 CyberGhost,Streaming,Tier2 streaming,Overall,most_3_or_4,1.00,benchmark_run
 CyberGhost,Streaming,Tier3 streaming,Overall,most_3_or_4,0.30,benchmark_run
 CyberGhost,Streaming,Works in high censorship countries,Overall,0,0.00,comparitech_api
@@ -2598,14 +2636,14 @@ NordVPN,Speed,_section_total,Overall,,7.80,calculated
 NordVPN,Speed,_section_total,OpenVPN (UDP),,5.50,calculated
 NordVPN,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
 NordVPN,Speed,_section_total,NordLynx,,7.10,calculated
-NordVPN,Speed,_section_total_v3_global,Overall,,6.82,calculated
+NordVPN,Speed,_section_total_v3_global,Overall,,6.85,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.43,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.46,calculated
-NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.80,calculated
-NordVPN,Speed,_section_total_v3_uk,Overall,,6.28,calculated
-NordVPN,Speed,_speed_v3_dl,Overall,,0.46,calculated
+NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.82,calculated
+NordVPN,Speed,_section_total_v3_uk,Overall,,6.32,calculated
+NordVPN,Speed,_speed_v3_dl,Overall,,0.47,calculated
 NordVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
-NordVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.566706, ""dl"": 0.464206, ""ul"": 0.020878, ""lat"": 0.081622, ""curve_score"": 6.28, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.57,calculated
+NordVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.568567, ""dl"": 0.465738, ""ul"": 0.021096, ""lat"": 0.081733, ""curve_score"": 6.32, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.57,calculated
 NordVPN,Speed,_speed_v3_ul,Overall,,0.02,calculated
 NordVPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 NordVPN,Speed,Connection time,OpenVPN (UDP),tier_fast,0.10,benchmark_run
@@ -5091,24 +5129,36 @@ VPNArea,ValueForMoney,_section_total,Overall,,2.00,calculated
 VPNArea,ValueForMoney,Anonymous payments vfm,Overall,single,0.30,editorial_default
 VPNArea,ValueForMoney,Connection limit tier,Overall,unlimited,1.70,editorial_default
 VPNArea,ValueForMoney,Country count,Overall,60_plus,,manual_admin
-VPNBook,EaseOfUse,_section_total,Overall,,1.90,calculated
+VPNBook,EaseOfUse,_section_total,Overall,,2.90,calculated
+VPNBook,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 VPNBook,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
+VPNBook,EaseOfUse,Ease of cancellation,Overall,,,editorial_default
 VPNBook,EaseOfUse,Ease of signup,Overall,very_easy,0.70,manual_admin
 VPNBook,EaseOfUse,Knowledge base,Overall,basic,0.20,manual_admin
 VPNBook,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
-VPNBook,EaseOfUse,Live chat quality,Overall,email_only,0.10,manual_admin
+VPNBook,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
+VPNBook,EaseOfUse,Quick connect,Overall,no,0.00,manual_admin
+VPNBook,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
 VPNBook,EaseOfUse,Router support,Overall,none,0.00,editorial_default
 VPNBook,EaseOfUse,Setup guides,Overall,comprehensive,0.40,manual_admin
 VPNBook,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
-VPNBook,Security,_section_total,Overall,,5.60,calculated
+VPNBook,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
+VPNBook,Security,_section_total,Overall,,5.80,calculated
+VPNBook,Security,Anonymous payment,Overall,none,0.00,editorial_default
+VPNBook,Security,Authentication strength,Overall,sha384_or_higher,0.30,manual_admin
 VPNBook,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
 VPNBook,Security,Encryption strength,Overall,aes_128_or_higher,0.60,calculated
 VPNBook,Security,Hq jurisdiction,Overall,outside_14_eyes,0.50,calculated
+VPNBook,Security,Independent audit,Overall,none,0.00,editorial_default
 VPNBook,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 VPNBook,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 VPNBook,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
-VPNBook,Security,Modern protocols,Overall,has_modern,0.70,calculated
-VPNBook,Security,Obfuscation available,Overall,yes,0.50,calculated
+VPNBook,Security,Modern protocols,Overall,has_modern,0.70,manual_admin
+VPNBook,Security,No logs policy status,Overall,logs_kept,0.00,editorial_default
+VPNBook,Security,Obfuscation available,Overall,no,0.00,manual_admin
+VPNBook,Security,Perfect forward secrecy,Overall,yes,0.30,manual_admin
+VPNBook,Security,Restrictive region access,Overall,no,0.00,editorial_default
+VPNBook,Security,Rsa key length,Overall,2048,0.10,manual_admin
 VPNBook,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 VPNBook,Speed,_section_total,Overall,,7.80,calculated
 VPNBook,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
@@ -5141,17 +5191,22 @@ VPNBook,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_
 VPNBook,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 VPNBook,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 VPNBook,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-VPNBook,ValueForMoney,_section_total,Overall,,4.15,calculated
+VPNBook,ValueForMoney,_section_total,Overall,,4.55,calculated
+VPNBook,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default
+VPNBook,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
 VPNBook,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
 VPNBook,ValueForMoney,Country count,Overall,under_30,,manual_admin
 VPNBook,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 VPNBook,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+VPNBook,ValueForMoney,Includes dark web monitor,Overall,no,0.00,editorial_default
+VPNBook,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_default
 VPNBook,ValueForMoney,Intro lowest price tier,Overall,under_3_usd,1.00,editorial_default
 VPNBook,ValueForMoney,Monthly price tier,Overall,under_10,1.00,editorial_default
 VPNBook,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
 VPNBook,ValueForMoney,Renewal lowest price tier,Overall,under_3_usd,1.00,editorial_default
+VPNBook,ValueForMoney,Static ip included,Overall,no,0.00,editorial_default
 VPNBook,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
-VPNBook,ValueForMoney,Subscription term count,Overall,one,0.10,manual_admin
+VPNBook,ValueForMoney,Subscription term count,Overall,,0.10,manual_admin
 VPNGate,EaseOfUse,_section_total,Overall,,0.70,calculated
 VPNGate,EaseOfUse,Knowledge base,Overall,basic,0.20,manual_admin
 VPNGate,EaseOfUse,Linux support,Overall,none,0.00,manual_admin
