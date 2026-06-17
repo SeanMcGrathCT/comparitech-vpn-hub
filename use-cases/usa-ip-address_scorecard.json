@@ -583,8 +583,8 @@
     }
   ],
   "files": {
-    "scorecard_csv": "https://raw.githubusercontent.com/comparitech-data/comparitech-vpn-hub/main/use-cases/how-to-get-a-us-ip-address_scorecard.csv",
-    "scorecard_json": "https://raw.githubusercontent.com/comparitech-data/comparitech-vpn-hub/main/use-cases/how-to-get-a-us-ip-address_scorecard.json",
+    "scorecard_csv": "https://raw.githubusercontent.com/comparitech-data/comparitech-vpn-hub/main/use-cases/usa-ip-address_scorecard.csv",
+    "scorecard_json": "https://raw.githubusercontent.com/comparitech-data/comparitech-vpn-hub/main/use-cases/usa-ip-address_scorecard.json",
     "streaming_scorecard_csv": "https://raw.githubusercontent.com/comparitech-data/comparitech-vpn-hub/main/Comparitech_Streaming_Scorecard.csv"
   }
 }
