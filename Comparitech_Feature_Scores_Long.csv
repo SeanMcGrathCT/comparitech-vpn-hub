@@ -1234,16 +1234,16 @@ ExpressVPN,Speed,_section_total,WireGuard,,8.20,calculated
 ExpressVPN,Speed,_section_total,OpenVPN (UDP),,7.70,calculated
 ExpressVPN,Speed,_section_total,OpenVPN (TCP),,3.10,calculated
 ExpressVPN,Speed,_section_total,Lightway (UDP),,7.70,calculated
-ExpressVPN,Speed,_section_total_v3_global,Overall,,8.23,calculated
+ExpressVPN,Speed,_section_total_v3_global,Overall,,8.25,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,WireGuard,,8.91,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.55,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.76,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,Lightway (UDP),,7.50,calculated
-ExpressVPN,Speed,_section_total_v3_uk,Overall,,8.22,calculated
+ExpressVPN,Speed,_section_total_v3_uk,Overall,,8.25,calculated
 ExpressVPN,Speed,_speed_v3_dl,Overall,,0.50,calculated
 ExpressVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
-ExpressVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.657408, ""dl"": 0.497262, ""ul"": 0.079934, ""lat"": 0.080212, ""curve_score"": 8.22, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.66,calculated
-ExpressVPN,Speed,_speed_v3_ul,Overall,,0.08,calculated
+ExpressVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.666435, ""dl"": 0.4989, ""ul"": 0.087272, ""lat"": 0.080263, ""curve_score"": 8.25, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.67,calculated
+ExpressVPN,Speed,_speed_v3_ul,Overall,,0.09,calculated
 ExpressVPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 ExpressVPN,Speed,Connection time,WireGuard,tier_slow,0.00,benchmark_run
 ExpressVPN,Speed,Connection time,OpenVPN (UDP),tier_slow,0.00,benchmark_run
@@ -1942,7 +1942,7 @@ IPVanish,Speed,_coverage,Overall,"{""status"": ""full"", ""count"": 7, ""expecte
 IPVanish,Speed,_section_total,Overall,,7.80,calculated
 IPVanish,Speed,_section_total,WireGuard,,3.45,calculated
 IPVanish,Speed,_section_total,OpenVPN (UDP),,4.65,calculated
-IPVanish,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
+IPVanish,Speed,_section_total,OpenVPN (TCP),,7.30,calculated
 IPVanish,Speed,_section_total,IKEv2/IPsec,,6.80,calculated
 IPVanish,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 IPVanish,Speed,_section_total_v3_protocol,WireGuard,,7.34,calculated
@@ -1952,7 +1952,7 @@ IPVanish,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.20,calculated
 IPVanish,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 IPVanish,Speed,_speed_v3_dl,Overall,,0.41,calculated
 IPVanish,Speed,_speed_v3_lat,Overall,,0.09,calculated
-IPVanish,Speed,_speed_v3_raw,Overall,"{""raw"": 0.515332, ""dl"": 0.413788, ""ul"": 0.015486, ""lat"": 0.086059, ""curve_score"": 5.25, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.52,calculated
+IPVanish,Speed,_speed_v3_raw,Overall,"{""raw"": 0.515238, ""dl"": 0.413688, ""ul"": 0.015489, ""lat"": 0.086061, ""curve_score"": 5.25, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.52,calculated
 IPVanish,Speed,_speed_v3_ul,Overall,,0.02,calculated
 IPVanish,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 IPVanish,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
@@ -1962,7 +1962,7 @@ IPVanish,Speed,Connection time,IKEv2/IPsec,tier_okay,0.05,benchmark_run
 IPVanish,Speed,Download tier,Overall,tier_good,2.65,editorial_default
 IPVanish,Speed,Download tier,WireGuard,tier_poor,0.00,benchmark_run
 IPVanish,Speed,Download tier,OpenVPN (UDP),tier_poor,0.00,benchmark_run
-IPVanish,Speed,Download tier,OpenVPN (TCP),tier_okay,2.00,benchmark_run
+IPVanish,Speed,Download tier,OpenVPN (TCP),tier_good,2.65,benchmark_run
 IPVanish,Speed,Download tier,IKEv2/IPsec,tier_good,2.65,benchmark_run
 IPVanish,Speed,Jitter tier,Overall,tier_good,0.20,editorial_default
 IPVanish,Speed,Jitter tier,WireGuard,tier_excellent,0.40,benchmark_run
@@ -5091,11 +5091,15 @@ VPNArea,ValueForMoney,_section_total,Overall,,2.00,calculated
 VPNArea,ValueForMoney,Anonymous payments vfm,Overall,single,0.30,editorial_default
 VPNArea,ValueForMoney,Connection limit tier,Overall,unlimited,1.70,editorial_default
 VPNArea,ValueForMoney,Country count,Overall,60_plus,,manual_admin
-VPNBook,EaseOfUse,_section_total,Overall,,1.40,calculated
+VPNBook,EaseOfUse,_section_total,Overall,,1.90,calculated
+VPNBook,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
 VPNBook,EaseOfUse,Ease of signup,Overall,very_easy,0.70,manual_admin
 VPNBook,EaseOfUse,Knowledge base,Overall,basic,0.20,manual_admin
+VPNBook,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
 VPNBook,EaseOfUse,Live chat quality,Overall,email_only,0.10,manual_admin
+VPNBook,EaseOfUse,Router support,Overall,none,0.00,editorial_default
 VPNBook,EaseOfUse,Setup guides,Overall,comprehensive,0.40,manual_admin
+VPNBook,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
 VPNBook,Security,_section_total,Overall,,5.60,calculated
 VPNBook,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
 VPNBook,Security,Encryption strength,Overall,aes_128_or_higher,0.60,calculated
@@ -5119,6 +5123,7 @@ VPNBook,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_default
 VPNBook,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
 VPNBook,Streaming,_section_total,Overall,,0.15,calculated
 VPNBook,Streaming,Android tv app,Overall,,0.00,comparitech_api
+VPNBook,Streaming,Browser extensions,Overall,no,,editorial_default
 VPNBook,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 VPNBook,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 VPNBook,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
@@ -5136,11 +5141,15 @@ VPNBook,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_
 VPNBook,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 VPNBook,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 VPNBook,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-VPNBook,ValueForMoney,_section_total,Overall,,0.55,calculated
+VPNBook,ValueForMoney,_section_total,Overall,,4.15,calculated
 VPNBook,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
 VPNBook,ValueForMoney,Country count,Overall,under_30,,manual_admin
 VPNBook,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 VPNBook,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+VPNBook,ValueForMoney,Intro lowest price tier,Overall,under_3_usd,1.00,editorial_default
+VPNBook,ValueForMoney,Monthly price tier,Overall,under_10,1.00,editorial_default
+VPNBook,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
+VPNBook,ValueForMoney,Renewal lowest price tier,Overall,under_3_usd,1.00,editorial_default
 VPNBook,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 VPNBook,ValueForMoney,Subscription term count,Overall,one,0.10,manual_admin
 VPNGate,EaseOfUse,_section_total,Overall,,0.70,calculated
