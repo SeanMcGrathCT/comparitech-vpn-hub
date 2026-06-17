@@ -933,6 +933,7 @@ CactusVPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 CactusVPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 CactusVPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 ClearVPN Review,EaseOfUse,_section_total,Overall,,1.80,calculated
+ClearVPN Review,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 ClearVPN Review,EaseOfUse,Browser extensions,Overall,1_plus,0.50,editorial_default
 ClearVPN Review,EaseOfUse,Ease of cancellation,Overall,moderate,0.20,editorial_default
 ClearVPN Review,EaseOfUse,Linux support,Overall,none,0.00,editorial_default
@@ -940,18 +941,23 @@ ClearVPN Review,EaseOfUse,Quick connect,Overall,yes,0.80,manual_admin
 ClearVPN Review,EaseOfUse,Quick pick purpose,Overall,yes,0.30,manual_admin
 ClearVPN Review,EaseOfUse,Router support,Overall,none,0.00,editorial_default
 ClearVPN Review,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
-ClearVPN Review,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
+ClearVPN Review,EaseOfUse,Task specific servers,Overall,yes,0.40,manual_admin
 ClearVPN Review,Security,_section_total,Overall,,4.70,calculated
 ClearVPN Review,Security,Anonymous payment,Overall,none,0.00,editorial_default
+ClearVPN Review,Security,Authentication strength,Overall,weaker,0.00,manual_admin
 ClearVPN Review,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
 ClearVPN Review,Security,Encryption strength,Overall,aes_128_or_higher,0.60,calculated
 ClearVPN Review,Security,Hq jurisdiction,Overall,outside_14_eyes,0.50,calculated
+ClearVPN Review,Security,Independent audit,Overall,none,0.00,editorial_default
 ClearVPN Review,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 ClearVPN Review,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 ClearVPN Review,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
-ClearVPN Review,Security,Modern protocols,Overall,openvpn_only,0.30,calculated
+ClearVPN Review,Security,Modern protocols,Overall,has_modern,0.70,manual_admin
+ClearVPN Review,Security,No logs policy status,Overall,logs_kept,0.00,editorial_default
 ClearVPN Review,Security,Obfuscation available,Overall,no,0.00,calculated
-ClearVPN Review,Security,Perfect forward secrecy,Overall,no,0.00,calculated
+ClearVPN Review,Security,Perfect forward secrecy,Overall,yes,0.30,manual_admin
+ClearVPN Review,Security,Restrictive region access,Overall,no,0.00,editorial_default
+ClearVPN Review,Security,Rsa key length,Overall,4096_plus,0.20,manual_admin
 ClearVPN Review,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 ClearVPN Review,Speed,_section_total,Overall,,7.80,calculated
 ClearVPN Review,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
@@ -964,7 +970,7 @@ ClearVPN Review,Speed,Long distance speed,Overall,tier_consistent,1.00,editorial
 ClearVPN Review,Speed,Packet loss tier,Overall,tier_good,0.40,editorial_default
 ClearVPN Review,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_default
 ClearVPN Review,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
-ClearVPN Review,Streaming,_section_total,Overall,,0.30,calculated
+ClearVPN Review,Streaming,_section_total,Overall,,0.60,calculated
 ClearVPN Review,Streaming,Android tv app,Overall,,0.00,comparitech_api
 ClearVPN Review,Streaming,Browser extensions,Overall,yes,,editorial_default
 ClearVPN Review,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
@@ -972,7 +978,7 @@ ClearVPN Review,Streaming,Number of locations in relevant country,Overall,<5,1.2
 ClearVPN Review,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
 ClearVPN Review,Streaming,Simultaneous stream capacity,Overall,4_plus,0.30,editorial_default
 ClearVPN Review,Streaming,Streaming device apps,Overall,none,0.00,calculated
-ClearVPN Review,Streaming,Streaming unblock toolkit,Overall,no,0.00,editorial_default
+ClearVPN Review,Streaming,Streaming unblock toolkit,Overall,yes,0.30,editorial_default
 ClearVPN Review,Streaming,Tier1 streaming,Overall,most_3_or_4,,editorial_default
 ClearVPN Review,Streaming,Tier2 streaming,Overall,most_3_or_4,,editorial_default
 ClearVPN Review,Streaming,Tier3 streaming,Overall,most_3_or_4,,editorial_default
@@ -984,7 +990,7 @@ ClearVPN Review,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,ed
 ClearVPN Review,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 ClearVPN Review,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 ClearVPN Review,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-ClearVPN Review,ValueForMoney,_section_total,Overall,,6.21,calculated
+ClearVPN Review,ValueForMoney,_section_total,Overall,,6.51,calculated
 ClearVPN Review,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default
 ClearVPN Review,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
 ClearVPN Review,ValueForMoney,Connection limit tier,Overall,6_to_10,0.91,editorial_default
@@ -998,8 +1004,10 @@ ClearVPN Review,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editoria
 ClearVPN Review,ValueForMoney,Monthly price tier,Overall,under_10,1.00,editorial_default
 ClearVPN Review,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
 ClearVPN Review,ValueForMoney,Renewal lowest price tier,Overall,3_to_5,0.70,editorial_default
+ClearVPN Review,ValueForMoney,Static ip included,Overall,no,0.00,editorial_default
 ClearVPN Review,ValueForMoney,Student discount,Overall,yes,0.20,manual_admin
 ClearVPN Review,ValueForMoney,Subscription term count,Overall,two,0.30,manual_admin
+ClearVPN Review,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 CloudVPN,EaseOfUse,_section_total,Overall,,1.90,calculated
 CloudVPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 CloudVPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
@@ -4457,6 +4465,11 @@ TurboVPN,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 TurboVPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 TurboVPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 TurboVPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
+Ultra VPN,EaseOfUse,_section_total,Overall,,0.00,calculated
+Ultra VPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
+Ultra VPN,EaseOfUse,Linux support,Overall,none,0.00,editorial_default
+Ultra VPN,EaseOfUse,Router support,Overall,none,0.00,editorial_default
+Ultra VPN,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
 Ultra VPN,Security,_section_total,Overall,,5.40,calculated
 Ultra VPN,Security,Anonymous payment,Overall,none,0.00,editorial_default
 Ultra VPN,Security,Authentication strength,Overall,weaker,0.00,calculated
@@ -4481,12 +4494,13 @@ Ultra VPN,Speed,Long distance speed,Overall,tier_consistent,1.00,editorial_defau
 Ultra VPN,Speed,Packet loss tier,Overall,tier_good,0.40,editorial_default
 Ultra VPN,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_default
 Ultra VPN,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
-Ultra VPN,Streaming,_section_total,Overall,,0.15,calculated
+Ultra VPN,Streaming,_section_total,Overall,,0.30,calculated
 Ultra VPN,Streaming,Android tv app,Overall,,0.00,comparitech_api
+Ultra VPN,Streaming,Browser extensions,Overall,no,,editorial_default
 Ultra VPN,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 Ultra VPN,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 Ultra VPN,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
-Ultra VPN,Streaming,Simultaneous stream capacity,Overall,under_4,0.15,editorial_default
+Ultra VPN,Streaming,Simultaneous stream capacity,Overall,4_plus,0.30,editorial_default
 Ultra VPN,Streaming,Streaming device apps,Overall,none,0.00,calculated
 Ultra VPN,Streaming,Streaming unblock toolkit,Overall,no,0.00,editorial_default
 Ultra VPN,Streaming,Tier1 streaming,Overall,most_3_or_4,,editorial_default
@@ -4500,10 +4514,11 @@ Ultra VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editoria
 Ultra VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 Ultra VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Ultra VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-Ultra VPN,ValueForMoney,_section_total,Overall,,0.45,calculated
+Ultra VPN,ValueForMoney,_section_total,Overall,,2.26,calculated
 Ultra VPN,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default
-Ultra VPN,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
+Ultra VPN,ValueForMoney,Connection limit tier,Overall,10_plus,1.36,editorial_default
 Ultra VPN,ValueForMoney,Country count,Overall,under_30,,manual_admin
+Ultra VPN,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial_default
 Ultrasurf,EaseOfUse,_section_total,Overall,,1.20,calculated
 Ultrasurf,EaseOfUse,Ease of cancellation,Overall,none,,manual_admin
 Ultrasurf,EaseOfUse,Ease of signup,Overall,very_easy,0.70,manual_admin
