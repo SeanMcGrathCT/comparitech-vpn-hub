@@ -1237,7 +1237,7 @@ ExpressVPN,Speed,_section_total,Lightway (UDP),,7.70,calculated
 ExpressVPN,Speed,_section_total_v3_global,Overall,,8.23,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,WireGuard,,8.91,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.55,calculated
-ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.77,calculated
+ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.76,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,Lightway (UDP),,7.50,calculated
 ExpressVPN,Speed,_section_total_v3_uk,Overall,,8.22,calculated
 ExpressVPN,Speed,_speed_v3_dl,Overall,,0.50,calculated
@@ -2600,7 +2600,7 @@ NordVPN,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
 NordVPN,Speed,_section_total,NordLynx,,7.10,calculated
 NordVPN,Speed,_section_total_v3_global,Overall,,6.82,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.43,calculated
-NordVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.59,calculated
+NordVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.51,calculated
 NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.80,calculated
 NordVPN,Speed,_section_total_v3_uk,Overall,,6.28,calculated
 NordVPN,Speed,_speed_v3_dl,Overall,,0.46,calculated
@@ -3370,7 +3370,7 @@ ProtonVPN,Speed,_section_total,OpenVPN (TCP),,5.40,calculated
 ProtonVPN,Speed,_section_total_v3_global,Overall,,6.66,calculated
 ProtonVPN,Speed,_section_total_v3_protocol,WireGuard,,7.76,calculated
 ProtonVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.12,calculated
-ProtonVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.97,calculated
+ProtonVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.98,calculated
 ProtonVPN,Speed,_section_total_v3_uk,Overall,,6.49,calculated
 ProtonVPN,Speed,_speed_v3_dl,Overall,,0.48,calculated
 ProtonVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
