@@ -6,7 +6,7 @@
     "id": "b73d7cf5-4a59-4113-8dd7-1e17292cb809",
     "version": 2,
     "generated_at": "2026-06-17T11:49:44.211000+00:00",
-    "locked_at": "2026-06-17T11:52:23.814000+00:00"
+    "locked_at": "2026-06-17T12:10:17.870000+00:00"
   },
   "scoring_template": {
     "model_id": "umbrella-rules-v1",
