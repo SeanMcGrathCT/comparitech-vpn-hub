@@ -1128,7 +1128,7 @@ CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverag
 CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,7.96,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.67,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,6.00,calculated
-CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,7.04,calculated
+CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.88,calculated
 CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.70,calculated
 CyberGhost,Speed,_speed_v3_dl,Overall,,0.47,calculated
 CyberGhost,Speed,_speed_v3_lat,Overall,,0.09,calculated
@@ -1994,7 +1994,7 @@ IPVanish,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage 
 IPVanish,Speed,_section_total_v3_protocol,WireGuard,,7.36,calculated
 IPVanish,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.48,calculated
 IPVanish,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.52,calculated
-IPVanish,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.20,calculated
+IPVanish,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.22,calculated
 IPVanish,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 IPVanish,Speed,_speed_v3_dl,Overall,,0.42,calculated
 IPVanish,Speed,_speed_v3_lat,Overall,,0.09,calculated
