@@ -334,7 +334,7 @@
       "included_in_chart": false,
       "exclusion_reason": "incomplete data for this use case: stream_sky_go_unblock_rate",
       "exclusion_type": "auto_incomplete_data",
-      "overall_score": 7.85,
+      "overall_score": 7.84,
       "sample_count": 77,
       "dimensions": {
         "stream_sky_go_unblock_rate": {
@@ -444,7 +444,7 @@
       "included_in_chart": false,
       "exclusion_reason": "incomplete data for this use case: stream_sky_go_unblock_rate",
       "exclusion_type": "auto_incomplete_data",
-      "overall_score": 7.11,
+      "overall_score": 7.12,
       "sample_count": 38,
       "dimensions": {
         "stream_sky_go_unblock_rate": {
