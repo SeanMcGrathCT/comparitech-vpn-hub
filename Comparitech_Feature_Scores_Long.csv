@@ -1081,7 +1081,7 @@ CyberGhost,Speed,_section_total,IKEv2/IPsec,,7.95,calculated
 CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),7.11,calculated
 CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,7.93,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.73,calculated
-CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.94,calculated
+CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,6.00,calculated
 CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,7.04,calculated
 CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.67,calculated
 CyberGhost,Speed,_speed_v3_dl,Overall,,0.47,calculated
@@ -3963,12 +3963,12 @@ Surfshark,Speed,_coverage,Overall,"{""status"": ""full"", ""count"": 7, ""expect
 Surfshark,Speed,_section_total,Overall,,7.80,calculated
 Surfshark,Speed,_section_total,WireGuard,,5.10,calculated
 Surfshark,Speed,_section_total,OpenVPN (UDP),,6.05,calculated
-Surfshark,Speed,_section_total,OpenVPN (TCP),,3.15,calculated
+Surfshark,Speed,_section_total,OpenVPN (TCP),,3.10,calculated
 Surfshark,Speed,_section_total,IKEv2/IPsec,,3.10,calculated
 Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.54,calculated
 Surfshark,Speed,_section_total_v3_protocol,WireGuard,,7.60,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.17,calculated
-Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.72,calculated
+Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.71,calculated
 Surfshark,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.71,calculated
 Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.47,calculated
 Surfshark,Speed,_speed_v3_dl,Overall,,0.45,calculated
@@ -3978,7 +3978,7 @@ Surfshark,Speed,_speed_v3_ul,Overall,,0.01,calculated
 Surfshark,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 Surfshark,Speed,Connection time,WireGuard,tier_slow,0.00,benchmark_run
 Surfshark,Speed,Connection time,OpenVPN (UDP),tier_slow,0.00,benchmark_run
-Surfshark,Speed,Connection time,OpenVPN (TCP),tier_okay,0.05,benchmark_run
+Surfshark,Speed,Connection time,OpenVPN (TCP),tier_slow,0.00,benchmark_run
 Surfshark,Speed,Connection time,IKEv2/IPsec,tier_slow,0.00,benchmark_run
 Surfshark,Speed,Download tier,Overall,tier_good,2.65,editorial_default
 Surfshark,Speed,Download tier,WireGuard,tier_okay,2.00,benchmark_run
