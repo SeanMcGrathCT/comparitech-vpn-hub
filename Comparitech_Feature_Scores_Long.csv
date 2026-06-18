@@ -4014,7 +4014,7 @@ Surfshark,Speed,_section_total,IKEv2/IPsec,,3.10,calculated
 Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.73,calculated
 Surfshark,Speed,_section_total_v3_protocol,WireGuard,,7.64,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.17,calculated
-Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.71,calculated
+Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.69,calculated
 Surfshark,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.78,calculated
 Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.55,calculated
 Surfshark,Speed,_speed_v3_dl,Overall,,0.45,calculated
@@ -4118,12 +4118,20 @@ Surfshark,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 Surfshark,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 Surfshark,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 Surfshark,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
-Torguard,Security,_section_total,Overall,,3.30,calculated
+Torguard,EaseOfUse,_section_total,Overall,,1.00,calculated
+Torguard,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
+Torguard,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
+Torguard,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
+Torguard,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
+Torguard,Security,_section_total,Overall,,4.70,calculated
+Torguard,Security,Authentication strength,Overall,sha384_or_higher,0.30,manual_admin
 Torguard,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
+Torguard,Security,Encryption strength,Overall,aes_128_or_higher,0.60,manual_admin
 Torguard,Security,Hq jurisdiction,Overall,inside_14_eyes,0.00,calculated
 Torguard,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 Torguard,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 Torguard,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
+Torguard,Security,Obfuscation available,Overall,yes,0.50,manual_admin
 Torguard,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 Torguard,Speed,_section_total,Overall,,7.80,calculated
 Torguard,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
@@ -4136,12 +4144,13 @@ Torguard,Speed,Long distance speed,Overall,tier_consistent,1.00,editorial_defaul
 Torguard,Speed,Packet loss tier,Overall,tier_good,0.40,editorial_default
 Torguard,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_default
 Torguard,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
-Torguard,Streaming,_section_total,Overall,,0.30,calculated
+Torguard,Streaming,_section_total,Overall,,0.15,calculated
 Torguard,Streaming,Android tv app,Overall,,0.00,comparitech_api
+Torguard,Streaming,Browser extensions,Overall,no,,editorial_default
 Torguard,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 Torguard,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 Torguard,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
-Torguard,Streaming,Simultaneous stream capacity,Overall,4_plus,0.30,editorial_default
+Torguard,Streaming,Simultaneous stream capacity,Overall,under_4,0.15,editorial_default
 Torguard,Streaming,Streaming device apps,Overall,none,0.00,calculated
 Torguard,Streaming,Streaming unblock toolkit,Overall,no,0.00,editorial_default
 Torguard,Streaming,Tier1 streaming,Overall,most_3_or_4,,editorial_default
@@ -4155,11 +4164,16 @@ Torguard,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial
 Torguard,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 Torguard,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Torguard,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-Torguard,ValueForMoney,_section_total,Overall,,1.86,calculated
-Torguard,ValueForMoney,Connection limit tier,Overall,10_plus,1.36,editorial_default
+Torguard,ValueForMoney,_section_total,Overall,,2.50,calculated
+Torguard,ValueForMoney,Connection limit tier,Overall,,,editorial_default
 Torguard,ValueForMoney,Country count,Overall,30_to_59,,manual_admin
 Torguard,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
 Torguard,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+Torguard,ValueForMoney,Intro lowest price tier,Overall,over_10,0.00,editorial_default
+Torguard,ValueForMoney,Money back duration,Overall,7_to_13,0.40,editorial_default
+Torguard,ValueForMoney,Monthly price tier,Overall,10_to_12,0.70,editorial_default
+Torguard,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
+Torguard,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 Torguard,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 Torguard,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 Total VPN,EaseOfUse,_section_total,Overall,,5.00,calculated
