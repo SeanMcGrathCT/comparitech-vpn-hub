@@ -181,7 +181,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.86,
+      "overall_score": 7.87,
       "sample_count": 54,
       "dimensions": {
         "stream_hulu_unblock_rate": {
@@ -373,7 +373,7 @@
       "included_in_chart": false,
       "exclusion_reason": "fails this use case's core service: 0% on Hulu unblock rate (n=4)",
       "exclusion_type": "auto_service_fail",
-      "overall_score": 7.11,
+      "overall_score": 7.09,
       "sample_count": 46,
       "dimensions": {
         "stream_hulu_unblock_rate": {

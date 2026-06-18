@@ -1124,15 +1124,15 @@ CyberGhost,Speed,_section_total,WireGuard,,7.10,calculated
 CyberGhost,Speed,_section_total,OpenVPN (UDP),,7.10,calculated
 CyberGhost,Speed,_section_total,OpenVPN (TCP),,7.10,calculated
 CyberGhost,Speed,_section_total,IKEv2/IPsec,,7.95,calculated
-CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),7.10,calculated
-CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,7.96,calculated
+CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),7.03,calculated
+CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,7.92,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.67,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,6.00,calculated
 CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.88,calculated
-CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.70,calculated
+CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.60,calculated
 CyberGhost,Speed,_speed_v3_dl,Overall,,0.47,calculated
 CyberGhost,Speed,_speed_v3_lat,Overall,,0.09,calculated
-CyberGhost,Speed,_speed_v3_raw,Overall,"{""raw"": 0.586256, ""dl"": 0.472195, ""ul"": 0.021315, ""lat"": 0.092745, ""curve_score"": 6.7, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.59,calculated
+CyberGhost,Speed,_speed_v3_raw,Overall,"{""raw"": 0.58161, ""dl"": 0.467977, ""ul"": 0.020879, ""lat"": 0.092754, ""curve_score"": 6.6, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.58,calculated
 CyberGhost,Speed,_speed_v3_ul,Overall,,0.02,calculated
 CyberGhost,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 CyberGhost,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
@@ -1284,7 +1284,7 @@ ExpressVPN,Speed,_section_total_v3_global,Overall,,8.25,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,WireGuard,,8.91,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.25,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.76,calculated
-ExpressVPN,Speed,_section_total_v3_protocol,Lightway (UDP),,7.58,calculated
+ExpressVPN,Speed,_section_total_v3_protocol,Lightway (UDP),,7.56,calculated
 ExpressVPN,Speed,_section_total_v3_uk,Overall,,8.25,calculated
 ExpressVPN,Speed,_speed_v3_dl,Overall,,0.50,calculated
 ExpressVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
@@ -1991,14 +1991,14 @@ IPVanish,Speed,_section_total,OpenVPN (UDP),,4.65,calculated
 IPVanish,Speed,_section_total,OpenVPN (TCP),,7.30,calculated
 IPVanish,Speed,_section_total,IKEv2/IPsec,,6.80,calculated
 IPVanish,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
-IPVanish,Speed,_section_total_v3_protocol,WireGuard,,7.36,calculated
+IPVanish,Speed,_section_total_v3_protocol,WireGuard,,7.34,calculated
 IPVanish,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.48,calculated
 IPVanish,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.52,calculated
 IPVanish,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.20,calculated
 IPVanish,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
-IPVanish,Speed,_speed_v3_dl,Overall,,0.42,calculated
+IPVanish,Speed,_speed_v3_dl,Overall,,0.41,calculated
 IPVanish,Speed,_speed_v3_lat,Overall,,0.09,calculated
-IPVanish,Speed,_speed_v3_raw,Overall,"{""raw"": 0.517235, ""dl"": 0.415864, ""ul"": 0.015317, ""lat"": 0.086053, ""curve_score"": 5.25, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.52,calculated
+IPVanish,Speed,_speed_v3_raw,Overall,"{""raw"": 0.515047, ""dl"": 0.413802, ""ul"": 0.01519, ""lat"": 0.086056, ""curve_score"": 5.25, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.52,calculated
 IPVanish,Speed,_speed_v3_ul,Overall,,0.02,calculated
 IPVanish,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 IPVanish,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
@@ -4011,15 +4011,15 @@ Surfshark,Speed,_section_total,WireGuard,,5.10,calculated
 Surfshark,Speed,_section_total,OpenVPN (UDP),,6.05,calculated
 Surfshark,Speed,_section_total,OpenVPN (TCP),,3.10,calculated
 Surfshark,Speed,_section_total,IKEv2/IPsec,,3.10,calculated
-Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.62,calculated
-Surfshark,Speed,_section_total_v3_protocol,WireGuard,,7.62,calculated
+Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.69,calculated
+Surfshark,Speed,_section_total_v3_protocol,WireGuard,,7.63,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.17,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.71,calculated
 Surfshark,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.78,calculated
-Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.51,calculated
+Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.53,calculated
 Surfshark,Speed,_speed_v3_dl,Overall,,0.45,calculated
 Surfshark,Speed,_speed_v3_lat,Overall,,0.08,calculated
-Surfshark,Speed,_speed_v3_raw,Overall,"{""raw"": 0.545432, ""dl"": 0.452788, ""ul"": 0.013554, ""lat"": 0.07909, ""curve_score"": 5.51, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.55,calculated
+Surfshark,Speed,_speed_v3_raw,Overall,"{""raw"": 0.546505, ""dl"": 0.453257, ""ul"": 0.014149, ""lat"": 0.079099, ""curve_score"": 5.53, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.55,calculated
 Surfshark,Speed,_speed_v3_ul,Overall,,0.01,calculated
 Surfshark,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 Surfshark,Speed,Connection time,WireGuard,tier_slow,0.00,benchmark_run
