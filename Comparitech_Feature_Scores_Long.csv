@@ -498,7 +498,7 @@ Betternet,EaseOfUse,Quick pick purpose,Overall,yes,0.30,manual_admin
 Betternet,EaseOfUse,Router support,Overall,none,0.00,editorial_default
 Betternet,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
 Betternet,EaseOfUse,Task specific servers,Overall,yes,0.40,manual_admin
-Betternet,Security,_section_total,Overall,,6.40,calculated
+Betternet,Security,_section_total,Overall,,6.70,calculated
 Betternet,Security,Anonymous payment,Overall,none,0.00,editorial_default
 Betternet,Security,Authentication strength,Overall,weaker,0.00,manual_admin
 Betternet,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
@@ -512,6 +512,7 @@ Betternet,Security,Modern protocols,Overall,has_modern,0.70,calculated
 Betternet,Security,No logs policy status,Overall,claimed,0.50,editorial_default
 Betternet,Security,Obfuscation available,Overall,yes,0.50,calculated
 Betternet,Security,Perfect forward secrecy,Overall,yes,0.30,calculated
+Betternet,Security,Restrictive region access,Overall,yes,0.30,editorial_default
 Betternet,Security,Rsa key length,Overall,2048,0.10,manual_admin
 Betternet,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 Betternet,Speed,_section_total,Overall,,7.80,calculated
@@ -1127,7 +1128,7 @@ CyberGhost,Speed,_section_total,IKEv2/IPsec,,7.95,calculated
 CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),7.07,calculated
 CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,7.94,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.67,calculated
-CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,6.00,calculated
+CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.97,calculated
 CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.88,calculated
 CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.65,calculated
 CyberGhost,Speed,_speed_v3_dl,Overall,,0.47,calculated
@@ -1678,18 +1679,33 @@ Goose VPN,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 Goose VPN,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 Goose VPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 Goose VPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
-Hide My Ass!,EaseOfUse,_section_total,Overall,,1.20,calculated
-Hide My Ass!,EaseOfUse,Linux support,Overall,none,0.00,manual_admin
+Hide My Ass!,EaseOfUse,_section_total,Overall,,3.00,calculated
+Hide My Ass!,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
+Hide My Ass!,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
+Hide My Ass!,EaseOfUse,Ease of cancellation,Overall,very_easy,0.40,editorial_default
+Hide My Ass!,EaseOfUse,Linux support,Overall,none,0.00,editorial_default
+Hide My Ass!,EaseOfUse,Live chat quality,Overall,email_only,0.10,editorial_default
 Hide My Ass!,EaseOfUse,Quick connect,Overall,yes,0.80,manual_admin
 Hide My Ass!,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
-Hide My Ass!,EaseOfUse,Router support,Overall,none,0.00,manual_admin
+Hide My Ass!,EaseOfUse,Router support,Overall,none,0.00,editorial_default
+Hide My Ass!,EaseOfUse,Streaming device apps eou,Overall,1,0.30,editorial_default
 Hide My Ass!,EaseOfUse,Task specific servers,Overall,yes,0.40,manual_admin
-Hide My Ass!,Security,_section_total,Overall,,3.30,calculated
+Hide My Ass!,Security,_section_total,Overall,,6.50,calculated
+Hide My Ass!,Security,Anonymous payment,Overall,none,0.00,editorial_default
+Hide My Ass!,Security,Authentication strength,Overall,weaker,0.00,manual_admin
 Hide My Ass!,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
+Hide My Ass!,Security,Encryption strength,Overall,aes_128_or_higher,0.60,manual_admin
 Hide My Ass!,Security,Hq jurisdiction,Overall,inside_14_eyes,0.00,calculated
+Hide My Ass!,Security,Independent audit,Overall,older,0.40,editorial_default
 Hide My Ass!,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 Hide My Ass!,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 Hide My Ass!,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
+Hide My Ass!,Security,Modern protocols,Overall,has_modern,0.70,manual_admin
+Hide My Ass!,Security,No logs policy status,Overall,claimed,0.50,editorial_default
+Hide My Ass!,Security,Obfuscation available,Overall,yes,0.50,manual_admin
+Hide My Ass!,Security,Perfect forward secrecy,Overall,yes,0.30,manual_admin
+Hide My Ass!,Security,Restrictive region access,Overall,no,0.00,editorial_default
+Hide My Ass!,Security,Rsa key length,Overall,4096_plus,0.20,manual_admin
 Hide My Ass!,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 Hide My Ass!,Speed,_section_total,Overall,,7.80,calculated
 Hide My Ass!,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
@@ -1702,14 +1718,15 @@ Hide My Ass!,Speed,Long distance speed,Overall,tier_consistent,1.00,editorial_de
 Hide My Ass!,Speed,Packet loss tier,Overall,tier_good,0.40,editorial_default
 Hide My Ass!,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_default
 Hide My Ass!,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
-Hide My Ass!,Streaming,_section_total,Overall,,0.30,calculated
+Hide My Ass!,Streaming,_section_total,Overall,,0.45,calculated
 Hide My Ass!,Streaming,Android tv app,Overall,,0.00,comparitech_api
+Hide My Ass!,Streaming,Browser extensions,Overall,no,,editorial_default
 Hide My Ass!,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 Hide My Ass!,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 Hide My Ass!,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
-Hide My Ass!,Streaming,Simultaneous stream capacity,Overall,4_plus,0.30,editorial_default
+Hide My Ass!,Streaming,Simultaneous stream capacity,Overall,under_4,0.15,editorial_default
 Hide My Ass!,Streaming,Streaming device apps,Overall,none,0.00,calculated
-Hide My Ass!,Streaming,Streaming unblock toolkit,Overall,no,0.00,editorial_default
+Hide My Ass!,Streaming,Streaming unblock toolkit,Overall,yes,0.30,editorial_default
 Hide My Ass!,Streaming,Tier1 streaming,Overall,most_3_or_4,,editorial_default
 Hide My Ass!,Streaming,Tier2 streaming,Overall,most_3_or_4,,editorial_default
 Hide My Ass!,Streaming,Tier3 streaming,Overall,most_3_or_4,,editorial_default
@@ -1721,13 +1738,23 @@ Hide My Ass!,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,edito
 Hide My Ass!,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 Hide My Ass!,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Hide My Ass!,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-Hide My Ass!,ValueForMoney,_section_total,Overall,,2.46,calculated
-Hide My Ass!,ValueForMoney,Connection limit tier,Overall,10_plus,1.36,editorial_default
+Hide My Ass!,ValueForMoney,_section_total,Overall,,4.10,calculated
+Hide My Ass!,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default
+Hide My Ass!,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
+Hide My Ass!,ValueForMoney,Connection limit tier,Overall,,,editorial_default
 Hide My Ass!,ValueForMoney,Country count,Overall,60_plus,,manual_admin
 Hide My Ass!,ValueForMoney,Free trial available,Overall,yes,0.40,manual_admin
 Hide My Ass!,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+Hide My Ass!,ValueForMoney,Includes dark web monitor,Overall,no,0.00,editorial_default
+Hide My Ass!,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_default
+Hide My Ass!,ValueForMoney,Intro lowest price tier,Overall,under_3_usd,1.00,editorial_default
+Hide My Ass!,ValueForMoney,Money back duration,Overall,30_to_44,0.90,editorial_default
+Hide My Ass!,ValueForMoney,Pricing consistency,Overall,extreme,0.30,editorial_default
+Hide My Ass!,ValueForMoney,Renewal lowest price tier,Overall,over_10,0.00,editorial_default
+Hide My Ass!,ValueForMoney,Static ip included,Overall,no,0.00,editorial_default
 Hide My Ass!,ValueForMoney,Student discount,Overall,yes,0.20,manual_admin
 Hide My Ass!,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
+Hide My Ass!,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 Hide.me,EaseOfUse,_section_total,Overall,,6.50,calculated
 Hide.me,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 Hide.me,EaseOfUse,Browser extensions,Overall,1_plus,0.50,editorial_default
@@ -1993,12 +2020,12 @@ IPVanish,Speed,_section_total,IKEv2/IPsec,,6.80,calculated
 IPVanish,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 IPVanish,Speed,_section_total_v3_protocol,WireGuard,,7.34,calculated
 IPVanish,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.48,calculated
-IPVanish,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.52,calculated
+IPVanish,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.48,calculated
 IPVanish,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.20,calculated
 IPVanish,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 IPVanish,Speed,_speed_v3_dl,Overall,,0.41,calculated
 IPVanish,Speed,_speed_v3_lat,Overall,,0.09,calculated
-IPVanish,Speed,_speed_v3_raw,Overall,"{""raw"": 0.515353, ""dl"": 0.414143, ""ul"": 0.015156, ""lat"": 0.086055, ""curve_score"": 5.25, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.52,calculated
+IPVanish,Speed,_speed_v3_raw,Overall,"{""raw"": 0.513876, ""dl"": 0.412581, ""ul"": 0.015231, ""lat"": 0.086063, ""curve_score"": 5.25, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.51,calculated
 IPVanish,Speed,_speed_v3_ul,Overall,,0.02,calculated
 IPVanish,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 IPVanish,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
@@ -2742,17 +2769,33 @@ NordVPN,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 NordVPN,ValueForMoney,Student discount,Overall,yes,0.20,manual_admin
 NordVPN,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 NordVPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
-Norton Secure VPN,EaseOfUse,_section_total,Overall,,1.20,calculated
-Norton Secure VPN,EaseOfUse,Linux support,Overall,none,0.00,manual_admin
+Norton Secure VPN,EaseOfUse,_section_total,Overall,,4.00,calculated
+Norton Secure VPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
+Norton Secure VPN,EaseOfUse,Browser extensions,Overall,1_plus,0.50,editorial_default
+Norton Secure VPN,EaseOfUse,Ease of cancellation,Overall,very_easy,0.40,editorial_default
+Norton Secure VPN,EaseOfUse,Linux support,Overall,none,0.00,editorial_default
+Norton Secure VPN,EaseOfUse,Live chat quality,Overall,24_7,0.80,editorial_default
 Norton Secure VPN,EaseOfUse,Quick connect,Overall,yes,0.80,manual_admin
-Norton Secure VPN,EaseOfUse,Task specific servers,Overall,yes,0.40,manual_admin
-Norton Secure VPN,Security,_section_total,Overall,,3.30,calculated
+Norton Secure VPN,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
+Norton Secure VPN,EaseOfUse,Router support,Overall,none,0.00,editorial_default
+Norton Secure VPN,EaseOfUse,Streaming device apps eou,Overall,2_plus,0.50,editorial_default
+Norton Secure VPN,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
+Norton Secure VPN,Security,_section_total,Overall,,7.90,calculated
 Norton Secure VPN,Security,Anonymous payment,Overall,none,0.00,editorial_default
+Norton Secure VPN,Security,Authentication strength,Overall,sha384_or_higher,0.30,manual_admin
 Norton Secure VPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
+Norton Secure VPN,Security,Encryption strength,Overall,aes_128_or_higher,0.60,manual_admin
 Norton Secure VPN,Security,Hq jurisdiction,Overall,inside_14_eyes,0.00,calculated
+Norton Secure VPN,Security,Independent audit,Overall,within_24mo,1.00,editorial_default
 Norton Secure VPN,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 Norton Secure VPN,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 Norton Secure VPN,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
+Norton Secure VPN,Security,Modern protocols,Overall,has_modern,0.70,manual_admin
+Norton Secure VPN,Security,No logs policy status,Overall,audited,1.00,editorial_default
+Norton Secure VPN,Security,Obfuscation available,Overall,yes,0.50,manual_admin
+Norton Secure VPN,Security,Perfect forward secrecy,Overall,yes,0.30,manual_admin
+Norton Secure VPN,Security,Restrictive region access,Overall,no,0.00,editorial_default
+Norton Secure VPN,Security,Rsa key length,Overall,4096_plus,0.20,manual_admin
 Norton Secure VPN,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 Norton Secure VPN,Speed,_section_total,Overall,,7.80,calculated
 Norton Secure VPN,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
@@ -2767,6 +2810,7 @@ Norton Secure VPN,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial
 Norton Secure VPN,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
 Norton Secure VPN,Streaming,_section_total,Overall,,0.30,calculated
 Norton Secure VPN,Streaming,Android tv app,Overall,,0.00,comparitech_api
+Norton Secure VPN,Streaming,Browser extensions,Overall,yes,,editorial_default
 Norton Secure VPN,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 Norton Secure VPN,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 Norton Secure VPN,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
@@ -2784,14 +2828,23 @@ Norton Secure VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,
 Norton Secure VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 Norton Secure VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Norton Secure VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-Norton Secure VPN,ValueForMoney,_section_total,Overall,,2.40,calculated
+Norton Secure VPN,ValueForMoney,_section_total,Overall,,5.65,calculated
 Norton Secure VPN,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default
-Norton Secure VPN,ValueForMoney,Connection limit tier,Overall,unlimited,1.70,editorial_default
+Norton Secure VPN,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
+Norton Secure VPN,ValueForMoney,Connection limit tier,Overall,under_6,0.45,editorial_default
 Norton Secure VPN,ValueForMoney,Country count,Overall,under_30,,manual_admin
 Norton Secure VPN,ValueForMoney,Free trial available,Overall,yes,0.40,manual_admin
-Norton Secure VPN,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
+Norton Secure VPN,ValueForMoney,Includes av,Overall,yes,0.40,manual_admin
+Norton Secure VPN,ValueForMoney,Includes dark web monitor,Overall,yes,0.30,editorial_default
+Norton Secure VPN,ValueForMoney,Includes password manager,Overall,yes,0.30,editorial_default
+Norton Secure VPN,ValueForMoney,Intro lowest price tier,Overall,3_to_5,0.70,editorial_default
+Norton Secure VPN,ValueForMoney,Money back duration,Overall,45_plus_days,1.00,editorial_default
+Norton Secure VPN,ValueForMoney,Pricing consistency,Overall,moderate,0.50,editorial_default
+Norton Secure VPN,ValueForMoney,Renewal lowest price tier,Overall,5_to_7,0.50,editorial_default
+Norton Secure VPN,ValueForMoney,Static ip included,Overall,no,0.00,editorial_default
 Norton Secure VPN,ValueForMoney,Student discount,Overall,yes,0.20,manual_admin
 Norton Secure VPN,ValueForMoney,Subscription term count,Overall,one,0.10,manual_admin
+Norton Secure VPN,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 Oeck VPN,EaseOfUse,_section_total,Overall,,5.52,calculated
 Oeck VPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,calculated
 Oeck VPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
@@ -4118,20 +4171,33 @@ Surfshark,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
 Surfshark,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
 Surfshark,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
 Surfshark,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
-Torguard,EaseOfUse,_section_total,Overall,,1.00,calculated
+Torguard,EaseOfUse,_section_total,Overall,,2.80,calculated
+Torguard,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,manual_admin
 Torguard,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
+Torguard,EaseOfUse,Ease of cancellation,Overall,very_easy,0.40,editorial_default
 Torguard,EaseOfUse,Linux support,Overall,app_with_gui,0.50,editorial_default
+Torguard,EaseOfUse,Live chat quality,Overall,business_hours,0.40,editorial_default
+Torguard,EaseOfUse,Quick connect,Overall,no,0.00,manual_admin
+Torguard,EaseOfUse,Quick pick purpose,Overall,no,0.00,manual_admin
 Torguard,EaseOfUse,Router support,Overall,app_or_firmware,0.50,editorial_default
 Torguard,EaseOfUse,Streaming device apps eou,Overall,none,0.00,editorial_default
-Torguard,Security,_section_total,Overall,,4.70,calculated
+Torguard,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
+Torguard,Security,_section_total,Overall,,6.50,calculated
+Torguard,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
 Torguard,Security,Authentication strength,Overall,sha384_or_higher,0.30,manual_admin
 Torguard,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
 Torguard,Security,Encryption strength,Overall,aes_128_or_higher,0.60,manual_admin
 Torguard,Security,Hq jurisdiction,Overall,inside_14_eyes,0.00,calculated
+Torguard,Security,Independent audit,Overall,none,0.00,editorial_default
 Torguard,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
 Torguard,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 Torguard,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
+Torguard,Security,Modern protocols,Overall,has_modern,0.70,manual_admin
+Torguard,Security,No logs policy status,Overall,logs_kept,0.00,editorial_default
 Torguard,Security,Obfuscation available,Overall,yes,0.50,manual_admin
+Torguard,Security,Perfect forward secrecy,Overall,yes,0.30,manual_admin
+Torguard,Security,Restrictive region access,Overall,yes,0.30,editorial_default
+Torguard,Security,Rsa key length,Overall,2048,0.10,manual_admin
 Torguard,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
 Torguard,Speed,_section_total,Overall,,7.80,calculated
 Torguard,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
@@ -4144,15 +4210,15 @@ Torguard,Speed,Long distance speed,Overall,tier_consistent,1.00,editorial_defaul
 Torguard,Speed,Packet loss tier,Overall,tier_good,0.40,editorial_default
 Torguard,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_default
 Torguard,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
-Torguard,Streaming,_section_total,Overall,,0.15,calculated
+Torguard,Streaming,_section_total,Overall,,0.60,calculated
 Torguard,Streaming,Android tv app,Overall,,0.00,comparitech_api
 Torguard,Streaming,Browser extensions,Overall,no,,editorial_default
 Torguard,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 Torguard,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 Torguard,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
-Torguard,Streaming,Simultaneous stream capacity,Overall,under_4,0.15,editorial_default
+Torguard,Streaming,Simultaneous stream capacity,Overall,4_plus,0.30,editorial_default
 Torguard,Streaming,Streaming device apps,Overall,none,0.00,calculated
-Torguard,Streaming,Streaming unblock toolkit,Overall,no,0.00,editorial_default
+Torguard,Streaming,Streaming unblock toolkit,Overall,yes,0.30,editorial_default
 Torguard,Streaming,Tier1 streaming,Overall,most_3_or_4,,editorial_default
 Torguard,Streaming,Tier2 streaming,Overall,most_3_or_4,,editorial_default
 Torguard,Streaming,Tier3 streaming,Overall,most_3_or_4,,editorial_default
@@ -4164,18 +4230,24 @@ Torguard,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial
 Torguard,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
 Torguard,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Torguard,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
-Torguard,ValueForMoney,_section_total,Overall,,2.50,calculated
-Torguard,ValueForMoney,Connection limit tier,Overall,,,editorial_default
+Torguard,ValueForMoney,_section_total,Overall,,6.51,calculated
+Torguard,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
+Torguard,ValueForMoney,Clear cancellation,Overall,yes,0.50,editorial_default
+Torguard,ValueForMoney,Connection limit tier,Overall,6_to_10,0.91,editorial_default
 Torguard,ValueForMoney,Country count,Overall,30_to_59,,manual_admin
-Torguard,ValueForMoney,Free trial available,Overall,no,0.00,manual_admin
+Torguard,ValueForMoney,Free trial available,Overall,yes,0.40,manual_admin
 Torguard,ValueForMoney,Includes av,Overall,no,0.00,manual_admin
-Torguard,ValueForMoney,Intro lowest price tier,Overall,over_10,0.00,editorial_default
+Torguard,ValueForMoney,Includes dark web monitor,Overall,no,0.00,editorial_default
+Torguard,ValueForMoney,Includes password manager,Overall,no,0.00,editorial_default
+Torguard,ValueForMoney,Intro lowest price tier,Overall,3_to_5,0.70,editorial_default
 Torguard,ValueForMoney,Money back duration,Overall,7_to_13,0.40,editorial_default
 Torguard,ValueForMoney,Monthly price tier,Overall,10_to_12,0.70,editorial_default
 Torguard,ValueForMoney,Pricing consistency,Overall,consistent,0.60,editorial_default
+Torguard,ValueForMoney,Renewal lowest price tier,Overall,5_to_7,0.50,editorial_default
 Torguard,ValueForMoney,Static ip included,Overall,yes,0.30,editorial_default
-Torguard,ValueForMoney,Student discount,Overall,no,0.00,manual_admin
+Torguard,ValueForMoney,Student discount,Overall,yes,0.20,manual_admin
 Torguard,ValueForMoney,Subscription term count,Overall,three_plus,0.50,manual_admin
+Torguard,ValueForMoney,Traditional payments,Overall,multiple,0.30,editorial_default
 Total VPN,EaseOfUse,_section_total,Overall,,5.00,calculated
 Total VPN,EaseOfUse,Apps for major platforms,Overall,all_4,1.00,calculated
 Total VPN,EaseOfUse,Browser extensions,Overall,none,0.00,editorial_default
