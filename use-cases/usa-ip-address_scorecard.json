@@ -92,7 +92,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 8.14,
+      "overall_score": 8.12,
       "sample_count": 52,
       "dimensions": {
         "speed_us_retention_pct": {
@@ -278,7 +278,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.87,
+      "overall_score": 7.76,
       "sample_count": 61,
       "dimensions": {
         "speed_us_retention_pct": {
