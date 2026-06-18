@@ -1133,7 +1133,7 @@ CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.88,calculated
 CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.65,calculated
 CyberGhost,Speed,_speed_v3_dl,Overall,,0.47,calculated
 CyberGhost,Speed,_speed_v3_lat,Overall,,0.09,calculated
-CyberGhost,Speed,_speed_v3_raw,Overall,"{""raw"": 0.584143, ""dl"": 0.470393, ""ul"": 0.020972, ""lat"": 0.092779, ""curve_score"": 6.65, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.58,calculated
+CyberGhost,Speed,_speed_v3_raw,Overall,"{""raw"": 0.584126, ""dl"": 0.470366, ""ul"": 0.020981, ""lat"": 0.092779, ""curve_score"": 6.65, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.58,calculated
 CyberGhost,Speed,_speed_v3_ul,Overall,,0.02,calculated
 CyberGhost,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 CyberGhost,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
@@ -2671,14 +2671,14 @@ NordVPN,Speed,_section_total,Overall,,7.80,calculated
 NordVPN,Speed,_section_total,OpenVPN (UDP),,5.50,calculated
 NordVPN,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
 NordVPN,Speed,_section_total,NordLynx,,7.10,calculated
-NordVPN,Speed,_section_total_v3_global,Overall,,6.63,calculated
+NordVPN,Speed,_section_total_v3_global,Overall,,6.57,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.59,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.46,calculated
-NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.74,calculated
-NordVPN,Speed,_section_total_v3_uk,Overall,,5.88,calculated
-NordVPN,Speed,_speed_v3_dl,Overall,,0.46,calculated
+NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.72,calculated
+NordVPN,Speed,_section_total_v3_uk,Overall,,5.75,calculated
+NordVPN,Speed,_speed_v3_dl,Overall,,0.45,calculated
 NordVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
-NordVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.560525, ""dl"": 0.456418, ""ul"": 0.022082, ""lat"": 0.082026, ""curve_score"": 5.88, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.56,calculated
+NordVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.558523, ""dl"": 0.4544, ""ul"": 0.022097, ""lat"": 0.082026, ""curve_score"": 5.75, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.56,calculated
 NordVPN,Speed,_speed_v3_ul,Overall,,0.02,calculated
 NordVPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 NordVPN,Speed,Connection time,OpenVPN (UDP),tier_fast,0.10,benchmark_run
