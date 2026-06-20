@@ -133,7 +133,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.92,
+      "overall_score": 7.91,
       "sample_count": 53,
       "dimensions": {
         "stream_hulu_unblock_rate": {
@@ -229,7 +229,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.89,
+      "overall_score": 7.88,
       "sample_count": 58,
       "dimensions": {
         "stream_hulu_unblock_rate": {
