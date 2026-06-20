@@ -1128,7 +1128,7 @@ CyberGhost,Speed,_section_total,IKEv2/IPsec,,7.95,calculated
 CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),7.06,calculated
 CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,7.96,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.38,calculated
-CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.97,calculated
+CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.88,calculated
 CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.75,calculated
 CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.67,calculated
 CyberGhost,Speed,_speed_v3_dl,Overall,,0.47,calculated
@@ -2020,12 +2020,12 @@ IPVanish,Speed,_section_total,IKEv2/IPsec,,4.15,calculated
 IPVanish,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 IPVanish,Speed,_section_total_v3_protocol,WireGuard,,7.24,calculated
 IPVanish,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.42,calculated
-IPVanish,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.48,calculated
+IPVanish,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.45,calculated
 IPVanish,Speed,_section_total_v3_protocol,IKEv2/IPsec,,5.97,calculated
 IPVanish,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 IPVanish,Speed,_speed_v3_dl,Overall,,0.40,calculated
 IPVanish,Speed,_speed_v3_lat,Overall,,0.09,calculated
-IPVanish,Speed,_speed_v3_raw,Overall,"{""raw"": 0.502612, ""dl"": 0.399762, ""ul"": 0.016781, ""lat"": 0.086069, ""curve_score"": 5.25, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.50,calculated
+IPVanish,Speed,_speed_v3_raw,Overall,"{""raw"": 0.501712, ""dl"": 0.398607, ""ul"": 0.017034, ""lat"": 0.086071, ""curve_score"": 5.25, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.50,calculated
 IPVanish,Speed,_speed_v3_ul,Overall,,0.02,calculated
 IPVanish,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 IPVanish,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
@@ -4067,7 +4067,7 @@ Surfshark,Speed,_section_total,IKEv2/IPsec,,5.75,calculated
 Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 Surfshark,Speed,_section_total_v3_protocol,WireGuard,,7.50,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.93,calculated
-Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.69,calculated
+Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.68,calculated
 Surfshark,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.82,calculated
 Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.33,calculated
 Surfshark,Speed,_speed_v3_dl,Overall,,0.44,calculated
