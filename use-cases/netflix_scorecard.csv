@@ -1,8 +1,8 @@
 provider_slug,provider_display_name,rank,composite_score,included_in_chart,exclusion_reason,stream_netflix_us_unblock_rate__raw,stream_netflix_us_unblock_rate__display,stream_netflix_us_unblock_rate__points,speed_us_retention_pct__raw,speed_us_retention_pct__display,speed_us_retention_pct__points,stream_netflix_uk_unblock_rate__raw,stream_netflix_uk_unblock_rate__display,stream_netflix_uk_unblock_rate__points,latency_us_p50_ms__raw,latency_us_p50_ms__display,latency_us_p50_ms__points,effective_monthly_price_usd__raw,effective_monthly_price_usd__display,effective_monthly_price_usd__points,overall_score,price_basis
 expressvpn,ExpressVPN,1,8.78,true,,100,100,2.14,83.5985054624745,83.60,2.5774332900206796,100,100,1.43,62.4975,62.50,1.1976428749999999,2.49,2.49,1.43,8.11,intro_monthly_equivalent
-proton,ProtonVPN,2,8.57,true,,100,100,2.14,82.2209009268212,82.22,2.4790723261750336,100,100,1.43,64.97,64.97,1.1799645,2.99,2.99,1.345916,7.91,intro_monthly_equivalent
+proton,ProtonVPN,2,8.57,true,,100,100,2.14,82.2209009268212,82.22,2.4790723261750336,100,100,1.43,64.97,64.97,1.1799645,2.99,2.99,1.345916,7.86,intro_monthly_equivalent
 surfshark,Surfshark,3,8.55,true,,100,100,2.14,80.85556677658789,80.86,2.3815874678483753,100,100,1.43,66.11500000000001,66.12,1.17177775,1.99,1.99,1.43,7.85,intro_monthly_equivalent
-nordvpn,NordVPN,4,8.44,true,,100,100,2.14,80.70973192361059,80.71,2.371174859345796,100,100,1.43,65.7,65.70,1.174745,3.09,3.09,1.328756,7.93,intro_monthly_equivalent
+nordvpn,NordVPN,4,8.44,true,,100,100,2.14,80.70973192361059,80.71,2.371174859345796,100,100,1.43,65.7,65.70,1.174745,3.09,3.09,1.328756,7.9,intro_monthly_equivalent
 cyberghost,CyberGhost,5,8.3,true,,100,100,2.14,77.08407063627611,77.08,2.112302643430114,100,100,1.43,63.3,63.30,1.191905,1.59,1.59,1.43,7.17,intro_monthly_equivalent
 totalvpn,Total VPN,6,7.96,true,,100,100,2.14,82.3134188129244,82.31,2.485678103242802,100,100,1.43,64.5025,64.50,1.183307125,8.25,8.25,0.72215,6.29,intro_monthly_equivalent
 ipvanish,IPVanish,7,7.93,true,,100,100,2.14,72.0465348263132,72.05,1.752622586598763,100,100,1.43,64.92,64.92,1.1803219999999999,2.19,2.19,1.43,7.4,intro_monthly_equivalent
