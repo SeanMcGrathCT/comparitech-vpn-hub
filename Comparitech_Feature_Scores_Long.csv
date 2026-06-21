@@ -4063,12 +4063,12 @@ Surfshark,Speed,_section_total,Overall,,7.80,calculated
 Surfshark,Speed,_section_total,WireGuard,,5.75,calculated
 Surfshark,Speed,_section_total,OpenVPN (UDP),,6.05,calculated
 Surfshark,Speed,_section_total,OpenVPN (TCP),,3.10,calculated
-Surfshark,Speed,_section_total,IKEv2/IPsec,,5.75,calculated
+Surfshark,Speed,_section_total,IKEv2/IPsec,,6.25,calculated
 Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 Surfshark,Speed,_section_total_v3_protocol,WireGuard,,7.55,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.87,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.68,calculated
-Surfshark,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.82,calculated
+Surfshark,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.98,calculated
 Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.35,calculated
 Surfshark,Speed,_speed_v3_dl,Overall,,0.44,calculated
 Surfshark,Speed,_speed_v3_lat,Overall,,0.08,calculated
@@ -4093,7 +4093,7 @@ Surfshark,Speed,Latency tier,Overall,tier_good,1.50,editorial_default
 Surfshark,Speed,Latency tier,WireGuard,tier_okay,1.00,benchmark_run
 Surfshark,Speed,Latency tier,OpenVPN (UDP),tier_okay,1.00,benchmark_run
 Surfshark,Speed,Latency tier,OpenVPN (TCP),tier_okay,1.00,benchmark_run
-Surfshark,Speed,Latency tier,IKEv2/IPsec,tier_okay,1.00,benchmark_run
+Surfshark,Speed,Latency tier,IKEv2/IPsec,tier_good,1.50,benchmark_run
 Surfshark,Speed,Long distance speed,Overall,tier_consistent,1.00,editorial_default
 Surfshark,Speed,Long distance speed,WireGuard,tier_consistent,1.00,benchmark_run
 Surfshark,Speed,Long distance speed,OpenVPN (UDP),tier_consistent,1.00,benchmark_run
@@ -4295,6 +4295,7 @@ Total VPN,Speed,_section_total,Overall,,7.80,calculated
 Total VPN,Speed,_section_total,WireGuard,,5.45,calculated
 Total VPN,Speed,_section_total,OpenVPN (UDP),,3.95,calculated
 Total VPN,Speed,_section_total,OpenVPN (TCP),,5.65,calculated
+Total VPN,Speed,_section_total,IKEv2/IPsec,,1.00,calculated
 Total VPN,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),6.69,calculated
 Total VPN,Speed,_section_total_v3_protocol,WireGuard,,7.88,calculated
 Total VPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.55,calculated
@@ -4324,6 +4325,7 @@ Total VPN,Speed,Long distance speed,Overall,tier_consistent,1.00,editorial_defau
 Total VPN,Speed,Long distance speed,WireGuard,tier_consistent,1.00,benchmark_run
 Total VPN,Speed,Long distance speed,OpenVPN (UDP),tier_consistent,1.00,benchmark_run
 Total VPN,Speed,Long distance speed,OpenVPN (TCP),tier_consistent,1.00,benchmark_run
+Total VPN,Speed,Long distance speed,IKEv2/IPsec,tier_consistent,1.00,benchmark_run
 Total VPN,Speed,Packet loss tier,Overall,tier_good,0.40,editorial_default
 Total VPN,Speed,Packet loss tier,WireGuard,tier_excellent,0.70,benchmark_run
 Total VPN,Speed,Packet loss tier,OpenVPN (UDP),tier_excellent,0.70,benchmark_run
