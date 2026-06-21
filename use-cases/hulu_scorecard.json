@@ -133,7 +133,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.92,
+      "overall_score": 7.91,
       "sample_count": 53,
       "dimensions": {
         "stream_hulu_unblock_rate": {
@@ -181,7 +181,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.82,
+      "overall_score": 7.85,
       "sample_count": 54,
       "dimensions": {
         "stream_hulu_unblock_rate": {
@@ -229,7 +229,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.89,
+      "overall_score": 7.93,
       "sample_count": 58,
       "dimensions": {
         "stream_hulu_unblock_rate": {
@@ -277,7 +277,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 6.3,
+      "overall_score": 6.29,
       "sample_count": 34,
       "dimensions": {
         "stream_hulu_unblock_rate": {
@@ -325,7 +325,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.43,
+      "overall_score": 7.4,
       "sample_count": 57,
       "dimensions": {
         "stream_hulu_unblock_rate": {
@@ -373,7 +373,7 @@
       "included_in_chart": false,
       "exclusion_reason": "fails this use case's core service: 0% on Hulu unblock rate (n=4)",
       "exclusion_type": "auto_service_fail",
-      "overall_score": 7.11,
+      "overall_score": 7.17,
       "sample_count": 46,
       "dimensions": {
         "stream_hulu_unblock_rate": {
