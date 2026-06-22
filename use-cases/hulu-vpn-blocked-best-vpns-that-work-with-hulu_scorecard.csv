@@ -2,8 +2,8 @@ provider_slug,provider_display_name,rank,composite_score,included_in_chart,exclu
 expressvpn,ExpressVPN,1,8.91,true,,100,100,2.14,85.4328360286265,85.43,2.7084044924439317,100,100,1.43,62.290000000000006,62.29,1.1991265,2.49,2.49,1.43,8.09,intro_monthly_equivalent
 proton,ProtonVPN,2,8.56,true,,100,100,2.14,82.0524184117393,82.05,2.4670426745981855,100,100,1.43,64.9,64.90,1.1804649999999999,2.99,2.99,1.345916,7.66,intro_monthly_equivalent
 surfshark,Surfshark,3,8.46,true,,100,100,2.14,79.61472776995741,79.61,2.2929915627749593,100,100,1.43,66.22,66.22,1.171027,1.99,1.99,1.43,7.85,intro_monthly_equivalent
-nordvpn,NordVPN,4,8.24,true,,100,100,2.14,77.8659897706796,77.87,2.1681316696265234,100,100,1.43,65.74,65.74,1.174459,3.09,3.09,1.328756,7.72,intro_monthly_equivalent
+nordvpn,NordVPN,4,8.24,true,,100,100,2.14,77.8659897706796,77.87,2.1681316696265234,100,100,1.43,65.74,65.74,1.174459,3.09,3.09,1.328756,7.73,intro_monthly_equivalent
 totalvpn,Total VPN,5,7.93,true,,100,100,2.14,81.8175667793146,81.82,2.4502742680430623,100,100,1.43,64.495,64.50,1.1833607499999999,8.25,8.25,0.72215,6.25,intro_monthly_equivalent
 ipvanish,IPVanish,6,7.86,true,,100,100,2.14,71.0234930780851,71.02,1.679577405775276,100,100,1.43,64.92500000000001,64.93,1.18028625,2.19,2.19,1.43,7.45,intro_monthly_equivalent
-cyberghost,CyberGhost,,4.87,false,fails this use case's core service: 0% on Hulu unblock rate (n=4),0,0,0.0,78.99721824580939,79.00,2.2489013827507907,0,0,0.0,63.3775,63.38,1.191350875,1.59,1.59,1.43,7.23,intro_monthly_equivalent
+cyberghost,CyberGhost,,4.87,false,fails this use case's core service: 0% on Hulu unblock rate (n=4),0,0,0.0,78.99721824580939,79.00,2.2489013827507907,0,0,0.0,63.3775,63.38,1.191350875,1.59,1.59,1.43,7.19,intro_monthly_equivalent
 hotspot_shield,Hotspot Shield,,0.74,false,"incomplete data for this use case: stream_hulu_unblock_rate, speed_us_retention_pct, stream_disney_us_unblock_rate, latency_us_p50_ms",,,0.0,,,0.0,,,0.0,,,0.0,7.99,7.99,0.744458,3.82,intro_monthly_equivalent
