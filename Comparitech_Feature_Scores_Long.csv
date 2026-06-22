@@ -1285,7 +1285,7 @@ ExpressVPN,Speed,_section_total_v3_global,Overall,,8.08,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,WireGuard,,8.77,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.17,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.76,calculated
-ExpressVPN,Speed,_section_total_v3_protocol,Lightway (UDP),,7.74,calculated
+ExpressVPN,Speed,_section_total_v3_protocol,Lightway (UDP),,7.77,calculated
 ExpressVPN,Speed,_section_total_v3_uk,Overall,,7.96,calculated
 ExpressVPN,Speed,_speed_v3_dl,Overall,,0.48,calculated
 ExpressVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
@@ -4064,15 +4064,15 @@ Surfshark,Speed,_section_total,WireGuard,,5.75,calculated
 Surfshark,Speed,_section_total,OpenVPN (UDP),,6.05,calculated
 Surfshark,Speed,_section_total,OpenVPN (TCP),,3.10,calculated
 Surfshark,Speed,_section_total,IKEv2/IPsec,,6.25,calculated
-Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
-Surfshark,Speed,_section_total_v3_protocol,WireGuard,,7.56,calculated
+Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.27,calculated
+Surfshark,Speed,_section_total_v3_protocol,WireGuard,,7.57,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.87,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.68,calculated
 Surfshark,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.98,calculated
-Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.35,calculated
+Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.36,calculated
 Surfshark,Speed,_speed_v3_dl,Overall,,0.44,calculated
 Surfshark,Speed,_speed_v3_lat,Overall,,0.08,calculated
-Surfshark,Speed,_speed_v3_raw,Overall,"{""raw"": 0.536256, ""dl"": 0.440366, ""ul"": 0.016266, ""lat"": 0.079625, ""curve_score"": 5.35, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.54,calculated
+Surfshark,Speed,_speed_v3_raw,Overall,"{""raw"": 0.536871, ""dl"": 0.440941, ""ul"": 0.016309, ""lat"": 0.079621, ""curve_score"": 5.36, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.54,calculated
 Surfshark,Speed,_speed_v3_ul,Overall,,0.02,calculated
 Surfshark,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 Surfshark,Speed,Connection time,WireGuard,tier_slow,0.00,benchmark_run
