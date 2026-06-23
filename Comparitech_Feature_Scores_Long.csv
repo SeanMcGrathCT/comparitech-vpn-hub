@@ -1129,7 +1129,7 @@ CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverag
 CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,7.96,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.27,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.85,calculated
-CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.75,calculated
+CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.73,calculated
 CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.65,calculated
 CyberGhost,Speed,_speed_v3_dl,Overall,,0.47,calculated
 CyberGhost,Speed,_speed_v3_lat,Overall,,0.09,calculated
@@ -2016,7 +2016,7 @@ IPVanish,Speed,_section_total,Overall,,7.80,calculated
 IPVanish,Speed,_section_total,WireGuard,,3.45,calculated
 IPVanish,Speed,_section_total,OpenVPN (UDP),,4.65,calculated
 IPVanish,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
-IPVanish,Speed,_section_total,IKEv2/IPsec,,4.15,calculated
+IPVanish,Speed,_section_total,IKEv2/IPsec,,6.15,calculated
 IPVanish,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 IPVanish,Speed,_section_total_v3_protocol,WireGuard,,7.19,calculated
 IPVanish,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.41,calculated
@@ -2036,7 +2036,7 @@ IPVanish,Speed,Download tier,Overall,tier_good,2.65,editorial_default
 IPVanish,Speed,Download tier,WireGuard,tier_poor,0.00,benchmark_run
 IPVanish,Speed,Download tier,OpenVPN (UDP),tier_poor,0.00,benchmark_run
 IPVanish,Speed,Download tier,OpenVPN (TCP),tier_okay,2.00,benchmark_run
-IPVanish,Speed,Download tier,IKEv2/IPsec,tier_poor,0.00,benchmark_run
+IPVanish,Speed,Download tier,IKEv2/IPsec,tier_okay,2.00,benchmark_run
 IPVanish,Speed,Jitter tier,Overall,tier_good,0.20,editorial_default
 IPVanish,Speed,Jitter tier,WireGuard,tier_excellent,0.40,benchmark_run
 IPVanish,Speed,Jitter tier,OpenVPN (UDP),tier_excellent,0.40,benchmark_run
@@ -2087,20 +2087,20 @@ IPVanish,Streaming,Tier2 streaming,Overall,none,0.00,benchmark_run
 IPVanish,Streaming,Tier3 streaming,Overall,some_1_or_2,0.10,benchmark_run
 IPVanish,Streaming,Works in high censorship countries,Overall,0,0.00,comparitech_api
 IPVanish,SystemPerformance,_section_total,Overall,,4.00,calculated
-IPVanish,SystemPerformance,_section_total_v3_sysperf,Overall,0.03178,7.71,calculated
-IPVanish,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.03178,7.71,calculated
-IPVanish,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.05237,6.64,calculated
+IPVanish,SystemPerformance,_section_total_v3_sysperf,Overall,0.03286,7.67,calculated
+IPVanish,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.03286,7.67,calculated
+IPVanish,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.05061,6.66,calculated
 IPVanish,SystemPerformance,Idle delta cpu pct,Overall,-0.9293,,calculated
 IPVanish,SystemPerformance,Idle delta cpu pct,WireGuard,-0.9293,,calculated
-IPVanish,SystemPerformance,Idle delta cpu pct,OpenVPN (UDP),-1.3513,,calculated
+IPVanish,SystemPerformance,Idle delta cpu pct,OpenVPN (UDP),-1.3643,,calculated
 IPVanish,SystemPerformance,Idle delta cpu tier,Overall,tier_okay,0.00,editorial_default
-IPVanish,SystemPerformance,Load efficiency per mbps,Overall,0.03178,,calculated
-IPVanish,SystemPerformance,Load efficiency per mbps,WireGuard,0.03178,,calculated
-IPVanish,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.05237,,calculated
+IPVanish,SystemPerformance,Load efficiency per mbps,Overall,0.03286,,calculated
+IPVanish,SystemPerformance,Load efficiency per mbps,WireGuard,0.03286,,calculated
+IPVanish,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.05061,,calculated
 IPVanish,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_default
 IPVanish,SystemPerformance,Ram delta mb,Overall,297.3,,calculated
 IPVanish,SystemPerformance,Ram delta mb,WireGuard,297.3,,calculated
-IPVanish,SystemPerformance,Ram delta mb,OpenVPN (UDP),513.5,,calculated
+IPVanish,SystemPerformance,Ram delta mb,OpenVPN (UDP),388.1,,calculated
 IPVanish,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 IPVanish,ValueForMoney,_section_total,Overall,,6.50,calculated
 IPVanish,ValueForMoney,Anonymous payments vfm,Overall,none,0.00,editorial_default
@@ -4295,7 +4295,7 @@ Total VPN,Speed,_section_total,Overall,,7.80,calculated
 Total VPN,Speed,_section_total,WireGuard,,6.75,calculated
 Total VPN,Speed,_section_total,OpenVPN (UDP),,3.95,calculated
 Total VPN,Speed,_section_total,OpenVPN (TCP),,5.65,calculated
-Total VPN,Speed,_section_total,IKEv2/IPsec,,1.00,calculated
+Total VPN,Speed,_section_total,IKEv2/IPsec,,3.15,calculated
 Total VPN,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),6.54,calculated
 Total VPN,Speed,_section_total_v3_protocol,WireGuard,,7.90,calculated
 Total VPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.57,calculated
@@ -4309,18 +4309,22 @@ Total VPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 Total VPN,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
 Total VPN,Speed,Connection time,OpenVPN (UDP),tier_okay,0.05,benchmark_run
 Total VPN,Speed,Connection time,OpenVPN (TCP),tier_okay,0.05,benchmark_run
+Total VPN,Speed,Connection time,IKEv2/IPsec,tier_okay,0.05,benchmark_run
 Total VPN,Speed,Download tier,Overall,tier_good,2.65,editorial_default
 Total VPN,Speed,Download tier,WireGuard,tier_excellent,3.30,benchmark_run
 Total VPN,Speed,Download tier,OpenVPN (UDP),tier_poor,0.00,benchmark_run
 Total VPN,Speed,Download tier,OpenVPN (TCP),tier_okay,2.00,benchmark_run
+Total VPN,Speed,Download tier,IKEv2/IPsec,tier_poor,0.00,benchmark_run
 Total VPN,Speed,Jitter tier,Overall,tier_good,0.20,editorial_default
 Total VPN,Speed,Jitter tier,WireGuard,tier_excellent,0.40,benchmark_run
 Total VPN,Speed,Jitter tier,OpenVPN (UDP),tier_excellent,0.40,benchmark_run
 Total VPN,Speed,Jitter tier,OpenVPN (TCP),tier_excellent,0.40,benchmark_run
+Total VPN,Speed,Jitter tier,IKEv2/IPsec,tier_excellent,0.40,benchmark_run
 Total VPN,Speed,Latency tier,Overall,tier_good,1.50,editorial_default
 Total VPN,Speed,Latency tier,WireGuard,tier_okay,1.00,benchmark_run
 Total VPN,Speed,Latency tier,OpenVPN (UDP),tier_okay,1.00,benchmark_run
 Total VPN,Speed,Latency tier,OpenVPN (TCP),tier_okay,1.00,benchmark_run
+Total VPN,Speed,Latency tier,IKEv2/IPsec,tier_okay,1.00,benchmark_run
 Total VPN,Speed,Long distance speed,Overall,tier_consistent,1.00,editorial_default
 Total VPN,Speed,Long distance speed,WireGuard,tier_consistent,1.00,benchmark_run
 Total VPN,Speed,Long distance speed,OpenVPN (UDP),tier_consistent,1.00,benchmark_run
@@ -4330,6 +4334,7 @@ Total VPN,Speed,Packet loss tier,Overall,tier_good,0.40,editorial_default
 Total VPN,Speed,Packet loss tier,WireGuard,tier_excellent,0.70,benchmark_run
 Total VPN,Speed,Packet loss tier,OpenVPN (UDP),tier_excellent,0.70,benchmark_run
 Total VPN,Speed,Packet loss tier,OpenVPN (TCP),tier_excellent,0.70,benchmark_run
+Total VPN,Speed,Packet loss tier,IKEv2/IPsec,tier_excellent,0.70,benchmark_run
 Total VPN,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_default
 Total VPN,Speed,Speed consistency,WireGuard,tier_variable,0.30,benchmark_run
 Total VPN,Speed,Speed consistency,OpenVPN (UDP),tier_variable,0.30,benchmark_run
@@ -4338,6 +4343,7 @@ Total VPN,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
 Total VPN,Speed,Upload tier,WireGuard,tier_poor,0.00,benchmark_run
 Total VPN,Speed,Upload tier,OpenVPN (UDP),tier_okay,0.50,benchmark_run
 Total VPN,Speed,Upload tier,OpenVPN (TCP),tier_okay,0.50,benchmark_run
+Total VPN,Speed,Upload tier,IKEv2/IPsec,tier_poor,0.00,benchmark_run
 Total VPN,Streaming,_section_total,Overall,,1.05,calculated
 Total VPN,Streaming,_section_total_v3_streaming,Overall,T1=100% T2=100% T3=100%,8.30,calculated
 Total VPN,Streaming,Android tv app,Overall,,0.00,comparitech_api

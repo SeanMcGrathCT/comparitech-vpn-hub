@@ -1,18 +1,18 @@
 {
-  "exported_at_utc": "2026-06-23T20:04:12.003922+00:00",
+  "exported_at_utc": "2026-06-23T22:04:18.541015+00:00",
   "schema_version": "a979f578c07f",
   "curve_quarter": "2026-04-01",
   "speed_reference_band": "5.0-8.5",
   "providers_total": 74,
   "telemetry_rows": 74,
-  "feature_rows": 5833,
+  "feature_rows": 5839,
   "streaming_rows": 70,
   "feature_data_source_distribution": {
     "calculated": 1067,
     "manual_admin": 855,
     "editorial_default": 3163,
     "comparitech_api": 476,
-    "benchmark_run": 272
+    "benchmark_run": 278
   },
   "files": [
     "Comparitech_Raw_Telemetry.csv",
