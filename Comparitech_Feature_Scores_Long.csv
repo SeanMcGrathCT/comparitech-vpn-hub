@@ -1285,7 +1285,7 @@ ExpressVPN,Speed,_section_total_v3_global,Overall,,8.08,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,WireGuard,,8.77,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.17,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.76,calculated
-ExpressVPN,Speed,_section_total_v3_protocol,Lightway (UDP),,7.77,calculated
+ExpressVPN,Speed,_section_total_v3_protocol,Lightway (UDP),,7.78,calculated
 ExpressVPN,Speed,_section_total_v3_uk,Overall,,7.96,calculated
 ExpressVPN,Speed,_speed_v3_dl,Overall,,0.48,calculated
 ExpressVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
@@ -2019,7 +2019,7 @@ IPVanish,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
 IPVanish,Speed,_section_total,IKEv2/IPsec,,4.15,calculated
 IPVanish,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 IPVanish,Speed,_section_total_v3_protocol,WireGuard,,7.19,calculated
-IPVanish,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.43,calculated
+IPVanish,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.41,calculated
 IPVanish,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.45,calculated
 IPVanish,Speed,_section_total_v3_protocol,IKEv2/IPsec,,5.91,calculated
 IPVanish,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
