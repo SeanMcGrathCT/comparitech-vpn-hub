@@ -1129,7 +1129,7 @@ CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverag
 CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,7.96,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.27,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.85,calculated
-CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.73,calculated
+CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.75,calculated
 CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.65,calculated
 CyberGhost,Speed,_speed_v3_dl,Overall,,0.47,calculated
 CyberGhost,Speed,_speed_v3_lat,Overall,,0.09,calculated
@@ -2671,14 +2671,14 @@ NordVPN,Speed,_section_total,Overall,,7.80,calculated
 NordVPN,Speed,_section_total,OpenVPN (UDP),,5.50,calculated
 NordVPN,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
 NordVPN,Speed,_section_total,NordLynx,,7.50,calculated
-NordVPN,Speed,_section_total_v3_global,Overall,,6.55,calculated
+NordVPN,Speed,_section_total_v3_global,Overall,,6.69,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.52,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.42,calculated
-NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.75,calculated
-NordVPN,Speed,_section_total_v3_uk,Overall,,5.94,calculated
+NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.78,calculated
+NordVPN,Speed,_section_total_v3_uk,Overall,,6.18,calculated
 NordVPN,Speed,_speed_v3_dl,Overall,,0.46,calculated
 NordVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
-NordVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.561339, ""dl"": 0.455772, ""ul"": 0.022753, ""lat"": 0.082814, ""curve_score"": 5.94, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.56,calculated
+NordVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.564547, ""dl"": 0.45857, ""ul"": 0.023049, ""lat"": 0.082929, ""curve_score"": 6.18, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.56,calculated
 NordVPN,Speed,_speed_v3_ul,Overall,,0.02,calculated
 NordVPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 NordVPN,Speed,Connection time,OpenVPN (UDP),tier_fast,0.10,benchmark_run
@@ -4296,14 +4296,14 @@ Total VPN,Speed,_section_total,WireGuard,,6.75,calculated
 Total VPN,Speed,_section_total,OpenVPN (UDP),,3.95,calculated
 Total VPN,Speed,_section_total,OpenVPN (TCP),,5.65,calculated
 Total VPN,Speed,_section_total,IKEv2/IPsec,,3.15,calculated
-Total VPN,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),6.54,calculated
+Total VPN,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),6.59,calculated
 Total VPN,Speed,_section_total_v3_protocol,WireGuard,,7.90,calculated
 Total VPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.57,calculated
 Total VPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.51,calculated
-Total VPN,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.16,calculated
+Total VPN,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.20,calculated
 Total VPN,Speed,_speed_v3_dl,Overall,,0.46,calculated
 Total VPN,Speed,_speed_v3_lat,Overall,,0.09,calculated
-Total VPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.564217, ""dl"": 0.460597, ""ul"": 0.017327, ""lat"": 0.086293, ""curve_score"": 6.16, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.56,calculated
+Total VPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.564819, ""dl"": 0.461638, ""ul"": 0.016858, ""lat"": 0.086322, ""curve_score"": 6.2, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.56,calculated
 Total VPN,Speed,_speed_v3_ul,Overall,,0.02,calculated
 Total VPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 Total VPN,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
