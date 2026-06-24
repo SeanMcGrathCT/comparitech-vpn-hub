@@ -1285,7 +1285,7 @@ ExpressVPN,Speed,_section_total_v3_global,Overall,,8.08,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,WireGuard,,8.77,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.17,calculated
 ExpressVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.76,calculated
-ExpressVPN,Speed,_section_total_v3_protocol,Lightway (UDP),,7.80,calculated
+ExpressVPN,Speed,_section_total_v3_protocol,Lightway (UDP),,7.81,calculated
 ExpressVPN,Speed,_section_total_v3_uk,Overall,,7.96,calculated
 ExpressVPN,Speed,_speed_v3_dl,Overall,,0.48,calculated
 ExpressVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
