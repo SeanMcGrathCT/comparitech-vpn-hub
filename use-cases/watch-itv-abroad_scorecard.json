@@ -321,7 +321,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.94,
+      "overall_score": 7.97,
       "sample_count": 78,
       "dimensions": {
         "stream_itvx_unblock_rate": {
