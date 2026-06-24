@@ -2673,7 +2673,7 @@ NordVPN,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
 NordVPN,Speed,_section_total,NordLynx,,7.50,calculated
 NordVPN,Speed,_section_total_v3_global,Overall,,6.80,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.52,calculated
-NordVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.42,calculated
+NordVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.37,calculated
 NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.81,calculated
 NordVPN,Speed,_section_total_v3_uk,Overall,,6.32,calculated
 NordVPN,Speed,_speed_v3_dl,Overall,,0.46,calculated
@@ -4064,15 +4064,15 @@ Surfshark,Speed,_section_total,WireGuard,,6.40,calculated
 Surfshark,Speed,_section_total,OpenVPN (UDP),,6.05,calculated
 Surfshark,Speed,_section_total,OpenVPN (TCP),,3.10,calculated
 Surfshark,Speed,_section_total,IKEv2/IPsec,,6.25,calculated
-Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.71,calculated
+Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.70,calculated
 Surfshark,Speed,_section_total_v3_protocol,WireGuard,,7.62,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.91,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.68,calculated
 Surfshark,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.98,calculated
-Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.44,calculated
+Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.43,calculated
 Surfshark,Speed,_speed_v3_dl,Overall,,0.44,calculated
 Surfshark,Speed,_speed_v3_lat,Overall,,0.08,calculated
-Surfshark,Speed,_speed_v3_raw,Overall,"{""raw"": 0.541257, ""dl"": 0.444969, ""ul"": 0.016551, ""lat"": 0.079736, ""curve_score"": 5.44, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.54,calculated
+Surfshark,Speed,_speed_v3_raw,Overall,"{""raw"": 0.540989, ""dl"": 0.444786, ""ul"": 0.01649, ""lat"": 0.079713, ""curve_score"": 5.43, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.54,calculated
 Surfshark,Speed,_speed_v3_ul,Overall,,0.02,calculated
 Surfshark,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 Surfshark,Speed,Connection time,WireGuard,tier_slow,0.00,benchmark_run
