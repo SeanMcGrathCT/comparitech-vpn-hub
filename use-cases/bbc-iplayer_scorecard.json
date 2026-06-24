@@ -229,7 +229,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.91,
+      "overall_score": 7.92,
       "sample_count": 60,
       "dimensions": {
         "stream_bbc_iplayer_unblock_rate": {
@@ -325,7 +325,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 6.26,
+      "overall_score": 6.27,
       "sample_count": 28,
       "dimensions": {
         "stream_bbc_iplayer_unblock_rate": {
@@ -373,7 +373,7 @@
       "included_in_chart": false,
       "exclusion_reason": "fails this use case's core service: 0% on BBC iPlayer unblock rate (n=5)",
       "exclusion_type": "auto_service_fail",
-      "overall_score": 7.13,
+      "overall_score": 7.12,
       "sample_count": 40,
       "dimensions": {
         "stream_bbc_iplayer_unblock_rate": {
