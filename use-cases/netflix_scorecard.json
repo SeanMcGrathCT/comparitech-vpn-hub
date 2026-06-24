@@ -273,7 +273,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.12,
+      "overall_score": 7.13,
       "sample_count": 59,
       "dimensions": {
         "stream_netflix_us_unblock_rate": {
