@@ -129,7 +129,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 6.99,
+      "overall_score": 6.98,
       "sample_count": 45,
       "dimensions": {
         "stream_itvx_unblock_rate": {
@@ -321,7 +321,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.89,
+      "overall_score": 7.88,
       "sample_count": 78,
       "dimensions": {
         "stream_itvx_unblock_rate": {
@@ -369,7 +369,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 6.18,
+      "overall_score": 6.19,
       "sample_count": 28,
       "dimensions": {
         "stream_itvx_unblock_rate": {
