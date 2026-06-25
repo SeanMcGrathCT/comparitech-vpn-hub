@@ -1125,15 +1125,15 @@ CyberGhost,Speed,_section_total,WireGuard,,7.10,calculated
 CyberGhost,Speed,_section_total,OpenVPN (UDP),,7.80,calculated
 CyberGhost,Speed,_section_total,OpenVPN (TCP),,7.80,calculated
 CyberGhost,Speed,_section_total,IKEv2/IPsec,,7.95,calculated
-CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),7.09,calculated
+CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),7.07,calculated
 CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,7.96,calculated
-CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.27,calculated
+CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.21,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.85,calculated
 CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.75,calculated
-CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.64,calculated
-CyberGhost,Speed,_speed_v3_dl,Overall,,0.47,calculated
+CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.62,calculated
+CyberGhost,Speed,_speed_v3_dl,Overall,,0.46,calculated
 CyberGhost,Speed,_speed_v3_lat,Overall,,0.09,calculated
-CyberGhost,Speed,_speed_v3_raw,Overall,"{""raw"": 0.583537, ""dl"": 0.465234, ""ul"": 0.025178, ""lat"": 0.093125, ""curve_score"": 6.64, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.58,calculated
+CyberGhost,Speed,_speed_v3_raw,Overall,"{""raw"": 0.582947, ""dl"": 0.464753, ""ul"": 0.025041, ""lat"": 0.093154, ""curve_score"": 6.62, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.58,calculated
 CyberGhost,Speed,_speed_v3_ul,Overall,,0.03,calculated
 CyberGhost,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 CyberGhost,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
@@ -4064,15 +4064,15 @@ Surfshark,Speed,_section_total,WireGuard,,6.40,calculated
 Surfshark,Speed,_section_total,OpenVPN (UDP),,6.05,calculated
 Surfshark,Speed,_section_total,OpenVPN (TCP),,3.10,calculated
 Surfshark,Speed,_section_total,IKEv2/IPsec,,6.25,calculated
-Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.82,calculated
+Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.83,calculated
 Surfshark,Speed,_section_total_v3_protocol,WireGuard,,7.66,calculated
-Surfshark,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.91,calculated
+Surfshark,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.95,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.68,calculated
 Surfshark,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.98,calculated
-Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.50,calculated
+Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.52,calculated
 Surfshark,Speed,_speed_v3_dl,Overall,,0.45,calculated
 Surfshark,Speed,_speed_v3_lat,Overall,,0.08,calculated
-Surfshark,Speed,_speed_v3_raw,Overall,"{""raw"": 0.544865, ""dl"": 0.447556, ""ul"": 0.017144, ""lat"": 0.080165, ""curve_score"": 5.5, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.54,calculated
+Surfshark,Speed,_speed_v3_raw,Overall,"{""raw"": 0.545654, ""dl"": 0.448207, ""ul"": 0.017304, ""lat"": 0.080144, ""curve_score"": 5.52, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.55,calculated
 Surfshark,Speed,_speed_v3_ul,Overall,,0.02,calculated
 Surfshark,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 Surfshark,Speed,Connection time,WireGuard,tier_slow,0.00,benchmark_run
