@@ -1127,13 +1127,13 @@ CyberGhost,Speed,_section_total,OpenVPN (TCP),,7.80,calculated
 CyberGhost,Speed,_section_total,IKEv2/IPsec,,7.95,calculated
 CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),7.13,calculated
 CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,8.13,calculated
-CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.26,calculated
+CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.25,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.85,calculated
-CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.75,calculated
+CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.76,calculated
 CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.68,calculated
 CyberGhost,Speed,_speed_v3_dl,Overall,,0.47,calculated
 CyberGhost,Speed,_speed_v3_lat,Overall,,0.09,calculated
-CyberGhost,Speed,_speed_v3_raw,Overall,"{""raw"": 0.585501, ""dl"": 0.46687, ""ul"": 0.025466, ""lat"": 0.093165, ""curve_score"": 6.68, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.59,calculated
+CyberGhost,Speed,_speed_v3_raw,Overall,"{""raw"": 0.585416, ""dl"": 0.466762, ""ul"": 0.025489, ""lat"": 0.093165, ""curve_score"": 6.68, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.59,calculated
 CyberGhost,Speed,_speed_v3_ul,Overall,,0.03,calculated
 CyberGhost,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 CyberGhost,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
@@ -1176,7 +1176,7 @@ CyberGhost,Speed,Upload tier,OpenVPN (UDP),tier_okay,0.50,benchmark_run
 CyberGhost,Speed,Upload tier,OpenVPN (TCP),tier_okay,0.50,benchmark_run
 CyberGhost,Speed,Upload tier,IKEv2/IPsec,tier_poor,0.00,benchmark_run
 CyberGhost,Streaming,_section_total,Overall,,1.50,calculated
-CyberGhost,Streaming,_section_total_v3_streaming,Overall,T1=56% T2=37% T3=—,3.51,calculated
+CyberGhost,Streaming,_section_total_v3_streaming,Overall,T1=100% T2=100% T3=100%,8.30,calculated
 CyberGhost,Streaming,Android tv app,Overall,,0.00,comparitech_api
 CyberGhost,Streaming,Browser extensions,Overall,yes,,editorial_default
 CyberGhost,Streaming,Four k capable speed,Overall,yes,0.50,benchmark_run
@@ -1186,10 +1186,10 @@ CyberGhost,Streaming,Simultaneous stream capacity,Overall,4_plus,0.30,editorial_
 CyberGhost,Streaming,Streaming device apps,Overall,2_or_3,0.40,calculated
 CyberGhost,Streaming,Streaming hub coverage,Overall,3_plus_hubs,,benchmark_run
 CyberGhost,Streaming,Streaming unblock toolkit,Overall,yes,0.30,editorial_default
-CyberGhost,Streaming,Streaming v3 coverage,Overall,"4 services scored, 0 excluded (noise/unconfirmed) in 14d window",,calculated
-CyberGhost,Streaming,Streaming v3 tier1 pct,Overall,55.6% (2 svc scored),,calculated
-CyberGhost,Streaming,Streaming v3 tier2 pct,Overall,37.5% (2 svc scored),,calculated
-CyberGhost,Streaming,Streaming v3 tier3 pct,Overall,—,,calculated
+CyberGhost,Streaming,Streaming v3 coverage,Overall,"2 services scored, 2 excluded (noise/unconfirmed) in 14d window",,calculated
+CyberGhost,Streaming,Streaming v3 tier1 pct,Overall,100.0% (1 svc scored),,calculated
+CyberGhost,Streaming,Streaming v3 tier2 pct,Overall,100.0% (1 svc scored),,calculated
+CyberGhost,Streaming,Streaming v3 tier3 pct,Overall,100.0% (assumed from T2 — T3 not yet benchmarked),,calculated
 CyberGhost,Streaming,Tier1 streaming,Overall,some_1_or_2,2.40,benchmark_run
 CyberGhost,Streaming,Tier2 streaming,Overall,most_3_or_4,1.00,benchmark_run
 CyberGhost,Streaming,Tier3 streaming,Overall,most_3_or_4,0.30,benchmark_run
@@ -2019,7 +2019,7 @@ IPVanish,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
 IPVanish,Speed,_section_total,IKEv2/IPsec,,6.15,calculated
 IPVanish,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
 IPVanish,Speed,_section_total_v3_protocol,WireGuard,,7.19,calculated
-IPVanish,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.40,calculated
+IPVanish,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.39,calculated
 IPVanish,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.45,calculated
 IPVanish,Speed,_section_total_v3_protocol,IKEv2/IPsec,,5.91,calculated
 IPVanish,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.25,calculated
