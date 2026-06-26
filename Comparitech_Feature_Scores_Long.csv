@@ -2495,11 +2495,11 @@ Mullvad VPN,EaseOfUse,Task specific servers,Overall,no,0.00,manual_admin
 Mullvad VPN,Security,_section_total,Overall,,7.20,calculated
 Mullvad VPN,Security,Anonymous payment,Overall,multiple,0.40,editorial_default
 Mullvad VPN,Security,Authentication strength,Overall,sha384_or_higher,0.30,calculated
-Mullvad VPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,editorial_default
+Mullvad VPN,Security,Dns leak pass rate,Overall,tier_pass,0.80,benchmark_run
 Mullvad VPN,Security,Encryption strength,Overall,aes_128_or_higher,0.60,calculated
 Mullvad VPN,Security,Hq jurisdiction,Overall,inside_14_eyes,0.00,editorial_default
 Mullvad VPN,Security,Independent audit,Overall,older,0.40,editorial_default
-Mullvad VPN,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,editorial_default
+Mullvad VPN,Security,Ipv4 leak pass rate,Overall,tier_pass,0.30,benchmark_run
 Mullvad VPN,Security,Ipv6 leak pass rate,Overall,tier_pass,0.80,editorial_default
 Mullvad VPN,Security,Kill switch effectiveness,Overall,effective,0.60,editorial_default
 Mullvad VPN,Security,Modern protocols,Overall,has_modern,0.70,calculated
@@ -2508,7 +2508,7 @@ Mullvad VPN,Security,Obfuscation available,Overall,yes,0.50,calculated
 Mullvad VPN,Security,Perfect forward secrecy,Overall,yes,0.30,calculated
 Mullvad VPN,Security,Restrictive region access,Overall,no,0.00,editorial_default
 Mullvad VPN,Security,Rsa key length,Overall,4096_plus,0.20,calculated
-Mullvad VPN,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,editorial_default
+Mullvad VPN,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,benchmark_run
 Mullvad VPN,Speed,_section_total,Overall,,7.80,calculated
 Mullvad VPN,Speed,_section_total_v3_global,Overall,,5.00,editorial_default
 Mullvad VPN,Speed,_section_total_v3_uk,Overall,,5.00,editorial_default
@@ -2535,10 +2535,18 @@ Mullvad VPN,Streaming,Tier2 streaming,Overall,most_3_or_4,1.00,benchmark_run
 Mullvad VPN,Streaming,Tier3 streaming,Overall,most_3_or_4,0.30,benchmark_run
 Mullvad VPN,Streaming,Works in high censorship countries,Overall,,0.00,comparitech_api
 Mullvad VPN,SystemPerformance,_section_total,Overall,,4.00,calculated
+Mullvad VPN,SystemPerformance,_section_total_v3_sysperf,Overall,0.02837,7.71,calculated
+Mullvad VPN,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.02837,7.71,calculated
 Mullvad VPN,SystemPerformance,Cpu tier,Overall,tier_okay,1.20,editorial_default
+Mullvad VPN,SystemPerformance,Idle delta cpu pct,Overall,-1.9600,,calculated
+Mullvad VPN,SystemPerformance,Idle delta cpu pct,WireGuard,-1.9600,,calculated
 Mullvad VPN,SystemPerformance,Idle delta cpu tier,Overall,tier_okay,0.00,editorial_default
+Mullvad VPN,SystemPerformance,Load efficiency per mbps,Overall,0.02837,,calculated
+Mullvad VPN,SystemPerformance,Load efficiency per mbps,WireGuard,0.02837,,calculated
 Mullvad VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_default
 Mullvad VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
+Mullvad VPN,SystemPerformance,Ram delta mb,Overall,431.3,,calculated
+Mullvad VPN,SystemPerformance,Ram delta mb,WireGuard,431.3,,calculated
 Mullvad VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Mullvad VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
 Mullvad VPN,ValueForMoney,_section_total,Overall,,5.55,calculated
@@ -2673,7 +2681,7 @@ NordVPN,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
 NordVPN,Speed,_section_total,NordLynx,,7.50,calculated
 NordVPN,Speed,_section_total_v3_global,Overall,,6.95,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.67,calculated
-NordVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.37,calculated
+NordVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.39,calculated
 NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.86,calculated
 NordVPN,Speed,_section_total_v3_uk,Overall,,6.46,calculated
 NordVPN,Speed,_speed_v3_dl,Overall,,0.47,calculated
