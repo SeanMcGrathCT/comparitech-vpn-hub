@@ -154,7 +154,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.02,
+      "overall_score": 6.99,
       "sample_count": 53,
       "dimensions": {
         "speed_us_retention_pct": {
@@ -216,7 +216,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.95,
+      "overall_score": 7.94,
       "sample_count": 54,
       "dimensions": {
         "speed_us_retention_pct": {
@@ -278,7 +278,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 7.85,
+      "overall_score": 8.03,
       "sample_count": 61,
       "dimensions": {
         "speed_us_retention_pct": {
@@ -464,7 +464,7 @@
       "included_in_chart": true,
       "exclusion_reason": null,
       "exclusion_type": null,
-      "overall_score": 6.2,
+      "overall_score": 6.15,
       "sample_count": 34,
       "dimensions": {
         "speed_us_retention_pct": {
