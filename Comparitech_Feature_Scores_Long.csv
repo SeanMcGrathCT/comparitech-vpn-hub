@@ -4075,7 +4075,7 @@ Surfshark,Speed,_section_total,IKEv2/IPsec,,6.25,calculated
 Surfshark,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),5.86,calculated
 Surfshark,Speed,_section_total_v3_protocol,WireGuard,,7.66,calculated
 Surfshark,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.94,calculated
-Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.68,calculated
+Surfshark,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.67,calculated
 Surfshark,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.98,calculated
 Surfshark,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.53,calculated
 Surfshark,Speed,_speed_v3_dl,Overall,,0.45,calculated
