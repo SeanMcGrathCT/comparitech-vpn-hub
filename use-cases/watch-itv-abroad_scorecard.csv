@@ -4,6 +4,6 @@ proton,ProtonVPN,2,9.49,true,,100,100,2.14,92.1074072826505,92.11,3.147351659985
 expressvpn,ExpressVPN,3,9.48,true,,100,100,2.14,90.26105024481281,90.26,3.0484792406097254,100,100,1.43,0.84,0.84,1.4275976,2.49,2.49,1.43,8.09,intro_monthly_equivalent
 ipvanish,IPVanish,4,9.42,true,,100,100,2.14,89.4648584347438,89.46,2.996290892240707,100,100,1.43,0.85,0.85,1.4275689999999999,2.19,2.19,1.43,6.78,intro_monthly_equivalent
 surfshark,Surfshark,5,9.2,true,,100,100,2.14,86.3852554111541,86.39,2.776407236356403,100,100,1.43,0.79,0.79,1.4277406,1.99,1.99,1.43,7.95,intro_monthly_equivalent
-nordvpn,NordVPN,6,9.07,true,,100,100,2.14,85.9058563740404,85.91,2.742178145106484,100,100,1.43,0.74,0.74,1.4278836,3.09,3.09,1.328756,7.84,intro_monthly_equivalent
+nordvpn,NordVPN,6,9.07,true,,100,100,2.14,85.9058563740404,85.91,2.742178145106484,100,100,1.43,0.74,0.74,1.4278836,3.09,3.09,1.328756,7.85,intro_monthly_equivalent
 totalvpn,Total VPN,7,8.85,true,,100,100,2.14,91.8389079414416,91.84,3.1329735202641977,100,100,1.43,0.94,0.94,1.4273116,8.25,8.25,0.72215,6.2,intro_monthly_equivalent
 hotspot_shield,Hotspot Shield,,0.74,false,"incomplete data for this use case: stream_itvx_unblock_rate, speed_uk_retention_pct, stream_netflix_uk_unblock_rate, latency_uk_p50_ms",,,0.0,,,0.0,,,0.0,,,0.0,7.99,7.99,0.744458,3.82,intro_monthly_equivalent

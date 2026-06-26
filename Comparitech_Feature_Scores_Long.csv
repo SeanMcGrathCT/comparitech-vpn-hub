@@ -2671,14 +2671,14 @@ NordVPN,Speed,_section_total,Overall,,7.80,calculated
 NordVPN,Speed,_section_total,OpenVPN (UDP),,5.50,calculated
 NordVPN,Speed,_section_total,OpenVPN (TCP),,6.65,calculated
 NordVPN,Speed,_section_total,NordLynx,,7.50,calculated
-NordVPN,Speed,_section_total_v3_global,Overall,,6.89,calculated
+NordVPN,Speed,_section_total_v3_global,Overall,,6.95,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.67,calculated
 NordVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.37,calculated
-NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.84,calculated
-NordVPN,Speed,_section_total_v3_uk,Overall,,6.41,calculated
-NordVPN,Speed,_speed_v3_dl,Overall,,0.46,calculated
+NordVPN,Speed,_section_total_v3_protocol,NordLynx,,7.86,calculated
+NordVPN,Speed,_section_total_v3_uk,Overall,,6.46,calculated
+NordVPN,Speed,_speed_v3_dl,Overall,,0.47,calculated
 NordVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
-NordVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.573027, ""dl"": 0.464235, ""ul"": 0.025608, ""lat"": 0.083184, ""curve_score"": 6.41, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.57,calculated
+NordVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.57535, ""dl"": 0.46632, ""ul"": 0.025781, ""lat"": 0.083249, ""curve_score"": 6.46, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.58,calculated
 NordVPN,Speed,_speed_v3_ul,Overall,,0.03,calculated
 NordVPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 NordVPN,Speed,Connection time,OpenVPN (UDP),tier_fast,0.10,benchmark_run
@@ -3466,14 +3466,14 @@ ProtonVPN,Speed,_section_total,Overall,,7.80,calculated
 ProtonVPN,Speed,_section_total,WireGuard,,5.40,calculated
 ProtonVPN,Speed,_section_total,OpenVPN (UDP),,6.70,calculated
 ProtonVPN,Speed,_section_total,OpenVPN (TCP),,5.40,calculated
-ProtonVPN,Speed,_section_total_v3_global,Overall,,5.68,calculated
+ProtonVPN,Speed,_section_total_v3_global,Overall,,5.71,calculated
 ProtonVPN,Speed,_section_total_v3_protocol,WireGuard,,7.38,calculated
 ProtonVPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,7.08,calculated
 ProtonVPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,4.95,calculated
-ProtonVPN,Speed,_section_total_v3_uk,Overall,,5.52,calculated
+ProtonVPN,Speed,_section_total_v3_uk,Overall,,5.53,calculated
 ProtonVPN,Speed,_speed_v3_dl,Overall,,0.45,calculated
 ProtonVPN,Speed,_speed_v3_lat,Overall,,0.08,calculated
-ProtonVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.545948, ""dl"": 0.451506, ""ul"": 0.014518, ""lat"": 0.079924, ""curve_score"": 5.52, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.55,calculated
+ProtonVPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.546278, ""dl"": 0.45152, ""ul"": 0.014849, ""lat"": 0.079909, ""curve_score"": 5.53, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.55,calculated
 ProtonVPN,Speed,_speed_v3_ul,Overall,,0.01,calculated
 ProtonVPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 ProtonVPN,Speed,Connection time,WireGuard,tier_slow,0.00,benchmark_run
@@ -4296,14 +4296,14 @@ Total VPN,Speed,_section_total,WireGuard,,6.75,calculated
 Total VPN,Speed,_section_total,OpenVPN (UDP),,3.95,calculated
 Total VPN,Speed,_section_total,OpenVPN (TCP),,5.65,calculated
 Total VPN,Speed,_section_total,IKEv2/IPsec,,3.15,calculated
-Total VPN,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),6.16,calculated
-Total VPN,Speed,_section_total_v3_protocol,WireGuard,,7.81,calculated
+Total VPN,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),6.23,calculated
+Total VPN,Speed,_section_total_v3_protocol,WireGuard,,7.83,calculated
 Total VPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.52,calculated
 Total VPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.51,calculated
-Total VPN,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.65,calculated
+Total VPN,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.68,calculated
 Total VPN,Speed,_speed_v3_dl,Overall,,0.45,calculated
 Total VPN,Speed,_speed_v3_lat,Overall,,0.09,calculated
-Total VPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.552965, ""dl"": 0.449587, ""ul"": 0.018297, ""lat"": 0.085082, ""curve_score"": 5.65, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.55,calculated
+Total VPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.554977, ""dl"": 0.450308, ""ul"": 0.01853, ""lat"": 0.08614, ""curve_score"": 5.68, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.55,calculated
 Total VPN,Speed,_speed_v3_ul,Overall,,0.02,calculated
 Total VPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 Total VPN,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
