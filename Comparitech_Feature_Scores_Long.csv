@@ -1195,19 +1195,19 @@ CyberGhost,Streaming,Tier2 streaming,Overall,most_3_or_4,1.00,benchmark_run
 CyberGhost,Streaming,Tier3 streaming,Overall,most_3_or_4,0.30,benchmark_run
 CyberGhost,Streaming,Works in high censorship countries,Overall,0,0.00,comparitech_api
 CyberGhost,SystemPerformance,_section_total,Overall,,4.00,calculated
-CyberGhost,SystemPerformance,_section_total_v3_sysperf,Overall,0.03575,7.43,calculated
-CyberGhost,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.03575,7.43,calculated
-CyberGhost,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.13159,6.59,calculated
-CyberGhost,SystemPerformance,Idle delta cpu pct,Overall,-0.1687,,calculated
-CyberGhost,SystemPerformance,Idle delta cpu pct,WireGuard,-0.1687,,calculated
+CyberGhost,SystemPerformance,_section_total_v3_sysperf,Overall,0.06319,6.59,calculated
+CyberGhost,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.06319,6.59,calculated
+CyberGhost,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.10882,6.59,calculated
+CyberGhost,SystemPerformance,Idle delta cpu pct,Overall,-0.2427,,calculated
+CyberGhost,SystemPerformance,Idle delta cpu pct,WireGuard,-0.2427,,calculated
 CyberGhost,SystemPerformance,Idle delta cpu pct,OpenVPN (UDP),-4.1653,,calculated
 CyberGhost,SystemPerformance,Idle delta cpu tier,Overall,tier_okay,0.00,editorial_default
-CyberGhost,SystemPerformance,Load efficiency per mbps,Overall,0.03575,,calculated
-CyberGhost,SystemPerformance,Load efficiency per mbps,WireGuard,0.03575,,calculated
-CyberGhost,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.13159,,calculated
+CyberGhost,SystemPerformance,Load efficiency per mbps,Overall,0.06319,,calculated
+CyberGhost,SystemPerformance,Load efficiency per mbps,WireGuard,0.06319,,calculated
+CyberGhost,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.10882,,calculated
 CyberGhost,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_default
-CyberGhost,SystemPerformance,Ram delta mb,Overall,143.7,,calculated
-CyberGhost,SystemPerformance,Ram delta mb,WireGuard,143.7,,calculated
+CyberGhost,SystemPerformance,Ram delta mb,Overall,141.5,,calculated
+CyberGhost,SystemPerformance,Ram delta mb,WireGuard,141.5,,calculated
 CyberGhost,SystemPerformance,Ram delta mb,OpenVPN (UDP),149.3,,calculated
 CyberGhost,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 CyberGhost,ValueForMoney,_section_total,Overall,,7.21,calculated
@@ -1351,20 +1351,20 @@ ExpressVPN,Streaming,Tier2 streaming,Overall,most_3_or_4,1.00,benchmark_run
 ExpressVPN,Streaming,Tier3 streaming,Overall,most_3_or_4,0.30,benchmark_run
 ExpressVPN,Streaming,Works in high censorship countries,Overall,1,1.00,comparitech_api
 ExpressVPN,SystemPerformance,_section_total,Overall,,4.00,calculated
-ExpressVPN,SystemPerformance,_section_total_v3_sysperf,Overall,0.05414,6.62,calculated
-ExpressVPN,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.04132,6.78,calculated
-ExpressVPN,SystemPerformance,_section_total_v3_sysperf_protocol,Lightway (UDP),0.05414,6.62,calculated
-ExpressVPN,SystemPerformance,Idle delta cpu pct,Overall,-3.3573,,calculated
+ExpressVPN,SystemPerformance,_section_total_v3_sysperf,Overall,0.05892,6.59,calculated
+ExpressVPN,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.04614,6.72,calculated
+ExpressVPN,SystemPerformance,_section_total_v3_sysperf_protocol,Lightway (UDP),0.05892,6.59,calculated
+ExpressVPN,SystemPerformance,Idle delta cpu pct,Overall,-3.3473,,calculated
 ExpressVPN,SystemPerformance,Idle delta cpu pct,OpenVPN (UDP),-3.2153,,calculated
-ExpressVPN,SystemPerformance,Idle delta cpu pct,Lightway (UDP),-3.3573,,calculated
+ExpressVPN,SystemPerformance,Idle delta cpu pct,Lightway (UDP),-3.3473,,calculated
 ExpressVPN,SystemPerformance,Idle delta cpu tier,Overall,tier_okay,0.00,editorial_default
-ExpressVPN,SystemPerformance,Load efficiency per mbps,Overall,0.05414,,calculated
-ExpressVPN,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.04132,,calculated
-ExpressVPN,SystemPerformance,Load efficiency per mbps,Lightway (UDP),0.05414,,calculated
+ExpressVPN,SystemPerformance,Load efficiency per mbps,Overall,0.05892,,calculated
+ExpressVPN,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.04614,,calculated
+ExpressVPN,SystemPerformance,Load efficiency per mbps,Lightway (UDP),0.05892,,calculated
 ExpressVPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_default
-ExpressVPN,SystemPerformance,Ram delta mb,Overall,207.5,,calculated
+ExpressVPN,SystemPerformance,Ram delta mb,Overall,208.3,,calculated
 ExpressVPN,SystemPerformance,Ram delta mb,OpenVPN (UDP),203.3,,calculated
-ExpressVPN,SystemPerformance,Ram delta mb,Lightway (UDP),207.5,,calculated
+ExpressVPN,SystemPerformance,Ram delta mb,Lightway (UDP),208.3,,calculated
 ExpressVPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 ExpressVPN,ValueForMoney,_section_total,Overall,,6.71,calculated
 ExpressVPN,ValueForMoney,Anonymous payments vfm,Overall,multiple,0.50,editorial_default
@@ -2087,16 +2087,16 @@ IPVanish,Streaming,Tier2 streaming,Overall,none,0.00,benchmark_run
 IPVanish,Streaming,Tier3 streaming,Overall,some_1_or_2,0.10,benchmark_run
 IPVanish,Streaming,Works in high censorship countries,Overall,0,0.00,comparitech_api
 IPVanish,SystemPerformance,_section_total,Overall,,4.00,calculated
-IPVanish,SystemPerformance,_section_total_v3_sysperf,Overall,0.03155,7.71,calculated
-IPVanish,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.03155,7.71,calculated
-IPVanish,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.05124,6.66,calculated
+IPVanish,SystemPerformance,_section_total_v3_sysperf,Overall,0.04013,6.86,calculated
+IPVanish,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.04013,6.86,calculated
+IPVanish,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.07047,6.59,calculated
 IPVanish,SystemPerformance,Idle delta cpu pct,Overall,-0.9293,,calculated
 IPVanish,SystemPerformance,Idle delta cpu pct,WireGuard,-0.9293,,calculated
 IPVanish,SystemPerformance,Idle delta cpu pct,OpenVPN (UDP),-1.3773,,calculated
 IPVanish,SystemPerformance,Idle delta cpu tier,Overall,tier_okay,0.00,editorial_default
-IPVanish,SystemPerformance,Load efficiency per mbps,Overall,0.03155,,calculated
-IPVanish,SystemPerformance,Load efficiency per mbps,WireGuard,0.03155,,calculated
-IPVanish,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.05124,,calculated
+IPVanish,SystemPerformance,Load efficiency per mbps,Overall,0.04013,,calculated
+IPVanish,SystemPerformance,Load efficiency per mbps,WireGuard,0.04013,,calculated
+IPVanish,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.07047,,calculated
 IPVanish,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_default
 IPVanish,SystemPerformance,Ram delta mb,Overall,297.3,,calculated
 IPVanish,SystemPerformance,Ram delta mb,WireGuard,297.3,,calculated
@@ -2535,9 +2535,10 @@ Mullvad VPN,Speed,Speed consistency,Overall,tier_consistent,1.00,editorial_defau
 Mullvad VPN,Speed,Speed consistency,WireGuard,tier_variable,0.30,benchmark_run
 Mullvad VPN,Speed,Upload tier,Overall,tier_good,1.00,editorial_default
 Mullvad VPN,Speed,Upload tier,WireGuard,tier_okay,0.50,benchmark_run
-Mullvad VPN,Streaming,_section_total,Overall,,0.30,calculated
+Mullvad VPN,Streaming,_section_total,Overall,,0.80,calculated
 Mullvad VPN,Streaming,Android tv app,Overall,,0.00,comparitech_api
 Mullvad VPN,Streaming,Browser extensions,Overall,no,,editorial_default
+Mullvad VPN,Streaming,Four k capable speed,Overall,yes,0.50,benchmark_run
 Mullvad VPN,Streaming,Includes ad blocker,Overall,,0.00,comparitech_api
 Mullvad VPN,Streaming,Number of locations in relevant country,Overall,<5,1.20,comparitech_api
 Mullvad VPN,Streaming,Offers a smart dns service,Overall,,0.00,comparitech_api
@@ -2550,18 +2551,18 @@ Mullvad VPN,Streaming,Tier2 streaming,Overall,most_3_or_4,1.00,benchmark_run
 Mullvad VPN,Streaming,Tier3 streaming,Overall,most_3_or_4,0.30,benchmark_run
 Mullvad VPN,Streaming,Works in high censorship countries,Overall,,0.00,comparitech_api
 Mullvad VPN,SystemPerformance,_section_total,Overall,,4.00,calculated
-Mullvad VPN,SystemPerformance,_section_total_v3_sysperf,Overall,0.02837,7.71,calculated
-Mullvad VPN,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.02837,7.71,calculated
+Mullvad VPN,SystemPerformance,_section_total_v3_sysperf,Overall,0.03512,7.50,calculated
+Mullvad VPN,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.03512,7.50,calculated
 Mullvad VPN,SystemPerformance,Cpu tier,Overall,tier_okay,1.20,editorial_default
-Mullvad VPN,SystemPerformance,Idle delta cpu pct,Overall,-1.9600,,calculated
-Mullvad VPN,SystemPerformance,Idle delta cpu pct,WireGuard,-1.9600,,calculated
+Mullvad VPN,SystemPerformance,Idle delta cpu pct,Overall,-2.3893,,calculated
+Mullvad VPN,SystemPerformance,Idle delta cpu pct,WireGuard,-2.3893,,calculated
 Mullvad VPN,SystemPerformance,Idle delta cpu tier,Overall,tier_okay,0.00,editorial_default
-Mullvad VPN,SystemPerformance,Load efficiency per mbps,Overall,0.02837,,calculated
-Mullvad VPN,SystemPerformance,Load efficiency per mbps,WireGuard,0.02837,,calculated
+Mullvad VPN,SystemPerformance,Load efficiency per mbps,Overall,0.03512,,calculated
+Mullvad VPN,SystemPerformance,Load efficiency per mbps,WireGuard,0.03512,,calculated
 Mullvad VPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_default
 Mullvad VPN,SystemPerformance,Network overhead tier,Overall,tier_okay,1.00,editorial_default
-Mullvad VPN,SystemPerformance,Ram delta mb,Overall,431.3,,calculated
-Mullvad VPN,SystemPerformance,Ram delta mb,WireGuard,431.3,,calculated
+Mullvad VPN,SystemPerformance,Ram delta mb,Overall,368.0,,calculated
+Mullvad VPN,SystemPerformance,Ram delta mb,WireGuard,368.0,,calculated
 Mullvad VPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Mullvad VPN,SystemPerformance,Ram tier,Overall,tier_okay,1.20,editorial_default
 Mullvad VPN,ValueForMoney,_section_total,Overall,,5.55,calculated
@@ -3550,19 +3551,19 @@ ProtonVPN,Streaming,Tier2 streaming,Overall,most_3_or_4,1.00,benchmark_run
 ProtonVPN,Streaming,Tier3 streaming,Overall,most_3_or_4,0.30,benchmark_run
 ProtonVPN,Streaming,Works in high censorship countries,Overall,1,1.00,comparitech_api
 ProtonVPN,SystemPerformance,_section_total,Overall,,4.00,calculated
-ProtonVPN,SystemPerformance,_section_total_v3_sysperf,Overall,0.03587,7.42,calculated
-ProtonVPN,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.03587,7.42,calculated
-ProtonVPN,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.05721,6.59,calculated
-ProtonVPN,SystemPerformance,Idle delta cpu pct,Overall,-0.3263,,calculated
-ProtonVPN,SystemPerformance,Idle delta cpu pct,WireGuard,-0.3263,,calculated
+ProtonVPN,SystemPerformance,_section_total_v3_sysperf,Overall,0.04257,6.76,calculated
+ProtonVPN,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.04257,6.76,calculated
+ProtonVPN,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.06422,6.59,calculated
+ProtonVPN,SystemPerformance,Idle delta cpu pct,Overall,-0.3307,,calculated
+ProtonVPN,SystemPerformance,Idle delta cpu pct,WireGuard,-0.3307,,calculated
 ProtonVPN,SystemPerformance,Idle delta cpu pct,OpenVPN (UDP),-0.3880,,calculated
 ProtonVPN,SystemPerformance,Idle delta cpu tier,Overall,tier_okay,0.00,editorial_default
-ProtonVPN,SystemPerformance,Load efficiency per mbps,Overall,0.03587,,calculated
-ProtonVPN,SystemPerformance,Load efficiency per mbps,WireGuard,0.03587,,calculated
-ProtonVPN,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.05721,,calculated
+ProtonVPN,SystemPerformance,Load efficiency per mbps,Overall,0.04257,,calculated
+ProtonVPN,SystemPerformance,Load efficiency per mbps,WireGuard,0.04257,,calculated
+ProtonVPN,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.06422,,calculated
 ProtonVPN,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_default
-ProtonVPN,SystemPerformance,Ram delta mb,Overall,65.5,,calculated
-ProtonVPN,SystemPerformance,Ram delta mb,WireGuard,65.5,,calculated
+ProtonVPN,SystemPerformance,Ram delta mb,Overall,72.9,,calculated
+ProtonVPN,SystemPerformance,Ram delta mb,WireGuard,72.9,,calculated
 ProtonVPN,SystemPerformance,Ram delta mb,OpenVPN (UDP),82.3,,calculated
 ProtonVPN,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 ProtonVPN,ValueForMoney,_section_total,Overall,,7.76,calculated
@@ -4157,19 +4158,19 @@ Surfshark,Streaming,Tier2 streaming,Overall,most_3_or_4,1.00,benchmark_run
 Surfshark,Streaming,Tier3 streaming,Overall,all_5,0.50,benchmark_run
 Surfshark,Streaming,Works in high censorship countries,Overall,1,1.00,comparitech_api
 Surfshark,SystemPerformance,_section_total,Overall,,4.00,calculated
-Surfshark,SystemPerformance,_section_total_v3_sysperf,Overall,0.03543,7.47,calculated
-Surfshark,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.03543,7.47,calculated
-Surfshark,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.03163,7.71,calculated
-Surfshark,SystemPerformance,Idle delta cpu pct,Overall,-1.3473,,calculated
-Surfshark,SystemPerformance,Idle delta cpu pct,WireGuard,-1.3473,,calculated
+Surfshark,SystemPerformance,_section_total_v3_sysperf,Overall,0.03573,7.43,calculated
+Surfshark,SystemPerformance,_section_total_v3_sysperf_protocol,WireGuard,0.03573,7.43,calculated
+Surfshark,SystemPerformance,_section_total_v3_sysperf_protocol,OpenVPN (UDP),0.03181,7.71,calculated
+Surfshark,SystemPerformance,Idle delta cpu pct,Overall,-1.3000,,calculated
+Surfshark,SystemPerformance,Idle delta cpu pct,WireGuard,-1.3000,,calculated
 Surfshark,SystemPerformance,Idle delta cpu pct,OpenVPN (UDP),-1.0763,,calculated
 Surfshark,SystemPerformance,Idle delta cpu tier,Overall,tier_okay,0.00,editorial_default
-Surfshark,SystemPerformance,Load efficiency per mbps,Overall,0.03543,,calculated
-Surfshark,SystemPerformance,Load efficiency per mbps,WireGuard,0.03543,,calculated
-Surfshark,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.03163,,calculated
+Surfshark,SystemPerformance,Load efficiency per mbps,Overall,0.03573,,calculated
+Surfshark,SystemPerformance,Load efficiency per mbps,WireGuard,0.03573,,calculated
+Surfshark,SystemPerformance,Load efficiency per mbps,OpenVPN (UDP),0.03181,,calculated
 Surfshark,SystemPerformance,Load efficiency tier,Overall,tier_okay,4.00,editorial_default
-Surfshark,SystemPerformance,Ram delta mb,Overall,365.6,,calculated
-Surfshark,SystemPerformance,Ram delta mb,WireGuard,365.6,,calculated
+Surfshark,SystemPerformance,Ram delta mb,Overall,366.7,,calculated
+Surfshark,SystemPerformance,Ram delta mb,WireGuard,366.7,,calculated
 Surfshark,SystemPerformance,Ram delta mb,OpenVPN (UDP),328.6,,calculated
 Surfshark,SystemPerformance,Ram delta tier,Overall,tier_okay,0.00,editorial_default
 Surfshark,ValueForMoney,_section_total,Overall,,7.30,calculated
@@ -4319,14 +4320,14 @@ Total VPN,Speed,_section_total,WireGuard,,6.75,calculated
 Total VPN,Speed,_section_total,OpenVPN (UDP),,3.95,calculated
 Total VPN,Speed,_section_total,OpenVPN (TCP),,5.65,calculated
 Total VPN,Speed,_section_total,IKEv2/IPsec,,3.15,calculated
-Total VPN,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),6.27,calculated
+Total VPN,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),6.28,calculated
 Total VPN,Speed,_section_total_v3_protocol,WireGuard,,7.84,calculated
 Total VPN,Speed,_section_total_v3_protocol,OpenVPN (UDP),,5.52,calculated
 Total VPN,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.51,calculated
-Total VPN,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.70,calculated
+Total VPN,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),5.71,calculated
 Total VPN,Speed,_speed_v3_dl,Overall,,0.45,calculated
 Total VPN,Speed,_speed_v3_lat,Overall,,0.09,calculated
-Total VPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.55616, ""dl"": 0.451581, ""ul"": 0.018423, ""lat"": 0.086156, ""curve_score"": 5.7, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.56,calculated
+Total VPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.556341, ""dl"": 0.451721, ""ul"": 0.018495, ""lat"": 0.086125, ""curve_score"": 5.71, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.56,calculated
 Total VPN,Speed,_speed_v3_ul,Overall,,0.02,calculated
 Total VPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 Total VPN,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
