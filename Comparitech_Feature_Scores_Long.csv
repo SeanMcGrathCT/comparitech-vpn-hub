@@ -1125,15 +1125,15 @@ CyberGhost,Speed,_section_total,WireGuard,,7.10,calculated
 CyberGhost,Speed,_section_total,OpenVPN (UDP),,7.80,calculated
 CyberGhost,Speed,_section_total,OpenVPN (TCP),,7.80,calculated
 CyberGhost,Speed,_section_total,IKEv2/IPsec,,7.95,calculated
-CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),7.16,calculated
-CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,8.28,calculated
+CyberGhost,Speed,_section_total_v3_global,Overall,withheld: insufficient coverage (see _coverage row),7.15,calculated
+CyberGhost,Speed,_section_total_v3_protocol,WireGuard,,8.25,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (UDP),,6.25,calculated
 CyberGhost,Speed,_section_total_v3_protocol,OpenVPN (TCP),,5.85,calculated
 CyberGhost,Speed,_section_total_v3_protocol,IKEv2/IPsec,,6.76,calculated
-CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.72,calculated
+CyberGhost,Speed,_section_total_v3_uk,Overall,withheld: insufficient coverage (see _coverage row),6.71,calculated
 CyberGhost,Speed,_speed_v3_dl,Overall,,0.47,calculated
 CyberGhost,Speed,_speed_v3_lat,Overall,,0.09,calculated
-CyberGhost,Speed,_speed_v3_raw,Overall,"{""raw"": 0.587487, ""dl"": 0.468582, ""ul"": 0.025724, ""lat"": 0.093181, ""curve_score"": 6.72, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.59,calculated
+CyberGhost,Speed,_speed_v3_raw,Overall,"{""raw"": 0.586945, ""dl"": 0.467726, ""ul"": 0.026041, ""lat"": 0.093178, ""curve_score"": 6.71, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.59,calculated
 CyberGhost,Speed,_speed_v3_ul,Overall,,0.03,calculated
 CyberGhost,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 CyberGhost,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
@@ -2512,12 +2512,12 @@ Mullvad VPN,Security,Webrtc leak pass rate,Overall,tier_pass,0.80,benchmark_run
 Mullvad VPN,Speed,_coverage,Overall,"{""status"": ""partial"", ""count"": 6, ""expected"": 7, ""countries"": [""AU"", ""BR"", ""DE"", ""GB"", ""JP"", ""US""], ""has_core"": true, ""has_far"": true, ""panel"": [""AU"", ""BR"", ""DE"", ""GB"", ""JP"", ""US"", ""ZA""]}",8.57,calculated
 Mullvad VPN,Speed,_section_total,Overall,,7.80,calculated
 Mullvad VPN,Speed,_section_total,WireGuard,,5.95,calculated
-Mullvad VPN,Speed,_section_total_v3_global,Overall,,5.60,calculated
-Mullvad VPN,Speed,_section_total_v3_protocol,WireGuard,,7.19,calculated
-Mullvad VPN,Speed,_section_total_v3_uk,Overall,,5.25,calculated
-Mullvad VPN,Speed,_speed_v3_dl,Overall,,0.46,calculated
+Mullvad VPN,Speed,_section_total_v3_global,Overall,,6.13,calculated
+Mullvad VPN,Speed,_section_total_v3_protocol,WireGuard,,7.25,calculated
+Mullvad VPN,Speed,_section_total_v3_uk,Overall,,5.47,calculated
+Mullvad VPN,Speed,_speed_v3_dl,Overall,,0.47,calculated
 Mullvad VPN,Speed,_speed_v3_lat,Overall,,0.06,calculated
-Mullvad VPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.529141, ""dl"": 0.455414, ""ul"": 0.010242, ""lat"": 0.063485, ""curve_score"": 5.25, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.53,calculated
+Mullvad VPN,Speed,_speed_v3_raw,Overall,"{""raw"": 0.542828, ""dl"": 0.469158, ""ul"": 0.010273, ""lat"": 0.063396, ""curve_score"": 5.47, ""curve_flavor"": ""uk_weighted"", ""curve_field_size"": 7, ""curve_score_min"": 5.0, ""curve_score_max"": 8.5}",0.54,calculated
 Mullvad VPN,Speed,_speed_v3_ul,Overall,,0.01,calculated
 Mullvad VPN,Speed,Connection time,Overall,tier_okay,0.05,editorial_default
 Mullvad VPN,Speed,Connection time,WireGuard,tier_okay,0.05,benchmark_run
